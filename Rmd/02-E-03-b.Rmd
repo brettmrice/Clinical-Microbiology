@@ -1,0 +1,83 @@
+# Otitis Media & Sinusitis {-}
+
+Accurate diagnosis of otitis media (middle ear infection) and sinusitis (sinus infection) is essential for appropriate treatment and prevention of complications. This requires the identification of the causative bacterial pathogens. Since the middle ear and sinuses are normally sterile, the lab plays a key role
+
+## **General Principles** {-}
+
+*   **Sterile Sites:** The middle ear and sinuses are considered sterile. The presence of bacteria indicates infection
+*   **Common Pathogens:** A few bacteria account for the majority of infections
+*   **Specimen Collection**
+    *   **Otitis Media:** Performed by a physician (otolaryngologist)
+    *   **Sinusitis:** Performed by a physician (otolaryngologist)
+*   **Culture:** Isolating and identifying the bacterial pathogens is essential
+*   **Gram Stain:** A Gram stain can be helpful in making a presumptive diagnosis
+*   **Antimicrobial Susceptibility Testing:** Antimicrobial susceptibility testing is essential for guiding treatment
+
+## **Major Pathogens: Colony Morphology, Gram Stain, and Identification** {-}
+
+### ***Haemophilus influenzae*** {-}
+*   **Source:** Middle ear fluid, sinus aspirate
+*   **Colony Morphology**
+    *   **CHOC:** Small, gray, translucent, slightly mucoid colonies. "Mousy" odor
+    *   **BAP:** Will only grow with V factor (NAD) and X factor (hemin)
+*   **Gram Stain:** Gram-negative coccobacilli or pleomorphic rods
+*   **Identification**
+    *   **X and V Factor Requirement:** Requires both X factor (hemin) and V factor (NAD) for growth (use of factor strips or a quad plate)
+    *   **Commercial Identification Systems**
+
+### ***Streptococcus pneumoniae*** {-}
+*   **Source:** Middle ear fluid, sinus aspirate
+*   **Colony Morphology**
+    *   **BAP:** Small, gray, mucoid, glistening colonies. May have a characteristic "draughtsman" appearance (a central raised area and a flattened peripheral edge)
+    *   **Hemolysis:** Alpha-hemolytic (greening around the colonies)
+*   **Gram Stain:** Gram-positive, lancet-shaped diplococci (pairs of cocci)
+*   **Identification**
+    *   **Catalase:** Negative
+    *   **Optochin Susceptibility:** Susceptible (zone of inhibition around the optochin disk)
+    *   **Bile Solubility:** Positive (colonies dissolve in bile or a bile salt solution)
+
+### ***Moraxella catarrhalis*** {-}
+*   **Source:** Middle ear fluid, sinus aspirate
+*   **Colony Morphology**
+    *   **BAP:** Gray, opaque, smooth, and non-hemolytic colonies
+    *   **Appearance:** Often described as "hockey puck" colonies
+*   **Gram Stain:** Gram-negative diplococci (kidney bean-shaped)
+*   **Identification**
+    *   **Oxidase:** Positive
+    *   **DNase:** Positive
+    *   **Butyrate Esterase:** Positive
+    *   **Commercial Identification Systems**
+
+## **Additional Considerations** {-}
+
+*   **Interpretation:** Carefully interpret the results. Remember, the middle ear and sinuses are sterile
+*   **Prompt Communication:** Quickly communicate results to the clinician
+*   **Antimicrobial Susceptibility Testing:** Often a standard, if requested
+*   **Other Organisms:** *Staphylococcus aureus* is less common, but possible, especially with prior infections
+*   **Specimen Source:** Collection is critical
+*   **Chronic Infections:** The organisms can differ
+
+## **Key Terms** {-}
+
+*   **Otitis Media:** Middle ear infection
+*   **Sinusitis:** Sinus infection
+*   **Middle Ear Fluid:** Fluid from the middle ear
+*   **Sinus Aspirate:** Fluid from the sinuses
+*   ***Haemophilus influenzae***: Gram-negative bacterium
+*   ***Streptococcus pneumoniae***: Alpha-hemolytic bacteria
+*   ***Moraxella catarrhalis***: Gram-negative bacteria
+*   **BAP (Blood Agar Plate):** A general-purpose culture medium
+*   **CHOC:** Chocolate agar plate
+*   **Gram Stain:** Staining technique to differentiate bacteria
+*   **X and V Factors:** Required for *H. influenzae* growth
+*   **Alpha-Hemolysis:** Partial lysis of red blood cells
+*   **Colony Morphology:** The visual characteristics of bacterial colonies on culture media (e.g., size, shape, color, texture)
+*   **Oxidase Test:** Biochemical test to detect cytochrome c oxidase
+*   **DNase Test:** Test to detect the enzyme DNase
+*   **Butyrate Esterase Test:** Test to determine the presence of butyrate esterase
+*   **Commercial Identification System:** System that uses pre-packaged biochemical tests for identifying microorganisms
+*   **Antimicrobial Susceptibility Testing:** Laboratory tests performed to determine the susceptibility of a bacterial isolate to various antibiotics
+*   **Diplococci:** Cocci arranged in pairs
+*   **Hockey puck colonies:** a characteristic of *M. catarrhalis*
+*   **Fastidious:** Organisms with complex growth requirements
+*   **Specimen quality:** Proper collection and handling of specimens

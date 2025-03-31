@@ -1,0 +1,185 @@
+# Morphology & Growth {-}
+
+Colony morphology and growth characteristics are  crucial aspects of mycology, as they often provide the first clues to identifying a particular fungus. We'll cover the key features to observe, how temperature and incubation time affect growth, and then highlight the characteristics of some major pathogens
+
+## **Key Features of Colony Morphology** {-}
+
+When examining a fungal colony, consider the following characteristics:
+
+*   **Growth Rate:** How quickly does the colony grow? (e.g., rapid, moderate, slow)
+*   **Texture:** What is the surface texture of the colony? (e.g., cottony, woolly, granular, velvety, glabrous/smooth, waxy)
+*   **Elevation:** How does the colony rise above the agar surface? (e.g., flat, raised, heaped, rugose/wrinkled)
+*   **Margin:** What is the edge of the colony like? (e.g., smooth, irregular, filamentous, lobate)
+*   **Color (Top and Reverse):** What color is the colony on the surface? What color is the underside of the colony (visible through the agar)? Pigment production can be key for identification
+*   **Other Features:** Are there any other notable features, such as:
+    *   **Exudate:** Production of droplets on the colony surface
+    *   **Diffusible Pigment:** Pigment that spreads into the agar
+    *   **Zonation:** Concentric rings of different colors or textures
+
+## **Impact of Temperature and Incubation Time** {-}
+
+*   **Temperature**
+    *   Most fungi grow optimally at temperatures between 25-30°C, which is why this is the standard incubation temperature for fungal cultures
+    *   Some fungi grow better at 35-37°C, which mimics body temperature and can help in identifying the tissue form of dimorphic fungi
+    *   Temperature can also affect colony morphology and pigment production
+*   **Incubation Time**
+    *   Fungi generally grow slower than bacteria, so fungal cultures require longer incubation times
+    *   Most fungal cultures are incubated for up to 4 weeks (28 days), with regular observation for growth
+    *   Some slow-growing fungi may require even longer incubation times
+
+## **Colony Morphology and Growth Characteristics of Major Pathogens** {-}
+
+Here's a breakdown of the colony morphology and growth characteristics of some common fungal pathogens:
+
+### **Yeasts** {-}
+
+*   ***Candida spp.***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Creamy, smooth
+    *   **Color:** Typically white or cream-colored. Some species produce distinctive colors on chromogenic agar
+    *   **Temperature:** Grows well at 25-37°C
+*   ***Cryptococcus neoformans***
+    *   **Growth Rate:** Moderate
+    *   **Texture:** Mucoid (slimy)
+    *   **Color:** White to tan
+    *   **Temperature:** Grows well at 25-37°C
+*   ***Malassezia furfur***
+    *   **Growth Rate:** Slow
+    *   **Texture:** Creamy, smooth
+    *   **Color:** Cream-colored to slightly yellow
+    *   **Lipid Dependence:** Requires lipid supplementation in the culture medium (e.g., olive oil)
+    *   **Temperature:** Grows well at 30-35°C
+
+### **Dimorphic Fungi** {-}
+
+*   ***Histoplasma capsulatum***
+    *   **Mold Form (25-30°C)**
+        *   **Growth Rate:** Slow
+        *   **Texture:** Cottony or woolly
+        *   **Color:** White to brown
+    *   **Yeast Form (35-37°C)**
+        *   **Growth Rate:** Moderate
+        *   **Texture:** Smooth, creamy
+        *   **Color:** Tan to brown
+*   ***Blastomyces dermatitidis***
+    *   **Mold Form (25-30°C)**
+        *   **Growth Rate:** Slow
+        *   **Texture:** Fluffy or cottony
+        *   **Color:** White to tan
+    *   **Yeast Form (35-37°C)**
+        *   **Growth Rate:** Moderate
+        *   **Texture:** Wrinkled, creamy
+        *   **Color:** Cream-colored to tan
+*   ***Coccidioides immitis***
+    *   **Mold Form (25-30°C)**
+        *   **Growth Rate:** Rapid
+        *   **Texture:** Fluffy or cottony
+        *   **Color:** White to gray
+        *   **Hazardous:** Produces highly infectious arthroconidia
+    *   **Spherule Formation (in vivo or specialized media):** Not typically observed on routine culture
+*   ***Sporothrix schenckii***
+    *   **Mold Form (25-30°C)**
+        *   **Growth Rate:** Moderate
+        *   **Texture:** Initially moist and white, becoming dark brown or black with age
+        *   **Color:** White to dark brown/black
+    *   **Yeast Form (35-37°C)**
+        *   **Growth Rate:** Moderate
+        *   **Texture:** Creamy
+        *   **Color:** Cream-colored to tan
+
+### **Dermatophytes** {-}
+
+*   ***Trichophyton rubrum***
+    *   **Growth Rate:** Slow to moderate
+    *   **Texture:** Variable (cottony, granular, fluffy)
+    *   **Color (Top):** White to reddish
+    *   **Color (Reverse):** Red
+*   ***Trichophyton mentagrophytes***
+    *   **Growth Rate:** Moderate to rapid
+    *   **Texture:** Variable (cottony, granular, fluffy)
+    *   **Color (Top):** White to cream-colored
+    *   **Color (Reverse):** Tan to brown
+*   ***Microsporum canis***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Fluffy or cottony
+    *   **Color (Top):** White to yellowish
+    *   **Color (Reverse):** Bright yellow
+
+### **Mucorales (Zygomycetes)** {-}
+
+*   ***Rhizopus spp.***
+    *   **Growth Rate:** Very rapid (fills the plate in a few days)
+    *   **Texture:** Cottony, fluffy
+    *   **Color:** White to gray
+*   ***Mucor spp.***
+    *   **Growth Rate:** Very rapid
+    *   **Texture:** Cottony, fluffy
+    *   **Color:** White to gray
+
+### **Hyaline Molds** {-}
+
+*   ***Aspergillus fumigatus***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Velvety or granular
+    *   **Color:** Blue-green to gray-green
+    *   **Temperature:** Grows well at 37°C
+*   ***Fusarium spp.***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Cottony or fluffy
+    *   **Color:** Variable (white, pink, purple)
+*   ***Penicillium spp.***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Velvety or powdery
+    *   **Color:** Green to blue-green with a white border
+*   ***Scedosporium apiospermum***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Cottony or velvety
+    *   **Color:** Gray to brown
+
+### **Dematiaceous Molds** {-}
+
+*   ***Alternaria spp.***
+    *   **Growth Rate:** Rapid
+    *   **Texture:** Woolly or cottony
+    *   **Color:** Dark brown to black
+*   ***Cladosporium spp.***
+    *   **Growth Rate:** Slow to moderate
+    *   **Texture:** Velvety or powdery
+    *   **Color:** Dark green to black
+*   ***Fonsecaea spp.***
+    *   **Growth Rate:** Slow
+    *   **Texture:** Velvety or waxy
+    *   **Color:** Dark green to black
+
+## **Important Considerations** {-}
+
+*   **Variability:** Colony morphology can vary depending on the culture medium, temperature, and other factors
+*   **Microscopic Examination:** Colony morphology is just the first step in identification. Microscopic examination of the fungal structures (hyphae, conidia) is essential for accurate identification
+*   **Reference Materials:** Use reference materials (e.g., textbooks, online resources) to compare your observations with known characteristics of different fungal species
+*   **Experience:** With experience, you'll become more familiar with the colony morphology of common fungal pathogens
+
+## **Key Takeaways** {-}
+
+*   Colony morphology and growth characteristics are important tools for identifying fungi
+*   Consider growth rate, texture, elevation, margin, color, and other features
+*   Temperature and incubation time can affect colony morphology
+*   Use reference materials and experience to accurately identify fungal species
+
+## **Key Terms** {-}
+
+*   **Colony Morphology:** The macroscopic appearance of a fungal colony on a culture medium
+*   **Growth Rate:** The speed at which a fungal colony grows
+*   **Texture:** The surface appearance of a fungal colony (e.g., cottony, granular)
+*   **Elevation:** The height of a fungal colony above the agar surface
+*   **Margin:** The edge of a fungal colony
+*   **Top Color:** The color of the top surface of a fungal colony
+*   **Reverse Color:** The color of the underside of a fungal colony (visible through the agar)
+*   **Exudate:** Liquid droplets produced on the surface of a fungal colony
+*   **Diffusible Pigment:** Pigment that spreads into the agar surrounding a fungal colony
+*   **Zonation:** Concentric rings of different colors or textures within a fungal colony
+*   **SDA:** Sabouraud Dextrose Agar, a common fungal culture medium
+*   **BHI:** Brain-Heart Infusion agar, an enriched fungal culture medium
+*   **Lipid Supplementation:** Addition of lipids (e.g., olive oil) to a culture medium to support the growth of lipid-dependent fungi (e.g., *Malassezia*)
+*   **Arthroconidia:** A type of asexual spore formed by the fragmentation of hyphae, characteristic of *Coccidioides*
+*   **Hazardous:** Potentially dangerous or infectious, requiring special handling precautions
+*   **Reference Materials:** Textbooks, online resources, or other materials used to compare observations and identify fungal species

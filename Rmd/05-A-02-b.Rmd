@@ -1,0 +1,84 @@
+# Intestinal & Urogenital Protozoa {-}
+
+This section covers intestinal and urogenital protozoa – the tiny critters that can cause big problems in our gut and urinary tract! We'll look at the usual suspects: *Cryptosporidium, Entamoeba, Giardia,* and *Trichomonas*, focusing on what causes them (etiology), how they spread (epidemiology), and how they infect us (transmission)
+
+## **Intestinal and Urogenital Protozoa** {-}
+
+### ***Cryptosporidium* spp.** {-}
+
+*   **Etiology:** *Cryptosporidium* is a genus of protozoan parasites that infect the epithelial cells of the small intestine. The most common species affecting humans is *Cryptosporidium parvum*, but *C. hominis* is also a major cause of human cryptosporidiosis
+*   **Epidemiology**
+    *   **Global Distribution:** Worldwide distribution
+    *   **Risk Factors**
+        *   Contaminated water (drinking or recreational)
+        *   Contact with infected animals (especially cattle)
+        *   Person-to-person transmission (e.g., in daycare centers)
+        *   Travel to endemic areas
+        *   Immunocompromised individuals (e.g., those with HIV/AIDS) are at higher risk of severe and prolonged infections
+    *   **Outbreaks:** Often associated with contaminated water supplies, recreational water facilities (swimming pools, water parks), and agricultural runoff
+*   **Transmission**
+    *   **Fecal-Oral Route:** Transmission occurs through ingestion of oocysts (the infective stage) in contaminated food or water, or through direct contact with infected individuals or animals
+    *   **Oocysts:** *Cryptosporidium* oocysts are highly resistant to chlorine disinfection, making waterborne outbreaks a significant concern
+
+### ***Entamoeba histolytica*** {-}
+
+*   **Etiology:** *Entamoeba histolytica* is a protozoan parasite that can cause amebiasis, ranging from asymptomatic infection to severe dysentery and liver abscesses
+*   **Epidemiology**
+    *   **Global Distribution:** Worldwide, but more common in developing countries with poor sanitation and hygiene
+    *   **Risk Factors**
+        *   Poor sanitation and hygiene practices
+        *   Contaminated food and water
+        *   Travel to endemic areas
+        *   Institutional settings (e.g., prisons)
+    *   **Asymptomatic Carriers:** Many infected individuals are asymptomatic carriers, contributing to the spread of the parasite
+*   **Transmission**
+    *   **Fecal-Oral Route:** Transmission occurs through ingestion of cysts (the infective stage) in contaminated food or water, or through direct contact with contaminated surfaces or objects
+    *   **Cysts:** *Entamoeba histolytica* cysts are resistant to environmental conditions and can survive for extended periods in water and soil
+
+### ***Giardia lamblia* (also known as *Giardia intestinalis* or *Giardia duodenalis*)** {-}
+
+*   **Etiology:** *Giardia lamblia* is a flagellated protozoan parasite that infects the small intestine, causing giardiasis (also known as "beaver fever")
+*   **Epidemiology**
+    *   **Global Distribution:** Worldwide, one of the most common intestinal parasites in humans
+    *   **Risk Factors**
+        *   Contaminated water (drinking or recreational)
+        *   Poor sanitation and hygiene practices
+        *   Travel to endemic areas
+        *   Contact with infected animals
+        *   Daycare centers
+    *   **Outbreaks:** Often associated with contaminated water supplies and recreational water facilities
+*   **Transmission**
+    *   **Fecal-Oral Route:** Transmission occurs through ingestion of cysts (the infective stage) in contaminated food or water, or through direct contact with infected individuals or animals
+    *   **Cysts:** *Giardia* cysts are resistant to chlorine disinfection but can be removed by filtration or inactivated by boiling
+
+### ***Trichomonas vaginalis*** {-}
+
+*   **Etiology:** *Trichomonas vaginalis* is a flagellated protozoan parasite that infects the urogenital tract, causing trichomoniasis (a sexually transmitted infection)
+*   **Epidemiology**
+    *   **Global Distribution:** Worldwide, one of the most common non-viral sexually transmitted infections
+    *   **Risk Factors**
+        *   Sexual activity with infected partners
+        *   Multiple sexual partners
+        *   Lack of barrier protection (e.g., condoms)
+        *   History of other sexually transmitted infections
+    *   **Asymptomatic Infections:** Many infected individuals, especially males, are asymptomatic carriers
+*   **Transmission**
+    *   **Sexual Contact:** Transmission occurs primarily through sexual intercourse with an infected partner
+    *   **Vertical Transmission:** Rarely, transmission can occur from mother to newborn during childbirth
+
+### **Key Takeaways** {-}
+
+*   **Fecal-Oral Transmission:** *Cryptosporidium, Entamoeba,* and *Giardia* are primarily transmitted through the fecal-oral route, emphasizing the importance of good hygiene and sanitation
+*   **Waterborne Outbreaks:** *Cryptosporidium* and *Giardia* are common causes of waterborne outbreaks, highlighting the need for effective water treatment and filtration
+*   **Sexual Transmission:** *Trichomonas vaginalis* is a sexually transmitted infection, emphasizing the importance of safe sexual practices
+*   **Asymptomatic Carriers:** Asymptomatic carriers of *Entamoeba histolytica* and *Trichomonas vaginalis* can contribute to the spread of these parasites
+
+### **Key Terms** {-}
+
+*   **Oocyst:** The resistant, thick-walled stage of certain protozoan parasites (e.g., *Cryptosporidium*) that contains sporozoites and is shed in feces
+*   **Cyst:** The dormant, non-motile, and infective stage of certain protozoan parasites (e.g., *Entamoeba, Giardia*)
+*   **Trophozoite:** The active, feeding, and motile stage of a protozoan parasite
+*   **Fecal-Oral Route:** A route of transmission in which pathogens are ingested after being shed in feces
+*   **Urogenital Tract:** The organs and structures involved in reproduction and urination
+*   **Sexually Transmitted Infection (STI):** An infection transmitted through sexual contact
+*   **Asymptomatic Carrier:** An individual infected with a pathogen who does not show symptoms of the disease but can still transmit the pathogen to others

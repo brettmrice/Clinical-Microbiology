@@ -1,0 +1,98 @@
+# Cystic fibrosis {-}
+
+Cystic fibrosis (CF) is a genetic disorder that significantly affects the lungs, making patients highly susceptible to chronic and recurrent lower respiratory tract infections. Identifying the pathogens, along with their antibiotic resistance profiles, is crucial for guiding targeted therapy and managing pulmonary complications. Proper analysis is vital
+
+## **General Principles** {-}
+
+*   **Chronic Infections:** Individuals with CF often experience chronic, polymicrobial infections
+*   **Pathogens and Pathogenesis:** *Pseudomonas aeruginosa* is the most common, but other organisms also play important roles
+*   **Specimen Sources:** Sputum, BAL, and tracheal aspirates are often collected
+*   **Specimen Processing:** A thorough assessment is required
+    *   **Sputum Quality:** Assessment is critical. The presence of increased inflammatory cells is expected
+    *   **Culture on Appropriate Media:** BAP, CHOC, selective media
+*   **Identification and Reporting:** Timely identification and antimicrobial susceptibility testing are essential for patient management
+*   **Antimicrobial Susceptibility Testing:** Performing tests to detect resistance
+
+## **Major Pathogens: Colony Morphology, Gram Stain, and Identification** {-}
+
+### ***Staphylococcus aureus*** {-}
+*   **Source:** Sputum, BAL
+*   **Colony Morphology**
+    *   **BAP:** Medium to large, circular, opaque, smooth, golden-yellow or cream-colored colonies
+    *   **Hemolysis:** Usually beta-hemolytic
+*   **Gram Stain:** Gram-positive cocci in clusters
+*   **Identification**
+    *   **Catalase:** Positive
+    *   **Coagulase:** Positive
+*   **Significance:** *S. aureus* is an early colonizer and common cause of acute exacerbations in CF patients. It can be particularly virulent, and has been associated with MRSA
+
+### ***Pseudomonas aeruginosa*** {-}
+*   **Source:** Sputum, BAL
+*   **Colony Morphology**
+    *   **BAP:** Large, flat, spreading colonies
+    *   **Pigment Production:** Often produces a blue-green pigment (*pyocyanin*) and/or a yellow pigment (*pyoverdine*)
+    *   **Appearance:** Can have a distinct fruity odor (grape-like)
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Oxidase:** Positive
+    *   **Glucose Fermentation:** Oxidative (uses glucose but does not ferment it)
+    *   **Motility:** Motile
+    *   **Commercial Identification Systems:** *P. aeruginosa* is the most commonly found, and is often multi-drug resistant. Chronic infections can lead to mucoid strains
+
+### ***Haemophilus influenzae*** {-}
+*   **Source:** Sputum, BAL
+*   **Colony Morphology**
+    *   **CHOC:** Small, gray, translucent, slightly mucoid colonies. "Mousy" odor
+    *   **BAP:** Will only grow with V factor (NAD) and X factor (hemin)
+*   **Gram Stain:** Gram-negative coccobacilli or pleomorphic rods
+*   **Identification**
+    *   **X and V Factor Requirement:** Requires both X factor (hemin) and V factor (NAD) for growth (use of factor strips or a quad plate)
+    *   **Commercial Identification Systems**
+*   **Significance:** *H. influenzae* can cause exacerbations
+
+### ***Burkholderia cepacia* Complex (Bcc)** {-}
+*   **Source:** Sputum, BAL
+*   **Colony Morphology**
+    *   **BAP:** Variable. Often non-pigmented or yellow colonies
+    *   **Appearance:** Can have a characteristic onion-like odor
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Oxidase:** Positive
+    *   **Glucose Fermentation:** Oxidative
+    *   **Motility:** Motile
+    *   **Commercial Identification Systems:** Identification is important for *Bcc*. The identification is species-level
+*   **Significance:** *Bcc* can cause severe pulmonary decline and can be transmitted between CF patients
+
+## **Additional Considerations** {-}
+
+*   **Polymicrobial Infections:** The infections are often caused by multiple organisms
+*   **Mucoid Strains:** *P. aeruginosa* and other organisms can develop mucoid strains due to the production of alginate, which contributes to biofilm formation
+*   **Antibiotic Resistance:** Common, often to multiple antibiotics, which leads to challenges
+*   **Treatment:** Must be tailored to the specific organism and the antibiotic susceptibility
+*   **Reporting**
+    *   Organisms that are isolated
+    *   Antibiotic resistance profiles
+
+## **Key Terms** {-}
+
+*   **Cystic Fibrosis (CF):** A genetic disorder that affects the lungs, digestive system, and other organs
+*   **Lower Respiratory Tract:** Lungs, bronchi, and bronchioles
+*   **Sputum:** Secretions from the lower respiratory tract
+*   **Bronchoalveolar Lavage (BAL):** Fluid obtained from the lungs via bronchoscope
+*   **Gram Stain:** Staining technique to differentiate bacteria
+*   **Alpha-Hemolysis:** Partial lysis of red blood cells
+*   **Beta-Hemolysis:** Complete lysis of red blood cells
+*   **Catalase Test:** Biochemical test for the enzyme catalase
+*   **Coagulase Test:** Biochemical test for the enzyme coagulase
+*   **Oxidase Test:** Biochemical test for the enzyme cytochrome c oxidase
+*   **Glucose Fermentation:** The ability of a bacterium to break down glucose with the production of acid and/or gas
+*   **Motility:** The ability of a bacterium to move independently
+*   **BAP:** Blood agar plate
+*   **CHOC:** Chocolate agar plate
+*   **Mucoid:** Resembling mucus, often due to capsule or other polysaccharide production
+*   **Biofilm:** A community of microorganisms that adhere to a surface and are encased in a matrix of extracellular substances
+*   **Antibiotic Resistance:** The ability of bacteria to survive and multiply in the presence of antibiotics
+*   **Opportunistic Pathogen:** An organism that causes disease primarily in a host with a weakened immune system
+*   **Alginate:** A polysaccharide produced by *P. aeruginosa* that contributes to biofilm formation
+*   **Commercial Identification System:** A system that uses pre-packaged biochemical tests for identifying microorganisms
+*   **Multidrug Resistance:** Resistance to multiple antibiotics

@@ -1,0 +1,77 @@
+# Colony Morphology & ID {-}
+
+The laboratory plays a crucial role in diagnosing and managing upper respiratory tract (URT) infections like pharyngitis (sore throat), otitis media (middle ear infections), and sinusitis (sinus infections). Timely and accurate identification of the causative pathogens is paramount for guiding appropriate antimicrobial therapy and preventing complications. These conditions all require the ability to analyze
+
+## **General Principles** {-}
+
+*   **URT Infections:** URT infections are commonly caused by viruses, but bacterial infections, require antibiotics
+*   **Common Symptoms:** The symptoms can vary. Common symptoms are sore throat, ear pain, nasal congestion
+*   **Specimen Collection:** The appropriate collection method is the start
+*   **Culture and Rapid Testing:** Cultures and rapid testing provide insights. Quick tests (e.g., rapid antigen tests) are sometimes used
+*   **Assessment:** Interpretation with clinical context is essential
+*   **Reporting:** Prompt and accurate reporting of results is crucial
+
+## **Pharyngitis** {-}
+
+*   **Primary Etiology:** Viral infections
+*   **Bacterial Causes**
+    *   ***Streptococcus pyogenes* (Group A Streptococcus, GAS):** Main bacterial cause, needs antibiotic treatment
+    *   Other bacteria are less common (e.g., *Arcanobacterium haemolyticum*)
+*   **Analytic Procedures**
+    *   **Throat Swab:** A sample from the back of the throat and tonsils
+    *   **Rapid Antigen Test for GAS:** If the test is negative, a culture is required
+    *   **Culture:** Strep will have a characteristic appearance
+
+| Features           | *Streptococcus pyogenes* |
+| :----------------- | :----------------------- |
+| Colony Morphology  | Beta-hemolytic           |
+| Gram Stain         | Gram-positive cocci in chains |
+| Identification     | Rapid tests, culture     |
+
+## **Otitis Media** {-}
+
+*   **Primary Etiology:** Viral, bacterial infections
+*   **Bacterial Causes**
+    *   ***Streptococcus pneumoniae***
+    *   ***Haemophilus influenzae***
+    *   *Moraxella catarrhalis*
+*   **Analytic Procedures**
+    *   **Tympanocentesis (Middle Ear Fluid):** A sample collected by a physician
+    *   **Gram Stain:** Provides initial information
+    *   **Culture:** On blood agar
+    *   **Antimicrobial susceptibility testing**
+
+| Features           | *Streptococcus pneumoniae* | *Haemophilus influenzae* | *Moraxella catarrhalis* |
+| :----------------- | :----------------------- | :----------------------- | :----------------------- |
+| Colony Morphology  | Alpha-hemolytic          | Needs X and V factors    | "Hockey puck"           |
+| Gram Stain         | Gram-positive diplococci | Gram-negative coccobacilli | Gram-negative diplococci |
+| Identification     | Optochin susceptibility  | Commercial Systems       | Commercial Systems       |
+
+## **Sinusitis** {-}
+
+*   **Primary Etiology:** Primarily viral in nature. Bacterial sinusitis can be treated with antibiotics
+*   **Bacterial Causes**
+    *   ***Streptococcus pneumoniae***
+    *   ***Haemophilus influenzae***
+    *   *Moraxella catarrhalis*
+    *   (Less common) *Staphylococcus aureus*
+*   **Analytic Procedures**
+    *   **Sinus Aspirate:** This sample can be collected by a physician
+    *   **Gram Stain:** Provides a start
+    *   **Culture:** On blood agar
+
+| Features           | *Streptococcus pneumoniae* | *Haemophilus influenzae* | *Moraxella catarrhalis* |
+| :----------------- | :----------------------- | :----------------------- | :----------------------- |
+| Colony Morphology  | Alpha-hemolytic          | Needs X and V factors    | "Hockey puck"           |
+| Gram Stain         | Gram-positive diplococci | Gram-negative coccobacilli | Gram-negative diplococci |
+| Identification     | Optochin susceptibility  | Commercial Systems       | Commercial Systems       |
+
+## **Additional Considerations** {-}
+
+*   **Interpretation**
+    *   Must be done with clinical findings and history
+*   **Prompt and Accurate Reporting:** The laboratory's ability to report quickly
+*   **Patient management**
+*   **Test Limitations**
+    *   The laboratory results are only one part of the puzzle
+    *   Not all bacteria are easily cultured

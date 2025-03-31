@@ -1,0 +1,124 @@
+# Agents of Shunt {-}
+
+Shunt infections, particularly ventriculoperitoneal (VP) shunt infections, represent a significant complication in patients with hydrocephalus or other conditions requiring CSF diversion. These infections are often difficult to treat, and can lead to serious morbidity and mortality. Identifying the causative agents is crucial for guiding appropriate antimicrobial therapy and management
+
+## **General Principles** {-}
+
+*   **Infection Route:** Infection often occurs during shunt implantation or revision, or through breaches in the skin. Biofilm formation on the shunt is an important feature
+*   **Diagnosis**
+    *   **Clinical Presentation:** Fever, headache, shunt malfunction (e.g., bulging or displaced shunt), abdominal pain (if the peritoneal cavity is involved), signs of meningitis
+    *   **CSF Analysis:** Lumbar puncture (LP) is typically performed. CSF samples can also be collected by aspiration of the shunt reservoir
+    *   **Laboratory Tests**
+        *   **Gram Stain:** Performed on CSF to provide rapid presumptive identification of organisms
+        *   **Culture:** CSF is inoculated onto appropriate culture media (BAP, CHOC, and possibly anaerobic media)
+        *   **Cell Count and Differential:** Elevated WBC count with a predominance of neutrophils
+        *   **Protein and Glucose:** Elevated protein, decreased glucose (relative to serum glucose levels)
+        *   **Molecular Tests:** Can be helpful to quickly identify organisms
+        *   **Antibiotic Susceptibility Testing:** Performed on isolates to guide therapy
+
+## **Common Agents of Shunt Infections** {-}
+
+### **Coagulase-Negative Staphylococci (CoNS)** {-}
+
+*   **Most Common Cause:** Especially *Staphylococcus epidermidis*
+*   **Characteristics**
+    *   **Biofilm Formation:** A key virulence mechanism. Colonization is enhanced by the formation of biofilms on the shunt material. The bacteria are protected within the biofilm
+    *   **Antimicrobial Resistance:** Often resistant to multiple antibiotics, including methicillin (MRCoNS). May harbor resistance genes
+*   **Colony Morphology**
+    *   **BAP:** White, cream-colored colonies. Can be small
+    *   **Gram Stain:** Gram-positive cocci in clusters
+*   **Identification**
+    *   **Coagulase:** Negative
+    *   **Commercial Identification Systems:** To differentiate species (*S. epidermidis*, *S. haemolyticus*, *S. capitis*, etc.)
+
+### ***Staphylococcus aureus*** {-}
+
+*   **Significant Pathogen:** Can cause shunt infections, often more acute than CoNS infections
+*   **Characteristics**
+    *   **Virulence:** Highly virulent, producing toxins and enzymes
+    *   **Often aggressive infection:** Higher mortality
+*   **Colony Morphology**
+    *   **BAP:** Golden-yellow colonies
+    *   **Hemolysis:** Beta-hemolytic
+    *   **Gram Stain:** Gram-positive cocci in clusters
+*   **Identification**
+    *   **Coagulase:** Positive
+    *   **Other Tests:** Catalase, etc
+
+### ***Corynebacterium spp.*** (Diphtheroids) {-}
+
+*   **Common Isolates:** Including *C. jeikeium*, *C. striatum*
+*   **Characteristics**
+    *   **Opportunistic Pathogens:** Part of normal skin flora
+    *   **Biofilm Formation:** Can form biofilms on the shunt
+    *   **Can cause subacute or chronic infections**
+*   **Colony Morphology**
+    *   **BAP:** Small, grayish, non-hemolytic colonies
+    *   **Gram Stain:** Gram-positive rods, often pleomorphic
+*   **Identification**
+    *   **Catalase:** Positive
+    *   **Commercial Identification Systems:** To differentiate species
+
+### ***Propionibacterium spp./Cutibacterium spp.* (e.g., *P. acnes*)** {-}
+
+*   **Characteristics**
+    *   **Anaerobic**
+    *   **Opportunistic Pathogens:** Part of normal skin flora. Now known as *Cutibacterium acnes*
+    *   **Biofilm Formation:** Can form biofilms
+*   **Colony Morphology**
+    *   **Anaerobic media:** Small, white or cream-colored colonies
+    *   **Gram Stain:** Gram-positive rods, often club-shaped
+*   **Identification**
+    *   **Anaerobic culture is necessary**
+    *   **Commercial Identification Systems**
+
+### **Other Organisms** {-}
+*   ***Enterobacteriaceae***
+    *   *Escherichia coli*, *Klebsiella spp., Enterobacter spp.*
+    *   More common in patients with compromised immune systems, recent surgery
+*   ***Pseudomonas aeruginosa***
+    *   Common in healthcare settings
+    *   Difficult to treat because of resistance
+*   ***Enterococcus spp.***
+    *   More common in patients with compromised immune systems
+*   Fungi (*Candida spp., Aspergillus spp.*)
+    *   Less common, but a possibility, especially in immunocompromised patients
+*   Anaerobic Bacteria (e.g., *Bacteroides spp., Peptostreptococcus spp.*)
+    *   Can cause shunt infections, though less common than the organisms above
+
+## **Analytic Procedures and Considerations** {-}
+
+*   **Aseptic Technique:** Strict aseptic technique during shunt taps is essential to prevent contamination
+*   **Multiple Samples:** Collect CSF from the shunt reservoir as well as from a peripheral site
+*   **Gram Stain:** Perform a Gram stain to provide rapid presumptive identification of the organism. Results must be interpreted in conjunction with clinical findings
+*   **Culture Media**
+    *   **Routine Media:** BAP, CHOC
+    *   **Anaerobic Media:** If *Propionibacterium* or other anaerobes are suspected
+    *   **Consider enrichment broths and extended incubation**
+*   **Culture Incubation**
+    *   Incubate cultures at 35-37°C with 5% CO2
+    *   For slow-growing organisms, incubate cultures for at least 7 days (e.g., *Propionibacterium*, some fungi)
+*   **Identification**
+    *   Follow standard methods for identification (colony morphology, Gram stain, biochemical tests, commercial identification systems, MALDI-TOF)
+*   **Antimicrobial Susceptibility Testing**
+    *   Perform AST on all significant isolates. CoNS often exhibit antimicrobial resistance
+    *   Test for methicillin resistance in *Staphylococcus* spp. (e.g., *mecA* gene)
+*   **Reporting and Communication:** Promptly report results to the physician, including Gram stain results, preliminary identification, and preliminary susceptibility results
+
+## **Key Terms** {-}
+
+*   **Shunt Infection:** Infection of a CSF shunt
+*   **Ventriculoperitoneal (VP) Shunt:** A device that drains excess CSF from the ventricles to the peritoneal cavity
+*   **Shunt Reservoir:** A subcutaneous device that allows for access to the shunt for sampling
+*   **Coagulase-Negative Staphylococci (CoNS):** A group of staphylococci that do not produce coagulase. The most common cause of shunt infections
+*   ***Staphylococcus aureus***: A virulent Gram-positive bacterium
+*   ***Corynebacterium spp.*:** Gram-positive rods (diphtheroids)
+*   ***Propionibacterium spp.*/*Cutibacterium spp.***: Anaerobic Gram-positive rods. *P. acnes* is the most common
+*   **Biofilm:** A community of microorganisms that adhere to a surface and are encased in a matrix of extracellular substances
+*   **Anaerobic:** Living without oxygen
+*   **Gram Stain:** A staining technique used to differentiate bacteria based on cell wall characteristics
+*   **Culture:** The growth of microorganisms in a laboratory setting for identification and susceptibility testing
+*   **Antimicrobial Susceptibility Testing (AST):** Laboratory tests performed to determine the susceptibility of a bacterial isolate to various antibiotics
+*   **Methicillin-Resistant *Staphylococcus aureus* (MRSA):** *Staphylococcus aureus* resistant to methicillin and other beta-lactam antibiotics
+*   **Commercial Identification System:** System that uses pre-packaged biochemical tests for identifying microorganisms (e.g., API, Vitek)
+*   **MALDI-TOF Mass Spectrometry:** A proteomic-based technique that provides rapid and accurate bacterial identification based on protein profiles

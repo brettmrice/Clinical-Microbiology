@@ -1,0 +1,15 @@
+gram-stain
+acid-fast-stain
+modified-acid-fast-stain
+koh-and-calcofluor-white
+trichrome-stain
+giemsa-stain
+acridine-orange
+modified-trichrome
+streptococcus-pyogenes-group-a-streptococcus-gas--
+streptococcus-pyogenes-group-a-streptococcus-gas---1
+catalase-test
+coagulase-test
+oxidase-test
+indole-test
+pyr-test

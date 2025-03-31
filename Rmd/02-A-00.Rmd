@@ -1,0 +1,86 @@
+# (PART\*) Bacteriology {-}
+
+# Blood & Bone Marrow {-}
+
+This section covers the key analytic procedures for bacteriology related to blood and bone marrow infections. The focus will be the laboratory's role in detecting, identifying, and characterizing infectious agents in blood and bone marrow, vital for diagnosing and treating life-threatening conditions like sepsis, endocarditis, and bone infections. Topics covered will include continuous monitoring, rapid identification, colony morphology, and the crucial aspects of organism pathogenicity
+
+## **Specimen Collection and Processing** {-}
+
+*   **Blood:** Aseptic technique is paramount. Proper volumes (8-10 mL per bottle for adults) into aerobic and anaerobic bottles. Collection from peripheral sites is preferred; central lines require careful consideration (simultaneous draws, DTP)
+*   **Bone Marrow:** Aspiration and biopsy performed by a physician. Samples are transported immediately. Gram stains and culture (for bacteria, fungi, mycobacteria) are essential
+
+## **Continuous Monitoring Systems** {-}
+
+*   **Purpose:** Automated blood culture systems provide constant surveillance, increasing sensitivity and reducing turnaround time
+*   **Principle:** Continuously monitor blood culture bottles for bacterial growth using colorimetric, fluorometric, or pressure-based detection
+*   **Benefits:** Faster detection (shorter time to positivity - TTP), improved efficiency, enhanced safety
+*   **Workflow:** Bottles are loaded, incubated, and monitored. Positive bottles are flagged for Gram stain, subculture, and further identification
+
+## **Rapid Identification/Resistance Detection Methods** {-}
+
+*   **Purpose:** Speed up the identification of organisms and detection of antimicrobial resistance to guide therapy
+*   **Methods**
+    *   **Gram Stain and Microscopy:** Quick, provides initial morphology and Gram-stain characteristics
+    *   **Rapid Antigen Detection:** Tests for specific bacterial antigens directly from positive blood cultures
+    *   **MALDI-TOF Mass Spectrometry:** Accurate, fast, and identifies bacteria based on protein profiles
+    *   **Molecular Methods (PCR):** Highly sensitive and specific for detecting specific genes or sequences directly from positive cultures
+    *   **Rapid Phenotypic Tests:** Evaluate the organism's ability to grow in the presence of specific antibiotics (e.g., beta-lactamase detection)
+    *   **Rapid Immunoassays:** Use antibody-based assays to detect resistance mechanisms
+*   **Benefits:** Rapid diagnosis, optimized antibiotic therapy, improved patient outcomes, antimicrobial stewardship
+
+## **Colony Morphology and Identification of Major Pathogens** {-}
+
+*   **Essential Skills:** The ability to differentiate organisms based on colony morphology, Gram stain, and basic biochemical tests
+*   **General Principles**
+    *   **Culture Media:** Utilize BAP, chocolate agar (CHOC), and selective/differential media
+    *   **Incubation:** Standard incubation conditions (35-37°C, 5% CO2)
+    *   **Daily Examination:** Observe colony characteristics, perform Gram stains
+    *   **Reporting:** Identification confirmed with commercial systems, MALDI-TOF, or molecular methods, and antimicrobial susceptibility is tested
+*   **Key Pathogens (Examples)**
+    *   ***Staphylococcus aureus*:** Golden colonies, beta-hemolytic, Gram-positive cocci in clusters, coagulase-positive
+    *   **Coagulase-Negative Staphylococci (CoNS):** White/cream colonies, non-hemolytic/gamma-hemolytic, Gram-positive cocci in clusters, coagulase-negative
+    *   ***Streptococcus pneumoniae*:** Small, alpha-hemolytic, Gram-positive lancet-shaped diplococci, optochin sensitive
+    *   ***Enterococcus spp.*:** Grayish colonies, non-hemolytic/alpha-hemolytic, Gram-positive cocci in pairs or chains, growth on bile esculin
+    *   ***Candida spp.*:** Creamy white colonies, Gram-positive budding yeast
+    *   ***Acinetobacter baumannii*:** Gram-negative coccobacilli or short rods, oxidase-negative
+    *   ***Enterobacteriaceae (e.g., E. coli)*:** Large, gray colonies, Gram-negative rods, oxidase-negative
+    *   ***Pseudomonas aeruginosa*:** Flat, spreading colonies, blue-green pigment, Gram-negative rods, oxidase-positive
+
+## **Common Agents of Endocarditis** {-}
+
+*   **High-Stakes Infections:** Endocarditis is a serious infection of the heart's inner lining
+*   **Key Agents**
+    *   ***Staphylococcus aureus*:** The most common, highly virulent
+    *   **CoNS:** Especially associated with prosthetic valves and indwelling devices
+    *   ***Streptococcus spp.*:** (e.g., *S. viridans*, *S. bovis*)
+    *   ***Enterococcus spp.*:** Often antibiotic-resistant
+    *   **Gram-Negative Bacteria:** (e.g., *HACEK* group, *Pseudomonas aeruginosa*)
+    *   **Fungi:** (e.g., *Candida spp., Aspergillus spp.*)
+*   **Diagnosis:** Requires thorough clinical suspicion, blood cultures (multiple sets), echocardiography, and possibly valve biopsy
+
+## **Agents of Bone Marrow Infection** {-}
+
+*   **Serious, Sometimes Underdiagnosed:** Bone marrow infections have a higher risk of mortality
+*   **Key Agents**
+    *   ***Salmonella spp.*:** Particularly in patients with sickle cell disease
+    *   ***Brucella spp.*:** Transmitted through contact with animals or contaminated products
+    *   **Mycobacteria:** *M. tuberculosis* and atypical mycobacteria
+    *   ***Staphylococcus aureus*:** From bacteremia, IVDU, or indwelling devices
+    *   ***Histoplasma capsulatum, Coccidioides immitis, Blastomyces dermatitidis*:** Fungal infections (often in immunocompromised patients)
+    *   **Parasites:** *Leishmania spp.* and *Trypanosoma cruzi*
+    *   **Viruses:** CMV
+*   **Diagnosis:** Bone marrow aspiration and biopsy are crucial, as is culture for bacteria, fungi, and mycobacteria, and histopathological examination
+
+## **Organism Pathogenicity** {-}
+
+*   **Understanding Disease:** Pathogenicity explains how microorganisms cause disease
+*   **Key Components**
+    *   **Etiology:** The cause of the disease
+    *   **Transmission:** How the organism spreads
+    *   **Virulence Mechanisms:** The tools the organism uses to cause disease
+*   **Examples (brief)**
+    *   ***S. aureus*:** Adherence, immune evasion, toxins (cytotoxins, superantigens), and resistance
+    *   ***S. pneumoniae*:** Capsule, adhesins, pneumolysin
+    *   ***E. coli*:** Adhesins, endotoxin, exotoxins
+    *   *Brucella spp.:* Intracellular survival
+*   **Implications of Pathogenicity:** Guiding diagnosis, determining treatment, and informing prevention strategies

@@ -1,0 +1,97 @@
+# Respiratory {-}
+
+This section will cover major respiratory pathogens, such as influenza virus, RSV, parainfluenza virus, and SARS-CoV-2 - focusing on their etiology, epidemiology, transmission, and the diseases they cause
+
+## **Etiology, Epidemiology, Transmission, and Disease States** {-}
+
+### **Influenza Virus** {-}
+
+*   **Etiology**
+    *   **Types:** Influenza viruses are classified into types A, B, C, and D
+    *   **Influenza A:** Further classified into subtypes based on two surface glycoproteins: hemagglutinin (H) and neuraminidase (N). Examples include H1N1 and H3N2
+    *   **Influenza B:** Not classified into subtypes but can be further divided into lineages
+    *   **Influenza C:** Causes mild respiratory illness, not typically associated with epidemics
+    *   **Influenza D:** Primarily affects cattle, not known to cause illness in humans
+*   **Epidemiology**
+    *   **Seasonality:** Typically occurs during the fall and winter months in temperate climates
+    *   **Global Distribution:** Found worldwide
+    *   **Age Groups:** Affects all age groups but can be more severe in young children, the elderly, and individuals with underlying health conditions
+    *   **Pandemics:** Influenza A viruses have caused several pandemics, including the 1918 Spanish flu (H1N1), the 2009 swine flu (H1N1), and others
+*   **Transmission**
+    *   **Respiratory Droplets:** Primarily spread through respiratory droplets produced when infected individuals cough, sneeze, or talk
+    *   **Contact:** Can also be transmitted through direct or indirect contact with contaminated surfaces
+*   **Disease States**
+    *   **Influenza (Flu):** Characterized by fever, cough, sore throat, muscle aches, fatigue, and headache
+    *   **Complications:** Pneumonia (viral or secondary bacterial), bronchitis, sinus infections, ear infections, and exacerbation of chronic medical conditions (e.g., asthma, heart failure)
+    *   **High-Risk Groups:** Severe illness and complications are more common in young children, older adults, pregnant women, and individuals with chronic medical conditions
+
+### **Respiratory Syncytial Virus (RSV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Paramyxoviridae* family
+    *   **Types:** Two major antigenic subgroups, A and B
+*   **Epidemiology**
+    *   **Seasonality:** Typically occurs during the fall and winter months
+    *   **Ubiquitous:** Extremely common, with most children infected by age 2
+    *   **Age Groups:** Primarily affects infants and young children, but can also cause illness in older adults and immunocompromised individuals
+*   **Transmission**
+    *   **Respiratory Droplets:** Spread through respiratory droplets produced when infected individuals cough or sneeze
+    *   **Contact:** Can also be transmitted through direct or indirect contact with contaminated surfaces
+*   **Disease States**
+    *   **Bronchiolitis:** Inflammation of the small airways in the lungs, primarily affecting infants
+    *   **Pneumonia:** Infection of the lungs
+    *   **Common Cold-like Symptoms:** In older children and adults, RSV can cause mild upper respiratory symptoms such as runny nose, cough, and sore throat
+    *   **High-Risk Groups:** Premature infants, young children with congenital heart or lung disease, and immunocompromised individuals are at higher risk for severe RSV infection
+
+### **Parainfluenza Virus (PIV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Paramyxoviridae* family
+    *   **Types:** Four types: PIV-1, PIV-2, PIV-3, and PIV-4
+*   **Epidemiology**
+    *   **Seasonality:** PIV-1 and PIV-2 typically occur in the fall, while PIV-3 has a less predictable seasonal pattern
+    *   **Age Groups:** Primarily affects infants and young children
+*   **Transmission**
+    *   **Respiratory Droplets:** Spread through respiratory droplets produced when infected individuals cough or sneeze
+    *   **Contact:** Can also be transmitted through direct or indirect contact with contaminated surfaces
+*   **Disease States**
+    *   **Croup (Laryngotracheobronchitis):** Characterized by a barking cough, stridor (a high-pitched breathing sound), and hoarseness. Primarily caused by PIV-1 and PIV-2
+    *   **Bronchiolitis and Pneumonia:** Can also cause lower respiratory tract infections, especially PIV-3
+    *   **Common Cold-like Symptoms:** In older children and adults, PIV can cause mild upper respiratory symptoms
+
+### **SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Coronaviridae* family
+    *   **Variants:** Multiple variants have emerged, including Alpha, Beta, Delta, Omicron, and their subvariants, each with different transmissibility and severity
+*   **Epidemiology**
+    *   **Pandemic:** Caused the COVID-19 pandemic, with global spread
+    *   **Age Groups:** Affects all age groups, but older adults and individuals with underlying health conditions are at higher risk for severe illness
+*   **Transmission**
+    *   **Respiratory Droplets and Aerosols:** Primarily spread through respiratory droplets and aerosols produced when infected individuals cough, sneeze, talk, or breathe
+    *   **Contact:** Can also be transmitted through direct or indirect contact with contaminated surfaces, although this is less common
+*   **Disease States**
+    *   **COVID-19:** Ranges from asymptomatic infection to severe illness and death
+    *   **Symptoms:** Fever, cough, fatigue, loss of taste or smell, sore throat, headache, muscle aches, shortness of breath, and gastrointestinal symptoms
+    *   **Complications:** Pneumonia, acute respiratory distress syndrome (ARDS), blood clots, multisystem inflammatory syndrome in children (MIS-C), long-term symptoms (long COVID)
+    *   **High-Risk Groups:** Older adults, individuals with chronic medical conditions (e.g., heart disease, diabetes, obesity), and immunocompromised individuals are at higher risk for severe COVID-19
+
+### **Important Notes** {-}
+
+*   **Prevention:** Vaccination is available for influenza and COVID-19. RSV vaccines and monoclonal antibody prophylaxis are available for certain high-risk infants
+*   **Diagnosis:** Respiratory viruses are typically diagnosed using molecular methods (e.g., PCR) on nasopharyngeal swabs or other respiratory specimens
+*   **Treatment:** Antiviral medications are available for influenza (e.g., oseltamivir, zanamivir) and COVID-19 (e.g., remdesivir, nirmatrelvir/ritonavir). Supportive care is important for all respiratory viral infections
+
+### **Key Terms** {-}
+
+*   **Etiology:** The cause or origin of a disease or condition
+*   **Epidemiology:** The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems
+*   **Transmission:** The way a disease is spread from one person or source to another
+*   **Respiratory Droplets:** Small particles produced when an infected person coughs, sneezes, talks, or breathes
+*   **Aerosols:** Even smaller particles that can remain suspended in the air for longer periods and travel greater distances
+*   **Bronchiolitis:** Inflammation of the small airways in the lungs
+*   **Croup:** Inflammation of the larynx and trachea, causing a barking cough
+*   **Stridor:** A high-pitched, noisy breathing sound
+*   **Variants:** Different versions of a virus with genetic mutations that can affect transmissibility, severity, or immune evasion
+*   **ARDS (Acute Respiratory Distress Syndrome):** A severe lung condition characterized by widespread inflammation and fluid buildup in the lungs
+*   **MIS-C (Multisystem Inflammatory Syndrome in Children):** A rare but serious condition associated with COVID-19, characterized by inflammation of multiple organ systems

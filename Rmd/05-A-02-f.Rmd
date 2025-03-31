@@ -1,0 +1,84 @@
+# Additional Parasites {-}
+
+This section will cover filariae and flukes, two groups of parasitic worms that can cause a range of diseases in humans. We'll explore their etiology, epidemiology, and transmission
+
+##  **Filariae (Filariasis)** {-}
+
+*   **Etiology:** Filariae are parasitic nematodes (roundworms) that infect the lymphatic system, subcutaneous tissues, or serous cavities. Major filarial parasites include:
+    *   *Wuchereria bancrofti*
+    *   *Brugia malayi*
+    *   *Brugia timori* (cause lymphatic filariasis, leading to elephantiasis)
+    *   *Onchocerca volvulus* (causes onchocerciasis, or river blindness)
+    *   *Loa loa* (causes loiasis, or African eye worm)
+*   **Epidemiology**
+    *   **Geographic Distribution:** Tropical and subtropical regions of Africa, Asia, and the Americas
+    *   **Risk Factors**
+        *   Living in or traveling to endemic areas
+        *   Exposure to mosquito or blackfly bites
+        *   Poor sanitation and hygiene practices
+    *   **Chronic Disease:** Filarial infections can cause chronic and debilitating conditions, such as lymphedema, elephantiasis, and blindness
+*   **Transmission**
+    *   **Vector-Borne:** Filariae are transmitted by the bites of infected mosquitoes (lymphatic filariasis and loiasis) or blackflies (onchocerciasis)
+    *   **Life Cycle**
+        *   Adult worms live in the lymphatic system, subcutaneous tissues, or serous cavities
+        *   Female worms release microfilariae (larval stage) into the bloodstream or skin
+        *   Mosquitoes or blackflies ingest microfilariae during blood meals
+        *   Microfilariae develop into infective larvae in the vector
+        *   Infective larvae are transmitted to humans during subsequent bites
+
+##  **Flukes (Trematodes)** {-}
+
+*   **Etiology:** Flukes are parasitic flatworms that infect various organs, including the liver, lungs, intestines, and blood vessels. Major flukes include:
+    *   **Liver flukes**
+        *   *Clonorchis sinensis* (Chinese liver fluke)
+        *   *Opisthorchis viverrini* and *Opisthorchis felineus*
+        *   *Fasciola hepatica* and *Fasciola gigantica*
+    *   **Lung fluke**
+        *   *Paragonimus westermani*
+    *   **Intestinal flukes**
+        *   *Fasciolopsis buski*
+    *   **Blood flukes**
+        *   *Schistosoma* spp. (as covered previously)
+*   **Epidemiology**
+    *   **Geographic Distribution:** Worldwide, with different species prevalent in different regions
+    *   **Risk Factors**
+        *   Consumption of raw or undercooked freshwater fish, crustaceans, or aquatic plants
+        *   Contact with freshwater containing infected snails
+        *   Poor sanitation and hygiene practices
+        *   Agricultural practices involving irrigation
+    *   **Chronic Disease:** Fluke infections can cause chronic inflammation, tissue damage, and cancer
+*   **Transmission**
+    *   **Ingestion of Larvae:** Liver and intestinal flukes are transmitted through ingestion of raw or undercooked freshwater fish, crustaceans, or aquatic plants containing metacercariae (encysted larval stage)
+    *   **Skin Penetration:** Blood flukes (*Schistosoma* spp.) are transmitted through skin penetration by cercariae (free-swimming larval stage) released from snails
+    *   **Life Cycle**
+        *   Flukes have complex life cycles involving one or more intermediate hosts (typically snails and fish or aquatic plants)
+        *   Adult flukes live in the liver, lungs, intestines, or blood vessels
+        *   Eggs are released in feces or urine
+        *   Eggs hatch in freshwater, releasing miracidia
+        *   Miracidia infect snails, where they develop into cercariae
+        *   Cercariae are released from snails and either penetrate human skin (blood flukes) or encyst as metacercariae in fish, crustaceans, or aquatic plants (liver and intestinal flukes)
+        *   Humans become infected by ingesting metacercariae or through skin penetration by cercariae
+
+##  **Key Takeaways** {-}
+
+*   **Vector-Borne Transmission:** Filariae are transmitted by insect vectors (mosquitoes and blackflies), while some flukes are transmitted through skin penetration by cercariae released from snails
+*   **Ingestion of Larvae:** Liver and intestinal flukes are transmitted through ingestion of raw or undercooked freshwater fish, crustaceans, or aquatic plants containing metacercariae
+*   **Complex Life Cycles:** Both filariae and flukes have complex life cycles involving multiple hosts and environmental stages
+*   **Chronic Disease:** Filarial and fluke infections can cause chronic and debilitating conditions, such as lymphedema, elephantiasis, blindness, and cancer
+
+##  **Key Terms** {-}
+
+*   **Filaria:** A parasitic nematode that infects the lymphatic system, subcutaneous tissues, or serous cavities
+*   **Microfilariae:** The larval stage of filarial worms found in the bloodstream or skin
+*   **Fluke:** A parasitic flatworm that infects various organs
+*   **Trematode:** Another name for fluke
+*   **Metacercariae:** The encysted larval stage of flukes found in fish, crustaceans, or aquatic plants
+*   **Cercariae:** The free-swimming larval stage of flukes released from snails
+*   **Vector-Borne:** Transmitted by an insect or other arthropod vector
+*   **Endemic:** A disease that is constantly present in a particular geographic region or population
+*   **Lymphatic System:** The network of vessels and tissues that drain fluid from the body and transport it back to the bloodstream
+*   **Elephantiasis:** A condition characterized by massive swelling of the limbs and other body parts due to lymphatic obstruction caused by filarial worms
+*   **Onchocerciasis:** A parasitic disease caused by *Onchocerca volvulus*, leading to blindness and skin lesions
+*   **Loiasis:** A parasitic disease caused by *Loa loa*, characterized by swelling and itching of the skin and migration of the worm across the eye
+*   **Lymphedema:** Swelling caused by lymphatic obstruction
+*   **Miracidia:** The ciliated larval stage of flukes that infect snails

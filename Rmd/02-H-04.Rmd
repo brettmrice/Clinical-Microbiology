@@ -1,0 +1,131 @@
+#  Culture & Molecular {-}
+
+This section details the laboratory methods used for the detection of several key pathogens in the genital tract: *Neisseria gonorrhoeae*, *Chlamydia trachomatis*, *Streptococcus agalactiae* (Group B Streptococcus, or GBS), and *Mycoplasma* spp. The focus is on culture and molecular detection methods, which are critical for accurate diagnosis and effective treatment
+
+## ***Neisseria gonorrhoeae*** {-}
+
+### **Culture** {-}
+*   **Procedure:** Specimens (e.g., endocervical swabs, urethral swabs, urine, etc.) are inoculated onto selective media. Thayer-Martin agar (TMA), Martin-Lewis agar, or New York City (NYC) medium are commonly used
+    *   **Thayer-Martin Agar (TMA):** Chocolate agar base with antibiotics (vancomycin, colistin, nystatin) to inhibit the growth of other organisms
+    *   **Martin-Lewis Agar:** Similar to TMA but with a different antibiotic combination
+    *   **New York City (NYC) Medium:** Contains lysed horse blood and antimicrobial agents
+*   **Incubation:** Cultures are incubated at 35-37°C in a CO2-enriched atmosphere (5-10% CO2)
+*   **Colony Morphology:** *N. gonorrhoeae* colonies appear as small, translucent, greyish, or tan, convex colonies on selective media. They are oxidase-positive
+*   **Identification:** Presumptive identification is based on colony morphology, Gram stain (Gram-negative diplococci), and oxidase test
+    *   **Confirmation:** Confirmatory tests are performed, including carbohydrate utilization tests, rapid tests, or molecular methods
+        *   **Carbohydrate Utilization Test:** *N. gonorrhoeae* ferments glucose but not other carbohydrates like maltose, lactose, or sucrose
+        *   **Rapid Tests:** Enzyme immunoassays (EIAs) and immunochromatographic assays are available
+*   **Sensitivity:** Moderate sensitivity, depends on specimen type and culture technique
+*   **Antibiotic Susceptibility Testing (AST):** Performed on isolates to determine antibiotic resistance patterns. Disk diffusion or broth microdilution are used
+
+### **Molecular Detection** {-}
+*   **Nucleic Acid Amplification Tests (NAATs)**
+    *   **Procedure:** NAATs amplify the DNA or RNA of *N. gonorrhoeae*
+    *   **Formats:** Polymerase chain reaction (PCR)-based assays, transcription-mediated amplification (TMA), and other amplification methods
+    *   **Specimens:** Can be performed on various specimens, including swabs (endocervical, urethral, etc.), urine, and other body fluids
+    *   **Sensitivity:** Highly sensitive (95-100%)
+    *   **Specificity:** High
+    *   **Advantages:** Rapid results, high sensitivity, can be performed on non-invasive specimens (urine)
+    *   **Disadvantages:** Requires specialized equipment and trained personnel
+*   **Probe-Based Tests:** Nucleic acid probes detect specific genetic sequences of *N. gonorrhoeae*. Less common than NAATs
+
+## ***Chlamydia trachomatis*** {-}
+
+### **Culture** {-}
+*   **Procedure:** Specimens (e.g., endocervical swabs, urethral swabs) are inoculated onto cell cultures. McCoy cells are often used
+*   **Incubation:** Cultures are incubated at 35-37°C
+*   **Staining:** After incubation, the cells are stained with an immunofluorescent antibody (IFA) or Giemsa stain
+*   **Visualization:** *C. trachomatis* appears as intracytoplasmic inclusions within the cells
+*   **Sensitivity:** Lower sensitivity compared to NAATs
+*   **Disadvantages:** Labor-intensive, time-consuming, and requires specialized cell culture facilities
+
+### **Molecular Detection** {-}
+*   **Nucleic Acid Amplification Tests (NAATs)**
+    *   **Procedure:** NAATs amplify the DNA or RNA of *C. trachomatis*
+    *   **Formats:** Polymerase chain reaction (PCR)-based assays, transcription-mediated amplification (TMA), and other amplification methods
+    *   **Specimens:** Can be performed on various specimens, including swabs (endocervical, urethral, etc.), urine, and other body fluids
+    *   **Sensitivity:** Highly sensitive (95-100%)
+    *   **Specificity:** High
+    *   **Advantages:** Rapid results, high sensitivity, can be performed on non-invasive specimens (urine)
+    *   **Disadvantages:** Requires specialized equipment and trained personnel
+*   **Advantages:** Highly sensitive and specific, fast results, can be performed on urine samples
+*   **Disadvantages:** Requires specialized equipment and trained personnel
+*   **Other Molecular Methods:** Hybridization assays
+
+### **Other Methods** {-}
+*   **Enzyme Immunoassays (EIAs):** Detect *C. trachomatis* antigens. Less sensitive than NAATs
+*   **Direct Fluorescent Antibody (DFA) Tests:** Use fluorescently labeled antibodies to detect *C. trachomatis* antigens. Less sensitive than NAATs
+
+## ***Streptococcus agalactiae*** (Group B Streptococcus, GBS) {-}
+
+### **Culture** {-}
+*   **Procedure:** Vaginal and rectal swabs are collected from pregnant women for prenatal screening. Specimens are inoculated onto blood agar
+*   **Incubation:** Incubated at 35-37°C
+*   **Colony Morphology:** *S. agalactiae* colonies are small, greyish, translucent, and beta-hemolytic (produce a clear zone around the colonies due to red blood cell lysis) on blood agar
+*   **Identification**
+    *   **Gram Stain:** Gram-positive cocci in chains or pairs
+    *   **Catalase Test:** Negative
+    *   **CAMP Test:** A positive CAMP test is a characteristic feature. *S. agalactiae* produces a substance that enhances the hemolysis of *Staphylococcus aureus* when the two organisms are streaked perpendicular to each other on a blood agar plate
+    *   **Serological Tests:** Latex agglutination tests can be used to identify *S. agalactiae*
+*   **Sensitivity:** High if proper culture techniques are used
+*   **Antimicrobial Susceptibility Testing (AST):** Performed on isolates to determine antibiotic resistance patterns if requested
+
+### **Molecular Detection** {-}
+*   **PCR-based assays:** Real-time PCR assays can be used to detect *S. agalactiae* DNA directly from vaginal and rectal swabs
+*   **Advantages:** Rapid results, high sensitivity
+*   **Disadvantages:** Requires specialized equipment and trained personnel
+
+## ***Mycoplasma* spp.** {-}
+
+*   **Mycoplasmas:** are small, cell-wall-deficient bacteria that can colonize the genital tract. *Mycoplasma hominis* and *Ureaplasma urealyticum* are the most frequently isolated species. *Mycoplasma genitalium* is a sexually transmitted pathogen
+
+### **Culture** {-}
+*   **Procedure:** Specimens (e.g., urethral swabs, endocervical swabs) are inoculated onto specialized culture media
+    *   **Media:** Requires specialized media containing serum and other growth factors. *Mycoplasma hominis* requires arginine, while *Ureaplasma urealyticum* requires urea in the media
+*   **Incubation:** Incubated at 35-37°C
+*   **Colony Morphology:** The colonies are very small and may require microscopic examination to visualize. *Mycoplasma hominis* may produce "fried-egg" colonies. *Ureaplasma urealyticum* produces granular colonies
+*   **Identification**
+    *   **Urease Test:** *Ureaplasma urealyticum* produces urease, which can be detected by a color change in the media
+    *   **Biochemical tests**
+*   **Sensitivity:** Limited
+*   **Antibiotic Susceptibility Testing (AST):** Can be performed, but not routinely done
+
+### **Molecular Detection** {-}
+*   **PCR-based assays:** PCR assays are the most commonly used method
+    *   **Procedure:** PCR assays are available for detection of *Mycoplasma genitalium* in the genital tract
+    *   **Specimens:** Swabs, urine
+    *   **Sensitivity:** High
+    *   **Specificity:** High
+*   **Hybridization assays:** Less common
+
+## **Key Considerations** {-}
+*   **Specimen Collection:** Proper specimen collection is essential for accurate results. Swabs must be collected from the appropriate sites and transported in appropriate transport media
+*   **Transport and Storage:** Follow laboratory guidelines for transport media, storage temperature, and holding times
+*   **Quality Control:** Strict quality control measures should be in place to ensure the accuracy and reliability of the laboratory tests
+*   **Correlation with Clinical Findings:** Laboratory results must always be interpreted in conjunction with the patient's clinical presentation, symptoms, and other relevant information
+*   **Sensitivity and Specificity:** The sensitivity and specificity of each test vary. NAATs are generally more sensitive than culture
+*   **Antimicrobial Resistance:** Antimicrobial resistance is an important consideration for *N. gonorrhoeae*. AST is performed to guide treatment
+*   **Reporting:** The laboratory report should include the results of all tests performed, along with any relevant interpretive comments
+*   **Follow-up:** In some cases, follow-up testing may be necessary to confirm the diagnosis or to monitor the response to treatment
+
+## **Key Terms** {-}
+*   ***Neisseria gonorrhoeae***: The bacterium that causes gonorrhea
+*   ***Chlamydia trachomatis***: The bacterium that causes chlamydia
+*   ***Streptococcus agalactiae***: Group B Streptococcus (GBS), a bacterium that can cause infections in newborns and pregnant women
+*   ***Mycoplasma* spp.:** Small, cell-wall-deficient bacteria
+*   **Culture:** A laboratory procedure used to grow microorganisms
+*   **Molecular Detection:** Laboratory tests that detect the presence of genetic material
+*   **NAAT (Nucleic Acid Amplification Test):** A laboratory test that amplifies DNA or RNA to detect microorganisms
+*   **PCR (Polymerase Chain Reaction):** A molecular technique used to amplify DNA
+*   **TMA (Transcription-Mediated Amplification):** A molecular technique used to amplify RNA
+*   **Selective Media:** Culture media that inhibit the growth of certain organisms while promoting the growth of others
+*   **Antibiotic Susceptibility Testing (AST):** Laboratory tests to determine which antibiotics are effective against a specific microorganism
+*   **CAMP Test:** A test used to identify *Streptococcus agalactiae*
+*   **Beta-hemolysis:** Complete breakdown of red blood cells
+*   **Intracytoplasmic Inclusions:** Structures found inside cells that contain the organism
+*   **Enzyme Immunoassay (EIA):** A laboratory test that uses antibodies to detect antigens
+*   **Antigen:** A substance that triggers an immune response
+*   **Direct Fluorescent Antibody (DFA) Test:** A test that uses fluorescently labeled antibodies to detect antigens
+*   ***Mycoplasma genitalium***: A sexually transmitted pathogen
+*   **Urease:** An enzyme that breaks down urea
+*   **Hybridization assays:** A molecular technique used to detect specific DNA sequences

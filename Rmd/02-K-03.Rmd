@@ -1,0 +1,114 @@
+#  Mechanisms of Action {-}
+
+This section outlines the mechanisms of action of major antibiotic classes, providing a fundamental understanding of how these drugs work to inhibit or kill bacteria
+
+## **Cell Wall Synthesis Inhibitors** {-}
+
+*   **Mechanism:** These antibiotics interfere with the synthesis of the bacterial cell wall, a structure essential for bacterial survival. They target different steps in the peptidoglycan synthesis pathway
+*   **Examples**
+    *   **Beta-Lactams**
+        *   **Mechanism:** These antibiotics (penicillins, cephalosporins, carbapenems, monobactams) bind to penicillin-binding proteins (PBPs), which are enzymes involved in the cross-linking of peptidoglycan. By inhibiting PBPs, beta-lactams prevent the formation of a strong and stable cell wall, leading to cell lysis and death
+        *   **Resistance:** Beta-lactamases are a major mechanism of resistance. These enzymes hydrolyze the beta-lactam ring, inactivating the antibiotic. Alterations in PBPs can also lead to resistance
+    *   **Glycopeptides**
+        *   **Mechanism:** Vancomycin and teicoplanin bind to the D-alanyl-D-alanine terminus of peptidoglycan precursors, preventing their incorporation into the growing cell wall. This inhibits cell wall synthesis and leads to cell death
+        *   **Resistance:** Resistance often involves a modification of the peptidoglycan precursor (e.g., D-alanyl-D-lactate or D-alanyl-D-serine), reducing the binding affinity of the glycopeptide
+    *   **Lipoglycopeptides**
+        *   **Mechanism:** These antibiotics (e.g., dalbavancin, oritavancin, telavancin) are modified glycopeptides that bind to the cell wall and also disrupt the bacterial cell membrane
+        *   **Resistance:** Similar mechanisms of resistance as glycopeptides
+    *   **Fosfomycin**
+        *   **Mechanism:** Inhibits the enzyme MurA, which catalyzes the first committed step in peptidoglycan synthesis
+        *   **Resistance:** Alterations in MurA or reduced uptake of the drug
+    *   **Cycloserine**
+        *   **Mechanism:** Inhibits alanine racemase and D-alanine ligase, which are involved in the synthesis of D-alanine, a key component of peptidoglycan
+        *   **Resistance:** Alterations in the target enzymes
+    *   **Bacitracin**
+        *   **Mechanism:** Inhibits the dephosphorylation of bactoprenol pyrophosphate, which is required for the transport of peptidoglycan precursors across the cell membrane
+        *   **Resistance:** Rare
+
+## **Protein Synthesis Inhibitors** {-}
+
+*   **Mechanism:** These antibiotics target the bacterial ribosomes, which are responsible for protein synthesis. They interfere with the process of translation, either by binding to the ribosome and blocking the attachment of tRNA or by preventing the formation of peptide bonds
+*   **Examples**
+    *   **Aminoglycosides**
+        *   **Mechanism:** Bind to the 30S ribosomal subunit, causing misreading of mRNA and premature termination of protein synthesis. They also disrupt the cell membrane
+        *   **Resistance:** Enzymatic modification of the antibiotic (acetylation, adenylation, phosphorylation), alteration of the ribosomal binding site, or reduced drug uptake
+    *   **Tetracyclines**
+        *   **Mechanism:** Bind to the 30S ribosomal subunit, blocking the attachment of tRNA and preventing the addition of amino acids to the growing peptide chain
+        *   **Resistance:** Efflux pumps, ribosomal protection proteins, or enzymatic inactivation
+    *   **Macrolides, Lincosamides, and Streptogramins (MLS)**
+        *   **Mechanism:** Bind to the 50S ribosomal subunit, inhibiting protein synthesis
+            *   Macrolides: Block the translocation of the ribosome along the mRNA
+            *   Lincosamides: Inhibit peptide bond formation
+            *   Streptogramins: Act synergistically, binding to different sites on the 50S subunit
+        *   **Resistance:** Ribosomal RNA methylation (erm genes), efflux pumps, or enzymatic inactivation
+    *   **Chloramphenicol**
+        *   **Mechanism:** Binds to the 50S ribosomal subunit and inhibits peptide bond formation
+        *   **Resistance:** Enzymatic inactivation (chloramphenicol acetyltransferase), reduced permeability, or ribosomal mutations
+    *   **Oxazolidinones (e.g., Linezolid)**
+        *   **Mechanism:** Bind to the 50S ribosomal subunit and prevent the formation of the initiation complex, thereby inhibiting protein synthesis
+        *   **Resistance:** Mutations in the 23S rRNA gene
+    *   **Glycylcyclines (e.g., Tigecycline)**
+        *   **Mechanism:** A derivative of tetracycline. Binds to the 30S ribosomal subunit and inhibits protein synthesis
+        *   **Resistance:** Efflux pumps and ribosomal protection proteins
+
+## **DNA Synthesis Inhibitors** {-}
+
+*   **Mechanism:** These antibiotics interfere with the replication, transcription, or repair of bacterial DNA
+*   **Examples**
+    *   **Quinolones (e.g., Ciprofloxacin, Levofloxacin)**
+        *   **Mechanism:** Inhibit bacterial DNA gyrase (topoisomerase II) and topoisomerase IV, enzymes essential for DNA replication, transcription, and repair
+        *   **Resistance:** Mutations in the genes encoding DNA gyrase and topoisomerase IV, reduced permeability, or efflux pumps
+    *   **Nitroimidazoles (e.g., Metronidazole)**
+        *   **Mechanism:** Activated by reduction in anaerobic bacteria, and the activated form damages DNA
+        *   **Resistance:** Reduced activation of the drug or mutations in the genes involved in DNA repair
+    *   **Rifamycins (e.g., Rifampin)**
+        *   **Mechanism:** Inhibit bacterial DNA-dependent RNA polymerase, preventing transcription of RNA and subsequent protein synthesis
+        *   **Resistance:** Mutations in the gene encoding RNA polymerase
+
+## **Folate Synthesis Inhibitors** {-}
+
+*   **Mechanism:** These antibiotics interfere with the synthesis of folic acid, a coenzyme essential for the production of DNA and RNA. Bacteria must synthesize folic acid, while humans obtain it from their diet
+*   **Examples**
+    *   **Sulfonamides (e.g., Sulfamethoxazole)**
+        *   **Mechanism:** Inhibit the enzyme dihydropteroate synthase, which is involved in the synthesis of folic acid
+        *   **Resistance:** Mutations in the gene encoding dihydropteroate synthase, leading to reduced drug binding
+    *   **Trimethoprim**
+        *   **Mechanism:** Inhibits the enzyme dihydrofolate reductase, which is also involved in folic acid synthesis
+        *   **Resistance:** Mutations in the gene encoding dihydrofolate reductase, or overproduction of the enzyme
+
+## **Cell Membrane Disruptors** {-}
+
+*   **Mechanism:** These antibiotics disrupt the bacterial cell membrane, causing leakage of cellular contents and cell death
+*   **Examples**
+    *   **Polymyxins (e.g., Colistin, Polymyxin B)**
+        *   **Mechanism:** Bind to the lipopolysaccharide (LPS) in the outer membrane of Gram-negative bacteria, disrupting the membrane structure and increasing permeability
+        *   **Resistance:** Modification of LPS
+    *   **Daptomycin**
+        *   **Mechanism:** Binds to the bacterial cell membrane, causing depolarization and disrupting membrane function
+        *   **Resistance:** Mutations in the cell membrane
+
+## **Important Considerations** {-}
+
+*   **Spectrum of Activity:** Different antibiotic classes have different spectra of activity, meaning they are effective against different types of bacteria (Gram-positive, Gram-negative, or both)
+*   **Bactericidal vs. Bacteriostatic:** Some antibiotics are bactericidal (kill bacteria), while others are bacteriostatic (inhibit bacterial growth)
+*   **Combination Therapy:** In some cases, antibiotics from different classes are used in combination to achieve synergistic effects, broaden the spectrum of activity, or prevent the emergence of resistance
+*   **Pharmacokinetics and Pharmacodynamics:** The effectiveness of an antibiotic also depends on its pharmacokinetic properties (absorption, distribution, metabolism, and excretion) and pharmacodynamic properties (how the drug affects the bacteria over time)
+*   **Resistance Mechanisms:** Bacteria can develop resistance to antibiotics through various mechanisms, including enzymatic inactivation, target modification, reduced permeability, and efflux pumps. Understanding these mechanisms is crucial for developing new antibiotics and strategies to combat resistance
+
+## **Key Terms** {-}
+
+*   **Cell Wall:** The rigid outer layer of bacterial cells, essential for their survival
+*   **Peptidoglycan:** A polymer that forms the main component of the bacterial cell wall
+*   **Ribosome:** The cellular structure responsible for protein synthesis
+*   **DNA Gyrase:** An enzyme involved in DNA replication and transcription
+*   **RNA Polymerase:** An enzyme responsible for transcribing DNA into RNA
+*   **Folic Acid:** A coenzyme essential for the synthesis of DNA and RNA
+*   **Cell Membrane:** The barrier that surrounds the bacterial cell, regulating the passage of substances
+*   **Spectrum of Activity:** The range of bacterial species an antibiotic is effective against
+*   **Bactericidal:** An antibiotic that kills bacteria
+*   **Bacteriostatic:** An antibiotic that inhibits bacterial growth
+*   **Resistance:** The ability of a bacterium to survive and multiply in the presence of an antibiotic
+*   **Mutation:** A change in the DNA sequence of a bacterium
+*   **Efflux Pump:** A mechanism used by bacteria to pump antibiotics out of the cell
+*   **Enzymatic Inactivation:** A mechanism where a bacterium produces an enzyme that inactivates an antibiotic
+*   **Target Modification:** A mechanism where the bacterial target of an antibiotic is altered, reducing the antibiotic's ability to bind

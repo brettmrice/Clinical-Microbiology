@@ -1,0 +1,82 @@
+# Antifungal Susceptibility {-}
+
+This section covers antifungal susceptibility testing (AFST), covering manual and automated methods, classes of antifungal agents, and intrinsic resistance patterns
+
+## **Antifungal Susceptibility Testing (AFST)** {-}
+
+*   **Purpose:** To determine the susceptibility of a fungal isolate to various antifungal agents, guiding appropriate therapy
+*   **Importance:**
+    *   Guides antifungal therapy
+    *   Detects resistance
+    *   Monitors resistance trends
+    *   Optimizes dosing
+
+### **Manual Methods** {-}
+
+*   **Broth Microdilution (BMD)**
+    *   **Principle:** Two-fold dilutions of antifungals in broth; MIC is the lowest concentration inhibiting growth
+    *   **Advantages:** Gold standard, quantitative, versatile, inexpensive
+    *   **Limitations:** Labor-intensive, subjective, expertise required
+*   **Etest**
+    *   **Principle:** Antifungal gradient on a strip; MIC is where the zone intersects the strip
+    *   **Advantages:** Easy to perform, quantitative, versatile
+    *   **Limitations:** More expensive, reading can be difficult
+
+### **Automated Methods** {-}
+
+*   **Examples:** Vitek 2, MicroScan, Sensititre
+*   **Principle:** Automate inoculation, incubation, reading, and interpretation
+*   **Advantages:** Faster, increased throughput, reduced labor, standardized
+*   **Limitations:** Higher cost, limited species coverage, requires maintenance
+
+## **Classes of Antifungal Agents** {-}
+
+*   **Azoles**
+    *   **Mechanism:** Inhibit ergosterol synthesis
+    *   **Types:** Fluconazole, itraconazole, voriconazole, posaconazole, isavuconazole
+    *   **Spectrum:** Broad, but varies by azole and species
+    *   **Considerations:** Drug interactions, resistance, QT prolongation
+*   **Polyenes**
+    *   **Mechanism:** Bind to ergosterol, disrupting the cell membrane
+    *   **Types:** Amphotericin B (D-AmB, lipid formulations), nystatin
+    *   **Spectrum:** Broad
+    *   **Considerations:** Toxicity (nephrotoxicity, infusion reactions), poor oral absorption
+*   **Echinocandins**
+    *   **Mechanism:** Inhibit beta-1,3-glucan synthesis
+    *   **Types:** Caspofungin, micafungin, anidulafungin
+    *   **Spectrum:** *Candida*, *Aspergillus*
+    *   **Considerations:** Limited spectrum, IV only, resistance in *C. glabrata*
+*   **Allylamines**
+    *   **Mechanism:** Inhibit squalene epoxidase
+    *   **Types:** Terbinafine, naftifine
+    *   **Spectrum:** Dermatophytes
+    *   **Considerations:** Limited to dermatophytes, hepatotoxicity
+*   **Flucytosine (5-FC)**
+    *   **Mechanism:** Inhibits DNA and RNA synthesis
+    *   **Spectrum:** *Cryptococcus*, *Candida*, some molds
+    *   **Considerations:** Resistance, bone marrow suppression, hepatotoxicity
+*   **Griseofulvin**
+    *   **Mechanism:** Disrupts microtubule function
+    *   **Spectrum:** Dermatophytes
+    *   **Considerations:** Limited to dermatophytes, long duration, drug interactions
+
+## **Intrinsic Resistance Patterns** {-}
+
+*   **Definition:** Inherent resistance due to genetic makeup, not prior exposure
+*   **Examples**
+    *   ***Candida krusei***: Fluconazole
+    *   ***Candida glabrata***: Reduced azole susceptibility
+    *   ***Candida auris***: Variable, often multidrug-resistant
+    *   ***Scedosporium spp.***: Amphotericin B, many azoles
+    *   ***Fusarium spp.***: Amphotericin B, many azoles
+    *   ***Mucorales***: Voriconazole
+*   **Importance**
+    *   Guides initial therapy
+    *   Avoids ineffective agents
+    *   Prevents treatment failure
+    *   Guides antifungal stewardship
+*   **Laboratory Considerations**
+    *   Perform AFST on significant isolates
+    *   Follow quality control procedures
+    *   Report results accurately with interpretive comments
+    *   Communicate about intrinsic resistance patterns

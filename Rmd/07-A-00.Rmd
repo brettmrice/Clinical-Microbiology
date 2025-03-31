@@ -1,0 +1,55 @@
+# (PART\*) Serology {-}
+
+# Procedures {-}
+
+This section encapsulates the key concepts and procedures within serology, focusing on the body's immune response, antigen-antibody interactions, and specific pathogens. It provides a structured framework for understanding the role of serological testing in diagnosing and monitoring infectious diseases
+
+## **Immunoglobulin Response to Infection** {-}
+
+*   **IgM:** Typically the first antibody produced in response to a new infection, indicating an acute or recent infection
+*   **IgG:** The most abundant antibody in serum, indicating past infection or vaccination, and providing long-term immunity
+*   **IgA:** Predominant antibody in mucosal secretions, providing localized immunity at mucosal surfaces
+
+## **Antigen-Antibody Interactions** {-}
+
+*   **Specificity:** The ability of an antibody to bind to a specific antigen
+*   **Affinity and Avidity:** Affinity refers to the strength of a single antigen-antibody bond, while avidity describes the overall strength of the interaction
+*   **Cross-Reactivity:** The ability of an antibody to bind to similar, but not identical, antigens
+*   **Factors Affecting Interactions:** Temperature, pH, ionic strength, incubation time, and antigen/antibody concentrations
+
+## **Testing Methods for Antigen-Antibody Interactions** {-}
+
+*   **Agglutination:** Visible clumping of particles due to antibody-antigen binding
+*   **EIA/ELISA:** Enzyme-labeled antibodies or antigens detect and quantify immune complexes
+*   **Chemiluminescence:** Chemiluminescent-labeled antibodies or antigens detect and quantify immune complexes
+*   **Immunofluorescence:** Fluorescently labeled antibodies detect antigens or antibodies in a sample
+
+## **Serodiagnosis of Viral Pathogens** {-}
+
+*   **Hepatitis A (HAV):** Anti-HAV IgM (acute), Anti-HAV IgG (past/immune)
+*   **Hepatitis B (HBV):** HBsAg (current), Anti-HBs (immune), Anti-HBc IgM (acute), Anti-HBc IgG (past/chronic)
+*   **Hepatitis C (HCV):** Anti-HCV (exposure), HCV RNA (active infection)
+*   **Epstein-Barr Virus (EBV):** VCA IgM (acute), VCA IgG (past), EA IgG (acute/reactivation), EBNA IgG (past)
+*   **Human Immunodeficiency Virus (HIV):** HIV Antibody/Antigen Combination Assay, HIV Antibody Differentiation Assay, HIV RNA
+*   **Cytomegalovirus (CMV):** CMV IgM (acute/recent), CMV IgG (past), CMV DNA (active infection)
+*   **Rubella:** Rubella IgM (acute), Rubella IgG (immune)
+*   **Measles:** Measles IgM (acute), Measles IgG (immune)
+
+## **Serodiagnosis of Agents of Encephalitis** {-}
+
+*   **West Nile Virus (WNV):** WNV IgM (recent), WNV IgG (past), Plaque Reduction Neutralization Test (PRNT)
+*   **St. Louis Encephalitis Virus (SLEV):** SLEV IgM (recent), SLEV IgG (past), Plaque Reduction Neutralization Test (PRNT)
+*   **La Crosse Virus (LACV):** LACV IgM (recent), LACV IgG (past)
+*   **Eastern Equine Encephalitis Virus (EEEV):** EEEV IgM (recent), EEEV IgG (past)
+*   **Western Equine Encephalitis Virus (WEEV):** WEEV IgM (recent), WEEV IgG (past)
+*   **Powassan Virus (POWV):** POWV IgM (recent), POWV IgG (past)
+
+## **Serodiagnosis of *Treponema pallidum* and *Borrelia burgdorferi*** {-}
+
+*   ***Treponema pallidum* (Syphilis):** Nontreponemal tests (RPR, VDRL) for screening, Treponemal tests (FTA-ABS, TP-PA) for confirmation
+*   ***Borrelia burgdorferi* (Lyme Disease):** EIA or ELISA for screening, Western blot for confirmation
+
+## **VII. Serodiagnosis of Tuberculosis** {-}
+
+*   **Tuberculin Skin Test (TST):** Based on delayed-type hypersensitivity to tuberculin
+*   **Interferon-Gamma Release Assays (IGRAs):** Measure IFN-γ release in response to *M. tuberculosis*-specific antigens
