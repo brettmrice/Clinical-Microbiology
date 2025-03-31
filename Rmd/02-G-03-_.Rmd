@@ -1,0 +1,133 @@
+#  Colony Morphology & ID {-}
+
+This section covers the key analytic procedures used in the clinical microbiology laboratory for diagnosing bacterial infections of the skin, soft tissues, and bone. It encompasses the initial steps of specimen processing through to the identification of significant pathogens, including those associated with bite wounds and zoonotic infections
+
+##  **Specimen Collection and Processing** {-}
+
+*   **Specimen Sources**
+    *   **Skin:** Wounds, abscesses, biopsies
+    *   **Soft Tissue:** Wounds, abscesses, biopsies
+    *   **Bone:** Biopsies, aspirates
+    *   **Bite Wounds:** Aspirates, tissue samples
+*   **Collection Techniques**
+    *   **Aseptic Technique:** Crucial to minimize contamination
+    *   **Swabs:** Superficial wounds
+    *   **Aspiration:** Abscesses, closed wounds
+    *   **Tissue Biopsy:** Deep wounds, bone infections, and when a definitive diagnosis is needed
+*   **Specimen Transport and Storage**
+    *   **Prompt Delivery:** Transport to the lab as quickly as possible
+    *   **Transport Media:** Transport media (e.g., Amies transport medium) for delayed processing
+    *   **Refrigeration:** Refrigerate specimens if processing is delayed
+
+##  **Gram Stain** {-}
+
+*   **Purpose:** Rapidly assess the presence of bacteria, their morphology, and Gram-staining characteristics
+*   **Procedure:** Apply the specimen to a slide, stain with crystal violet, iodine, decolorizer, and safranin
+*   **Interpretation**
+    *   **Gram-Positive:** Purple cocci (e.g., *Staphylococcus aureus*, *Streptococci*), rods (e.g., *Bacillus anthracis* - note spores)
+    *   **Gram-Negative:** Pink/red coccobacilli or rods (e.g., *Pseudomonas aeruginosa*, *Pasteurella multocida*, *Eikenella corrodens*)
+    *   Can provide clues for further testing
+
+##  **Culture and Colony Morphology** {-}
+
+*   **Purpose:** Isolate and grow bacteria for identification and antimicrobial susceptibility testing
+*   **Culture Media**
+    *   **Blood Agar (BAP):** General-purpose, used for most organisms
+    *   **MacConkey Agar (MAC):** Selective for Gram-negative bacteria; differentiates lactose fermenters
+    *   **Mannitol Salt Agar (MSA):** Selective for *Staphylococcus* spp.; differentiates *S. aureus* (mannitol fermentation)
+    *   **Chocolate Agar (CHOC):** Enriched, supports the growth of fastidious organisms
+    *   **Anaerobic Blood Agar:** For anaerobic bacteria
+    *   **Selective Media:** For specific organisms (e.g., Cetrimide agar for *Pseudomonas aeruginosa*)
+*   **Incubation**
+    *   Aerobic conditions (35-37°C)
+    *   CO2-enriched atmosphere (for some organisms)
+    *   Anaerobic conditions (for anaerobic bacteria)
+    *   Prolonged incubation (up to 14 days, for slow-growing organisms)
+*   **Colony Morphology Examination**
+    *   **Size**
+    *   **Shape**
+    *   **Color**
+    *   **Texture**
+    *   **Hemolysis:** (alpha, beta, gamma)
+    *   **Odor:** (e.g., musty, mousy, bleach-like)
+    *   **Appearance:** (e.g., "medusa head", "fried egg", pitting)
+    *   These characteristics provide initial clues for presumptive identification
+
+##  **Presumptive Identification Methods** {-}
+
+*   **Gram Stain:** Confirmation of Gram reaction and morphology
+*   **Catalase Test:** Differentiates *Staphylococcus* (positive) from *Streptococcus* (negative)
+*   **Oxidase Test:** Differentiates *Pseudomonas* (positive) from Enterobacteriaceae (usually negative)
+*   **Other Rapid Tests**
+    *   Coagulase test (for *S. aureus*)
+    *   Bacitracin susceptibility (for Group A *Streptococcus*)
+    *   PYR test (for Group A *Streptococcus*)
+    *   Urease test
+    *   Indole test
+    *   Motility
+    *   Production of pigments
+
+##  **Definitive Identification Methods** {-}
+
+*   **Biochemical Tests**
+    *   **Carbohydrate Fermentation:** Glucose, lactose, mannitol, etc
+    *   **Enzyme Activity:** Urease, indole production, etc
+    *   **Triple Sugar Iron (TSI) Agar:** Fermentation of glucose, lactose, sucrose, and H2S production
+    *   **Citrate Utilization**
+    *   **Lysine Decarboxylase**
+    *   **Ornithine Decarboxylase**
+    *   **Phenylalanine Deaminase**
+*   **Serological Tests**
+    *   Latex Agglutination: For *Staphylococcus aureus* and *Streptococcus pyogenes*
+    *   Lancefield Grouping
+    *   ELISA: For *Brucella*, *Francisella tularensis*, and other pathogens
+    *   Serum Agglutination Test (SAT)
+    *   Microagglutination Test (MAT)
+    *   Complement Fixation Test (CFT)
+*   **Commercial Identification Systems**
+    *   API strips
+    *   Vitek 2
+    *   MALDI-TOF MS
+*   **Molecular Methods**
+    *   PCR: Detection of specific genes, e.g., *mecA* (methicillin resistance), anthrax toxin genes, *emm* gene
+
+##  **Antimicrobial Susceptibility Testing (AST)** {-}
+
+*   **Purpose:** Determine the antibiotic susceptibility of the isolate
+*   **Methods**
+    *   Disk diffusion (Kirby-Bauer)
+    *   Microbroth dilution (MIC determination)
+    *   Gradient diffusion (e.g., Etest)
+*   **Interpretation**
+    *   S (Susceptible): The antibiotic is likely to be effective
+    *   I (Intermediate): The antibiotic may be effective at higher doses or at the site of infection
+    *   R (Resistant): The antibiotic is likely to be ineffective
+*   **Reporting:** Report results according to CLSI guidelines
+
+##  **Specific Pathogens and Considerations** {-}
+
+*   **Key Pathogens**
+    *   ***Staphylococcus aureus***: Gram-positive cocci, clusters, beta-hemolytic, coagulase-positive, mannitol fermenter
+    *   **Beta-hemolytic Streptococci:** Gram-positive cocci, chains, beta-hemolytic, Lancefield grouping
+    *   ***Pseudomonas aeruginosa***: Gram-negative rod, non-lactose fermenter, oxidase-positive, pigment production (pyocyanin)
+    *   ***Pasteurella multocida***: Gram-negative coccobacillus, oxidase-positive, from animal bites
+    *   ***Eikenella corrodens***: Gram-negative rod, oxidase-positive, pitting colonies, from human bites
+    *   ***Bacillus anthracis***: Gram-positive rod, spore-forming, "medusa head" colonies, non-motile, Gamma phage lysis
+    *   ***Brucella* spp.**: Gram-negative coccobacilli, requires CO2, slow-growing, serological tests
+    *   ***Francisella tularensis***: Gram-negative coccobacillus, requires enriched media, serological tests, PCR
+    *   ***Yersinia pestis***: Gram-negative coccobacillus, "fried egg" colonies, bipolar staining, DFA, PCR
+*   **Zoonotic Infections**
+    *   *Bacillus anthracis*
+    *   *Brucella* spp
+    *   *Francisella tularensis*
+    *   *Yersinia* spp
+    *   **Important Note:** Zoonotic agents require appropriate BSL-2 or BSL-3 containment
+
+##  **Reporting** {-}
+
+*   **Report**
+    *   Organism(s) identified
+    *   Colony count (if quantitative culture)
+    *   Gram stain morphology
+    *   Antimicrobial susceptibility results (if applicable)
+    *   Relevant clinical information

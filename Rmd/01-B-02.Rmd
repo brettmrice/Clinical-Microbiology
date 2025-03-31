@@ -1,0 +1,162 @@
+# Biosafety Cabinet & PPE {-}
+
+Biosafety cabinets and personal protective equipment (PPE) are our front-line defenses against potentially hazardous microorganisms. Understanding how to use them properly is absolutely crucial for protecting ourselves, our colleagues, and the integrity of our work
+
+## **Biosafety Cabinets (BSCs): Our Clean Air Fortress** {-}
+
+*   **What is a Biosafety Cabinet?**
+    *   A BSC is a specialized, ventilated enclosure designed to protect laboratory personnel, the environment, and the samples being manipulated from exposure to infectious aerosols and splashes
+    *   It uses a combination of airflow and HEPA (High-Efficiency Particulate Air) filtration to create a safe working environment
+
+*   **Why are BSCs Important?**
+    *   **Personnel Protection:** BSCs minimize the risk of inhaling or being exposed to infectious agents during procedures that generate aerosols (e.g., pipetting, vortexing, plating)
+    *   **Product Protection:** BSCs prevent contamination of samples by airborne particles, ensuring the integrity of cultures and tests
+    *   **Environmental Protection:** BSCs filter exhaust air to prevent the release of hazardous microorganisms into the laboratory environment
+
+*   **Types of Biosafety Cabinets**
+    *   **Class I BSC**
+        *   Provides personnel and environmental protection, but *no* product protection
+        *   Air is drawn into the cabinet from the room, across the work surface, and exhausted through a HEPA filter
+        *   Suitable for procedures involving low to moderate-risk agents
+    *   **Class II BSC**
+        *   Provides personnel, product, and environmental protection
+        *   Air is drawn into the cabinet, passes through a HEPA filter, flows vertically over the work surface (laminar airflow), and is either recirculated or exhausted through another HEPA filter
+        *   **Most common type in clinical microbiology labs**
+        *   **Subtypes**
+            *   **Type A2:** Most common; 70% of air is recirculated, 30% exhausted
+            *   **Type B2:** All air is exhausted; requires hard-ducted connection to the building exhaust system
+    *   **Class III BSC**
+        *   Provides maximum protection for personnel, product, and environment
+        *   Gas-tight enclosure with physical separation between the worker and the materials
+        *   Operations are performed with long, heavy-duty rubber gloves attached to the cabinet
+        *   Used for high-risk agents (e.g., handling cultures of *Bacillus anthracis*, *Yersinia pestis*)
+
+*   **How to Use a Class II BSC Properly**
+    1.  **Preparation**
+        *   **Check Certification:** Ensure the BSC is certified annually and functioning correctly
+        *   **Disinfect:** Wipe down the interior surfaces of the BSC with an appropriate disinfectant (e.g., 70% ethanol) before and after each use
+        *   **Arrange Materials:** Place all necessary materials inside the BSC *before* starting work, minimizing the need to reach in and out during the procedure
+        *   **Avoid Overcrowding:** Do not overcrowd the BSC; this can disrupt airflow patterns
+    2.  **Operation**
+        *   **Turn on the BSC:** Allow the blower to run for at least 5-15 minutes *before* starting work to establish proper airflow (follow manufacturer's instructions)
+        *   **Work within the "Safe Zone":** Work at least 4 inches (10 cm) inside the front opening of the BSC to maintain proper airflow and containment
+        *   **Minimize Disruptions:** Avoid rapid movements, opening/closing doors, or talking excessively near the BSC, as these can disrupt airflow
+        *   **Contain Spills:** Clean up any spills immediately with an appropriate disinfectant
+        *   **Proper Pipetting Technique:** Use cotton-plugged pipettes and avoid blowing out the last drop
+        *   **Sharps Disposal:** Use a sharps container inside the BSC for discarding needles, scalpel blades, and other sharp objects
+    3.  **Completion**
+        *   **Decontaminate:** Wipe down all materials and surfaces inside the BSC with disinfectant
+        *   **Remove Materials:** Remove all materials from the BSC
+        *   **Run the Blower:** Allow the blower to run for at least 5-15 minutes after completing work to purge any remaining aerosols (follow manufacturer's instructions)
+        *   **Turn off UV Light (if applicable):** If the BSC has a UV light, use it *only* when the BSC is not in use and no one is present in the room. UV light is harmful to skin and eyes
+
+*   **Common Mistakes to Avoid**
+    *   **Blocking Airflow Grilles:** Do not block the front or rear air intake grilles, as this will compromise the BSC's performance
+    *   **Using the BSC as Storage:** Do not use the BSC as a permanent storage area; this can reduce airflow and increase the risk of contamination
+    *   **Working Too Quickly:** Work deliberately and avoid rushing, as this can increase the risk of spills and aerosols
+    *   **Disregarding Alarms:** If the BSC has an alarm, investigate the cause immediately and do not use the BSC until the problem is resolved
+
+## **Personal Protective Equipment (PPE): Our Physical Barrier** {-}
+
+*   **What is PPE?**
+    *   PPE refers to clothing and equipment designed to protect laboratory personnel from contact with infectious agents and hazardous materials
+    *   The type of PPE required depends on the specific risks associated with the procedure being performed
+
+*   **Why is PPE Important?**
+    *   **Reduces Exposure:** PPE minimizes the risk of direct contact with microorganisms, preventing infection through skin, mucous membranes, or inhalation
+    *   **Protects Clothing:** PPE protects personal clothing from contamination
+    *   **Provides a Barrier:** PPE acts as a physical barrier between the worker and potential hazards
+
+*   **Types of PPE Commonly Used in Microbiology Labs**
+    *   **Gloves**
+        *   **Purpose:** Protect hands from direct contact with infectious materials, chemicals, and contaminated surfaces
+        *   **Types**
+            *   **Nitrile Gloves:** Most common; offer good chemical resistance and are less likely to cause allergic reactions than latex
+            *   **Latex Gloves:** Provide good elasticity and dexterity but can cause allergic reactions in some individuals
+            *   **Utility Gloves:** Heavy-duty gloves used for cleaning and disinfecting
+        *   **Proper Use**
+            *   Wear gloves whenever handling specimens, cultures, or contaminated materials
+            *   Change gloves between handling different specimens or when gloves are torn or punctured
+            *   Remove gloves properly to avoid contaminating hands (glove-in-glove technique)
+            *   Wash hands immediately after removing gloves
+    *   **Lab Coats/Gowns**
+        *   **Purpose:** Protect clothing and skin from splashes, spills, and contamination
+        *   **Types**
+            *   **Reusable Lab Coats:** Laundered regularly by the laboratory or a professional service
+            *   **Disposable Gowns:** Used for procedures with a high risk of contamination
+        *   **Proper Use**
+            *   Wear a lab coat or gown whenever working in the laboratory
+            *   Button or snap the lab coat closed
+            *   Remove the lab coat before leaving the laboratory area
+            *   Launder reusable lab coats regularly
+    *   **Eye Protection**
+        *   **Purpose:** Protect eyes from splashes, aerosols, and projectiles
+        *   **Types**
+            *   **Safety Glasses:** Provide basic protection from splashes and impacts
+            *   **Goggles:** Offer better protection than safety glasses, especially against splashes and aerosols
+            *   **Face Shields:** Provide full-face protection, especially when there is a high risk of splashes
+        *   **Proper Use**
+            *   Wear eye protection whenever there is a risk of splashes or aerosols
+            *   Ensure eye protection fits properly and provides adequate coverage
+            *   Clean and disinfect eye protection after each use
+    *   **Respirators**
+        *   **Purpose:** Protect the respiratory system from airborne particles, aerosols, and vapors
+        *   **Types**
+            *   **N95 Respirators:** Filter at least 95% of airborne particles; require fit testing to ensure proper seal
+            *   **Powered Air-Purifying Respirators (PAPRs):** Provide a higher level of protection than N95 respirators; use a blower to force air through a filter
+        *   **Proper Use**
+            *   Use respirators when handling agents that pose a respiratory hazard (e.g., *Mycobacterium tuberculosis*)
+            *   Undergo fit testing to ensure proper seal
+            *   Follow manufacturer's instructions for use and maintenance
+    *   **Shoe Covers**
+        *   **Purpose:** Protect shoes from contamination and prevent the spread of microorganisms outside the laboratory
+        *   **Proper Use**
+            *   Wear shoe covers in areas where there is a high risk of floor contamination
+            *   Remove shoe covers before leaving the laboratory area
+
+*   **Donning (Putting On) and Doffing (Taking Off) PPE**
+    *   **Donning (Typical Order)**
+        1.  Lab coat or gown
+        2.  Mask or respirator (if required)
+        3.  Eye protection (safety glasses, goggles, or face shield)
+        4.  Gloves (ensure gloves overlap the cuffs of the lab coat)
+    *   **Doffing (Typical Order - Critical to Prevent Contamination)**
+        1.  **Gloves:** Remove gloves using the glove-in-glove technique (grasp the outside of one glove with the gloved hand and peel it off, then slide fingers of the ungloved hand under the remaining glove cuff and peel it off)
+        2.  **Eye Protection:** Remove goggles or face shield (handle by the straps or temples)
+        3.  **Gown/Lab Coat:** Unfasten the gown or lab coat and pull it away from the body (roll the gown inside out)
+        4.  **Mask/Respirator:** Remove the mask or respirator by the straps (avoid touching the front of the mask)
+        5.  **Hand Hygiene:** Perform hand hygiene immediately after removing all PPE
+
+*   **Hand Hygiene: The Foundation of Infection Control**
+    *   Wash hands frequently with soap and water for at least 20 seconds
+    *   Use an alcohol-based hand sanitizer (at least 60% alcohol) when soap and water are not available
+    *   Perform hand hygiene:
+        *   Before and after working in the lab
+        *   Before and after wearing gloves
+        *   After touching potentially contaminated surfaces
+        *   Before eating, drinking, or smoking
+
+## **Key Considerations and Best Practices** {-}
+
+*   **Risk Assessment:** Conduct a thorough risk assessment to determine the appropriate PPE and BSC requirements for each procedure
+*   **Training:** Provide comprehensive training to all laboratory personnel on the proper use, maintenance, and disposal of PPE and BSCs
+*   **Availability:** Ensure that PPE and BSCs are readily available and accessible in the laboratory
+*   **Fit Testing:** Conduct regular fit testing for respirators to ensure proper seal and protection
+*   **Maintenance:** Regularly inspect and maintain BSCs and PPE to ensure they are functioning correctly
+*   **Compliance:** Enforce strict adherence to PPE and BSC protocols
+*   **Waste Disposal:** Follow proper procedures for the disposal of contaminated PPE and other laboratory waste
+*   **Emergency Procedures:** Establish clear procedures for handling spills, exposures, and other emergencies
+
+## **Key Terms** {-}
+
+*   **Aerosol:** A suspension of fine solid particles or liquid droplets in air
+*   **Biohazard:** A biological agent or condition that poses a risk to human health
+*   **Decontamination:** The process of removing or neutralizing contaminants on a surface or object
+*   **Disinfection:** The process of killing or inhibiting the growth of microorganisms on a surface or object
+*   **Exposure:** Contact with a hazardous agent through inhalation, ingestion, skin contact, or mucous membrane contact
+*   **HEPA Filter:** A high-efficiency particulate air filter that removes at least 99.97% of particles 0.3 micrometers in diameter
+*   **Laminar Airflow:** Airflow that moves in parallel layers with minimal disruption
+*   **Pathogen:** A microorganism that can cause disease
+*   **PPE:** Personal protective equipment
+*   **Risk Assessment:** A systematic process for identifying and evaluating potential hazards
+*   **Sterilization:** The process of killing or removing all microorganisms, including spores

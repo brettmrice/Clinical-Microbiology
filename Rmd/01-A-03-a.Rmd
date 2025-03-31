@@ -1,0 +1,101 @@
+# Transport Devices {-}
+
+Appropriate transport systems and conditions are critical for maintaining the viability and integrity of microorganisms from the point of collection to the laboratory. The selection of the correct transport device is a key factor in ensuring that the specimen arrives in the lab in a condition suitable for accurate testing
+
+## **Importance** {-}
+
+*   **Maintaining Viability:** Transport devices are designed to preserve the viability of microorganisms during transport, preventing them from dying or becoming overgrown by other organisms
+*   **Preventing Overgrowth:** Some transport media contain preservatives or inhibitors that prevent the overgrowth of certain organisms, ensuring that the pathogens of interest can be detected
+*   **Protecting Specimen Integrity:** Transport devices protect the specimen from physical damage, leakage, and contamination during transport
+*   **Ensuring Accurate Results:** Proper transport conditions are essential for obtaining accurate and reliable test results, which are critical for patient care
+
+## **General Requirements for Transport Devices** {-}
+
+*   **Sterility:** Transport devices must be sterile to prevent contamination of the specimen
+*   **Leak-Proof:** Transport devices must be leak-proof to prevent spillage and contamination
+*   **Appropriate Medium:** The transport medium must be appropriate for the type of specimen and the microorganisms being tested for
+*   **Temperature Control:** Transport devices may need to maintain a specific temperature range to preserve the viability of certain organisms
+*   **Clear Labeling:** Transport devices must be clearly labeled with the patient's information, the date and time of collection, and the type of specimen
+
+## **Types of Transport Devices** {-}
+
+### **Swabs** {-}
+
+*   **Amies Transport Medium:** A widely used transport medium for bacterial culture
+    *   **Composition:** Contains salts, buffers, and charcoal to maintain pH, provide nutrients, and neutralize toxic substances
+    *   **Uses:** Suitable for a wide range of bacteria, including aerobic and anaerobic organisms
+    *   **Types:** Available with or without charcoal. Charcoal helps to neutralize inhibitory substances and improve the recovery of fastidious organisms
+*   **Liquid Amies Transport Medium:** Similar to Amies medium but in liquid form
+    *   **Uses:** Suitable for automated specimen processing and molecular testing
+*   **Dacron or Rayon Swabs:** Preferred over cotton swabs, as cotton can inhibit the growth of some bacteria
+*   **Uses:** Throat, wound, skin, and genital specimens
+
+### **Sterile Containers** {-}
+
+*   **Sterile Urine Containers:** Used for collecting urine specimens for culture and urinalysis
+    *   **Types:** Available with or without preservatives
+    *   **Uses:** Urine culture, urinalysis
+*   **Sterile Specimen Cups:** Used for collecting a variety of specimens, including stool, sputum, and tissue
+    *   **Types:** Available in various sizes and with different closures
+    *   **Uses:** Stool culture, sputum culture, tissue culture
+*   **Anaerobic Transport Containers:** Used for collecting specimens for anaerobic culture
+    *   **Types:** Vials or tubes containing an oxygen-free environment
+    *   **Uses:** Deep wound infections, abscesses, and other specimens where anaerobic bacteria are suspected
+
+### **Transport Media for Specific Organisms** {-}
+
+*   **Cary-Blair Medium:** Used for transporting stool specimens for bacterial culture
+    *   **Composition:** Contains salts, buffers, and a reducing agent to maintain pH and prevent oxidation
+    *   **Uses:** *Salmonella*, *Shigella*, *Campylobacter*, and *E. coli* O157:H7
+*   **Viral Transport Medium (VTM):** Used for transporting specimens for viral culture and molecular testing
+    *   **Composition:** Contains salts, buffers, proteins, and antibiotics to maintain viral viability and prevent bacterial contamination
+    *   **Uses:** Respiratory viruses (influenza, RSV), herpes simplex virus (HSV), and other viruses
+*   **Mycobacterial Transport Medium:** Used for transporting specimens for mycobacterial culture
+    *   **Types:** Middlebrook 7H9 broth, Dubos broth
+    *   **Uses:** *Mycobacterium tuberculosis* and other mycobacteria
+*   **Fungal Transport Medium:** Used for transporting specimens for fungal culture
+    *   **Types:** Mycosel agar, Sabouraud dextrose agar
+    *   **Uses:** Dermatophytes, yeasts, and molds
+
+### **Blood Culture Bottles** {-}
+
+*   **Aerobic Bottles:** Contain a nutrient broth that supports the growth of aerobic bacteria
+*   **Anaerobic Bottles:** Contain a nutrient broth that supports the growth of anaerobic bacteria
+*   **Pediatric Bottles:** Contain a smaller volume of nutrient broth for use with pediatric patients
+
+## **Selection of the Appropriate Transport Device** {-}
+
+*   **Type of Specimen:** Consider the type of specimen being collected (e.g., swab, fluid, tissue)
+*   **Organisms Suspected:** Consider the organisms that are suspected of causing the infection (e.g., bacteria, viruses, fungi)
+*   **Testing Requirements:** Consider the type of testing that will be performed (e.g., culture, molecular testing)
+*   **Laboratory Guidelines:** Follow the laboratory's guidelines for specimen collection and transport
+
+## **Specific Considerations** {-}
+
+*   **Anaerobic Culture:** Anaerobic organisms are particularly sensitive to oxygen. Specimens for anaerobic culture should be collected and transported in anaerobic transport containers to maintain an oxygen-free environment
+*   **Fastidious Organisms:** Fastidious organisms have complex nutritional requirements and may require special transport media to maintain their viability. Examples include *Neisseria gonorrhoeae* and *Haemophilus influenzae*
+*   **Molecular Testing:** Specimens for molecular testing may require special transport media to preserve the integrity of nucleic acids. Follow the manufacturer's instructions for the specific test being performed
+
+## **Common Errors and How to Avoid Them** {-}
+
+*   **Using Expired Transport Devices:** Always check the expiration date of transport devices before use
+*   **Improper Storage:** Store transport devices according to the manufacturer's instructions
+*   **Overfilling or Underfilling:** Follow the manufacturer's instructions for the correct fill volume
+*   **Delay in Transport:** Transport specimens to the laboratory as soon as possible
+*   **Failure to Label:** Clearly label transport devices with the patient's information, the date and time of collection, and the type of specimen
+
+## **Documentation and Quality Control** {-}
+
+*   **Documentation:** Record the type of transport device used, the date and time of collection, and any relevant observations or deviations from standard procedure
+*   **Quality Control:** Regularly monitor the performance of transport devices to ensure that they are maintaining the viability of microorganisms
+*   **Training:** Provide ongoing training and education to personnel on the proper use of transport devices
+
+## **Key Terms** {-}
+
+*   **Transport Medium:** A liquid or gel that is used to maintain the viability of microorganisms during transport
+*   **Fastidious Organisms:** Organisms with complex nutritional requirements
+*   **Anaerobic Organisms:** Organisms that grow in the absence of oxygen
+*   **Aerobic Organisms:** Organisms that grow in the presence of oxygen
+*   **Molecular Testing:** Testing that involves the detection and analysis of nucleic acids
+*   **Sterile:** Free from microorganisms
+*   **Viability:** The ability of microorganisms to survive and reproduce

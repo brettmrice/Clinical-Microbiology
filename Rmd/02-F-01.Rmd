@@ -1,0 +1,135 @@
+#  Colony Morphology & ID {-}
+
+The gastrointestinal (GI) tract harbors a complex ecosystem of bacteria. Identifying and characterizing the major pathogens responsible for diarrheal illnesses is crucial for timely diagnosis, appropriate treatment, and public health surveillance. The laboratory is crucial for this
+
+## **General Principles** {-}
+
+*   **Fecal Specimens:** Stool specimens are the primary source for diagnosing GI infections
+*   **Key Pathogens:** Identification requires a targeted and systematic approach, due to the variety
+*   **Differential Media:** Selective and differential media are used
+*   **Culture and Rapid Testing:** Culture is a mainstay. Rapid testing helps
+*   **Reporting:** Fast and accurate reporting is essential
+
+## **Colony Morphology and Identification of Major Pathogens** {-}
+
+### ***Salmonella spp.*** {-}
+*   **Source:** Stool
+*   **Colony Morphology**
+    *   **MacConkey Agar:** Colorless, non-lactose fermenting colonies
+    *   **Hektoen Enteric Agar (HEA):** Blue-green colonies, may have black centers due to H2S production
+    *   **Xylose Lysine Desoxycholate (XLD) Agar:** Red colonies with or without black centers
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Biochemical Tests:** TSI (alkaline slant/acid butt, H2S), urease negative
+    *   **Serotyping:** Identification of somatic (O) and flagellar (H) antigens for species identification
+
+### ***Shigella spp.*** {-}
+*   **Source:** Stool
+*   **Colony Morphology**
+    *   **MacConkey Agar:** Colorless, non-lactose fermenting colonies
+    *   **HEA:** Green colonies, no blackening
+    *   **XLD Agar:** Red colonies, does not produce H2S
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Biochemical Tests:** TSI (alkaline slant/acid butt, no H2S), urease negative
+    *   **Serotyping:** Based on O antigens (e.g., *S. sonnei, S. flexneri*)
+
+### ***Escherichia coli*** (Toxigenic) {-}
+*   **Source:** Stool
+*   **Colony Morphology**
+    *   **MacConkey Agar:** Pink, lactose-fermenting colonies
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Biochemical Tests:** TSI (acid slant/acid butt, gas), indole positive
+    *   **Testing for Toxins:** Specific tests for Shiga toxins, heat-labile (LT) and heat-stable (ST) toxins are performed
+    *   **Serotyping:** (e.g., O157:H7 for Shiga toxin-producing *E. coli* (STEC) - needs to be cultured on SMAC (Sorbitol-MacConkey agar) and tested for Shiga toxins
+
+### ***Campylobacter spp.*** {-}
+*   **Source:** Stool
+*   **Colony Morphology**
+    *   **Campy-blood agar:** Small, gray, and non-hemolytic
+    *   **Appearance:** Smear across the agar
+*   **Gram Stain:** Gram-negative curved or S-shaped rods
+*   **Identification**
+    *   **Microscopic Examination:** Rapid motility
+    *   **Culture:** Requires microaerophilic conditions (low oxygen, high CO2)
+    *   **Oxidase:** Positive
+    *   **Catalase:** Positive
+
+### ***Vibrio spp.*** (e.g., *V. cholerae, V. parahaemolyticus*) {-}
+*   **Source:** Stool, water, seafood
+*   **Colony Morphology**
+    *   **Thiosulfate Citrate Bile Salts Sucrose (TCBS) Agar:** Used for isolation
+        *   *V. cholerae*: Yellow colonies
+        *   *V. parahaemolyticus*: Green colonies
+*   **Gram Stain:** Gram-negative rods (curved)
+*   **Identification**
+    *   **Culture:** On TCBS Agar, requires NaCl
+    *   **Biochemical Tests:** Oxidase positive, string test positive
+    *   **Serotyping/Molecular Methods:** Confirmatory testing
+
+### ***Yersinia enterocolitica*** {-}
+*   **Source:** Stool
+*   **Colony Morphology**
+    *   **CIN (Cefsulodin-Irgasan-Novobiocin) Agar:** Small, transparent colonies
+    *   **Appearance:** Red "bull's eye" colonies
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Culture:** Requires cold enrichment (4°C)
+    *   **Biochemical Tests:** TSI (acid slant/acid butt), urease positive, motile at room temperature
+
+### ***Aeromonas spp.*** {-}
+*   **Source:** Stool, water, food
+*   **Colony Morphology**
+    *   **Blood Agar:** Large, gray, beta-hemolytic colonies
+    *   **MacConkey Agar:** Pink, lactose-fermenting colonies
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Biochemical Tests:** Oxidase positive, indole positive
+
+### ***Plesiomonas shigelloides*** {-}
+*   **Source:** Stool, water, food
+*   **Colony Morphology**
+    *   **Blood Agar:** Gray, non-hemolytic colonies
+    *   **MacConkey Agar:** Colorless, non-lactose fermenting colonies
+*   **Gram Stain:** Gram-negative rods
+*   **Identification**
+    *   **Biochemical Tests:** Oxidase positive, indole positive
+
+## **Additional Considerations** {-}
+
+*   **Proper Specimen Collection:** Collection is essential
+*   **Selective Media:** Use selective media
+*   **Rapid Testing:** Helps with diagnostics
+*   **Reporting**
+    *   Provide all of the information
+    *   The laboratory has the final say
+
+## **Key Terms** {-}
+
+*   **Gastrointestinal (GI):** Pertaining to the stomach and intestines
+*   **Fecal Specimen:** A sample of stool
+*   ***Salmonella spp.***: Gram-negative bacteria
+*   ***Shigella spp.***: Gram-negative bacteria
+*   ***Escherichia coli***: Gram-negative bacteria
+*   **MacConkey Agar:** A selective and differential medium for Gram-negative bacteria
+*   **Hektoen Enteric Agar (HEA):** A selective and differential medium for Gram-negative bacteria
+*   **Xylose Lysine Desoxycholate (XLD) Agar:** A selective and differential medium for Gram-negative bacteria
+*   **Serotyping:** Identifying bacterial strains based on their antigens
+*   ***Campylobacter spp.***: Gram-negative, curved or S-shaped rods
+*   **Campy-blood agar:** Selective media to culture *Campylobacter*
+*   ***Vibrio spp.***: Gram-negative rods
+*   **Thiosulfate Citrate Bile Salts Sucrose (TCBS) Agar:** Selective medium for *Vibrio spp.*
+*   ***Yersinia enterocolitica***: Gram-negative rods
+*   **CIN (Cefsulodin-Irgasan-Novobiocin) Agar:** A selective medium to culture *Y. enterocolitica*
+*   ***Aeromonas spp.***: Gram-negative rods
+*   ***Plesiomonas shigelloides***: Gram-negative rods
+*   **TSI (Triple Sugar Iron Agar):** A biochemical test
+*   **Urease Test:** Biochemical test
+*   **String Test:** A test for the presence of *Vibrio cholerae*
+*   **SMAC:** Sorbitol-MacConkey agar
+*   **Shiga toxins:** Toxins produced by *E. coli*
+*   **Toxigenic:** Produce toxins
+*   **Heat-labile:** Destroyed by heat
+*   **Heat-stable:** Heat stable
+*   **Microaerophilic:** Requires reduced oxygen

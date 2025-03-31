@@ -1,0 +1,107 @@
+#  Upper Respiratory {-}
+
+This section covers the analytic procedures for bacteriology of upper respiratory tract (URT) infections. The focus is on understanding specimen sources, normal flora, major pathogens, and diagnostic techniques for common conditions like pharyngitis, otitis media, and sinusitis
+
+## **Specimen Sources** {-}
+
+*   **Targeting the Site:** Appropriate collection is key. Specific procedures are used based on the suspected infection site
+*   **Common Sources**
+    *   **Throat Swab:** Primarily for pharyngitis (sore throat)
+    *   **Nasopharyngeal Swab (NP Swab):** Detecting viruses, *Bordetella pertussis* (whooping cough)
+    *   **Middle Ear Fluid (Tympanocentesis):** For otitis media, this is collected by a physician
+    *   **Sinus Aspirate:** For sinusitis (sinus infection), and is collected by a physician
+*   **Considerations**
+    *   **Aseptic technique**
+    *   Proper handling
+    *   Prompt transport to the lab
+    *   Appropriate transport media
+
+## **Indigenous Flora Colony and Gram Stain Morphology** {-}
+
+*   **Importance:** Distinguishing between pathogens and normal colonizers
+*   **Common Organisms**
+    *   ***Viridans streptococci***
+        *   **Characteristics:** Gram-positive cocci in chains or pairs
+        *   **Colony Morphology:** Alpha-hemolytic (greening)
+    *   ***Staphylococcus epidermidis*:** Gram-positive cocci in clusters
+        *   **Colony Morphology:** White or cream-colored colonies
+    *   ***Staphylococcus aureus*:** Gram-positive cocci in clusters
+        *   **Colony Morphology:** Golden-yellow colonies
+    *   ***Corynebacterium spp.* (Diphtheroids):** Gram-positive rods
+        *   **Colony Morphology:** Small, grayish
+    *   *Neisseria spp.* (non-pathogenic)
+        *   **Characteristics:** Gram-negative diplococci
+        *   **Colony Morphology:** Small, translucent
+    *   *Moraxella catarrhalis*: Gram-negative diplococci
+        *   **Colony Morphology:** Gray, opaque, "hockey puck"
+    *   *Haemophilus spp.*
+    *   **Colony Morphology:** Small, gray colonies
+
+## **Colony Morphology and Identification of Major Pathogens** {-}
+
+*   **Procedures**
+    *   **Culture:** The gold standard
+    *   **Gram Stain:** Fast, initial guide
+    *   **Specific Testing:** Biochemical tests
+*   **Pharyngitis Pathogens**
+    *   ***Streptococcus pyogenes* (Group A Streptococcus, GAS)**
+        *   **Colony Morphology:** Beta-hemolytic
+        *   **Gram Stain:** Gram-positive cocci in chains
+        *   **Identification:** Rapid antigen test, culture
+    *   ***Neisseria gonorrhoeae***
+        *   **Colony Morphology:** Small, translucent, non-hemolytic
+        *   **Gram Stain:** Gram-negative diplococci
+        *   **Identification:** Carbohydrate utilization, molecular tests
+    *   ***Arcanobacterium haemolyticum***
+        *   **Colony Morphology:** Beta-hemolytic
+        *   **Gram Stain:** Gram-positive pleomorphic rods
+        *   **Identification:** Reverse CAMP test
+    *   ***Corynebacterium diphtheriae***
+        *   **Colony Morphology:** Gray to black on specific media
+        *   **Gram Stain:** Gram-positive rods. Can have a "Chinese letter" or "palisades" arrangement
+        *   **Identification:** Toxin production
+    *   ***Bordetella pertussis***
+        *   **Colony Morphology:** Small, smooth, gray-white
+        *   **Gram Stain:** Gram-negative coccobacilli
+        *   **Identification:** Culture, rapid test
+*   **Otitis Media and Sinusitis Pathogens**
+    *   ***Streptococcus pneumoniae***
+        *   **Colony Morphology:** Alpha-hemolytic
+        *   **Gram Stain:** Gram-positive diplococci
+        *   **Identification:** Optochin susceptibility
+    *   ***Haemophilus influenzae***
+        *   **Colony Morphology:** Small, gray colonies (requires factors X and V)
+        *   **Gram Stain:** Gram-negative coccobacilli
+        *   **Identification:** Factor requirements, commercial systems
+    *   ***Moraxella catarrhalis***
+        *   **Colony Morphology:** Gray, opaque, "hockey puck"
+        *   **Gram Stain:** Gram-negative diplococci
+        *   **Identification:** Oxidase, DNase, butyrate esterase
+
+## **Antigen Detection and Molecular Methods** {-}
+
+*   **Purpose:** Rapid diagnostics
+*   **Specific Methods**
+    *   **Rapid Antigen Tests**
+        *   ***Streptococcus pyogenes***: Good for strep throat
+        *   *Bordetella pertussis*
+        *   *Haemophilus influenzae*
+    *   **Molecular Tests (PCR and RT-PCR)**
+        *   For pathogens, including *Streptococcus pyogenes*
+        *   For *Bordetella pertussis*
+*   **Advantages:** Fast results. High sensitivity. Can detect non-culturable organisms
+*   **Disadvantages:** Costs, cannot always provide susceptibility information
+
+## **Organism Pathogenicity** {-}
+
+*   **Understanding Disease:** To know how organisms cause disease
+*   **Key Aspects**
+    *   **Etiology:** Cause of disease
+    *   **Transmission:** How spread occurs
+    *   **Virulence Mechanisms:** The specific tools that the organism uses
+*   **Examples of Virulence Mechanisms**
+    *   ***Streptococcus pyogenes*:** M protein, toxins
+    *   ***Corynebacterium diphtheriae*:** Diphtheria toxin
+    *   ***Bordetella pertussis*:** Pertussis toxin
+    *   ***Neisseria gonorrhoeae*:** Adhesins, antigenic variation
+*   **Implications:** Guides diagnosis, treatment, and prevention

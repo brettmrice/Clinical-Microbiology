@@ -1,0 +1,108 @@
+# Sites with Flora {-}
+
+When collecting specimens from sites with normal flora, the goal is to obtain a sample that accurately represents the infection while minimizing contamination from the surrounding commensal organisms. This requires careful technique and a clear understanding of the specific requirements for each site
+
+## **General Principles** {-}
+
+*   **Target the Infection:** Focus on collecting the specimen from the area most likely to be infected. This might involve sampling the base of a wound, the purulent portion of sputum, or the inflamed area of the throat
+*   **Minimize Contamination:** Take steps to reduce contamination from surrounding normal flora. This could include cleaning the area before collection, using selective collection devices, or carefully avoiding contact with surrounding surfaces
+*   **Collect Adequate Volume:** Ensure that you collect a sufficient amount of specimen for the required tests. Insufficient volume can lead to false-negative results
+*   **Use Appropriate Collection Devices:** Select collection devices that are appropriate for the site and type of specimen being collected. This might include swabs, sterile containers, or aspiration needles
+*   **Transport Promptly:** Transport the specimen to the laboratory as soon as possible to maintain the viability of the microorganisms. Use appropriate transport media to preserve the specimen during transport
+
+## **Specimen-Specific Guidelines** {-}
+
+### **Stool** {-}
+
+*   **Indications:** Suspected bacterial, parasitic, or viral gastrointestinal infection
+*   **Collection Method**
+    *   **Preferred:** Collect stool directly into a clean, dry container
+    *   **Alternative:** If the patient cannot collect a stool sample, a rectal swab can be used, but this is less sensitive
+*   **Procedure**
+    1.  Provide the patient with clear instructions on how to collect the stool sample without contaminating it with urine or water
+    2.  Instruct the patient to pass the stool into a clean, dry container
+    3.  Using a sterile collection device, transfer a representative portion of the stool (approximately 2-5 grams) into the appropriate transport container (e.g., Cary-Blair medium for bacterial culture, formalin for ova and parasite examination)
+    4.  If testing for *Clostridioides difficile*, collect a liquid or soft stool sample. Formed stools are not suitable
+    5.  For rectal swabs, insert the swab approximately 1 inch into the anal canal, rotate gently, and withdraw. Place the swab into the appropriate transport medium
+*   **Considerations**
+    *   Collect stool specimens early in the course of illness, if possible
+    *   Collect multiple stool specimens (typically three) to increase the sensitivity of detection
+    *   Avoid collecting stool specimens after barium enemas or administration of oil-based laxatives
+    *   Refrigerate the specimen if transport to the laboratory is delayed
+*   **Common Flora**: Large numbers of anaerobes, Enterobacteriaceae, *Enterococcus*, and other Gram-negative bacteria
+
+### **Wound** {-}
+
+*   **Indications:** Suspected wound infection
+*   **Collection Method**
+    *   **Preferred:** Aspirate material from deep within the wound using a needle and syringe
+    *   **Alternative:** If aspiration is not possible, collect a swab sample from the base of the wound after cleaning the surface
+*   **Procedure**
+    1.  Clean the skin surface around the wound with sterile saline to remove any superficial debris or contaminants
+    2.  **Aspiration:** Using a sterile needle and syringe, aspirate material from the base of the wound
+    3.  **Swab:** If aspiration is not possible, use a sterile swab to collect a sample from the base of the wound, avoiding contact with the surrounding skin
+*   **Considerations**
+    *   Collect the specimen before starting antibiotic therapy, if possible
+    *   Avoid swabbing the surface of the wound, as this may only collect superficial contaminants
+    *   If the wound is dry, moisten the swab with sterile saline before collection
+    *   Transport the specimen to the laboratory promptly in an appropriate transport medium
+*   **Common Flora**: *Staphylococcus* species, *Corynebacterium* species, and other skin commensals
+
+### **Sputum** {-}
+
+*   **Indications:** Suspected lower respiratory tract infection (e.g., pneumonia, bronchitis)
+*   **Collection Method**
+    *   **Preferred:** A spontaneously expectorated sputum specimen collected first thing in the morning
+    *   **Alternative:** Induced sputum or bronchoalveolar lavage (BAL) in patients unable to produce sputum spontaneously
+*   **Procedure**
+    1.  Instruct the patient to rinse their mouth with water to remove any superficial contaminants
+    2.  Instruct the patient to take several deep breaths and then cough deeply from the chest
+    3.  Collect the expectorated sputum into a sterile container
+    4.  Ensure the specimen is sputum, not saliva. Sputum is thick and purulent, whereas saliva is thin and watery
+*   **Considerations**
+    *   Collect sputum specimens before starting antibiotic therapy, if possible
+    *   Collect multiple sputum specimens (typically three) on consecutive days to increase the sensitivity of detection for tuberculosis
+    *   If the patient is unable to produce sputum spontaneously, consider induced sputum or BAL
+    *   Evaluate the quality of the sputum specimen using a Gram stain. A good sputum specimen will have many neutrophils and few squamous epithelial cells
+*   **Common Flora**: Upper respiratory tract flora, including *Streptococcus* species, *Haemophilus* species, and *Moraxella catarrhalis*
+
+### **Throat** {-}
+
+*   **Indications:** Suspected pharyngitis or tonsillitis, especially for the detection of Group A *Streptococcus*
+*   **Collection Method**
+    *   Swab the posterior pharynx and tonsils, avoiding contact with the tongue, cheeks, or uvula
+*   **Procedure**
+    1.  Instruct the patient to open their mouth wide and say "ah."
+    2.  Depress the tongue with a tongue depressor
+    3.  Using a sterile swab, vigorously swab the posterior pharynx and tonsils, focusing on any areas of inflammation or exudate
+    4.  Place the swab into the appropriate transport medium
+*   **Considerations**
+    *   Avoid touching the tongue, cheeks, or uvula with the swab, as this can introduce contaminants
+    *   If the patient has exudate on the tonsils, focus on swabbing those areas
+    *   Transport the specimen to the laboratory promptly in an appropriate transport medium
+*   **Common Flora**: *Streptococcus* species, *Haemophilus* species, *Neisseria* species, and *Moraxella catarrhalis*
+
+## **Collection Devices and Transport Media** {-}
+
+*   **Swabs:** Use sterile swabs made of Dacron or rayon. Avoid cotton swabs, as they can inhibit the growth of some bacteria
+*   **Sterile Containers:** Use sterile, leak-proof containers for collecting stool, sputum, and other specimens
+*   **Transport Media:** Use appropriate transport media to maintain the viability of microorganisms during transport. Examples include:
+    *   **Amies medium:** A general-purpose transport medium for bacteria
+    *   **Cary-Blair medium:** For stool specimens for bacterial culture
+    *   **Formalin:** For stool specimens for ova and parasite examination
+
+## **Quality Control** {-}
+
+*   **Training:** Ensure that all personnel collecting specimens are properly trained in the correct techniques
+*   **Procedure Manuals:** Develop and maintain up-to-date procedure manuals that outline the correct procedures for collecting and transporting specimens from different sites
+*   **Monitoring:** Regularly monitor specimen collection practices to ensure that they are being performed correctly
+*   **Feedback:** Provide feedback to personnel on their specimen collection techniques
+
+## **Key Terms** {-}
+
+*   **Normal Flora:** The microorganisms that normally live on or in the human body
+*   **Commensal Organisms:** Microorganisms that live in or on the human body without causing harm
+*   **Contamination:** The introduction of unwanted microorganisms into a specimen
+*   **Exudate:** Fluid, such as pus or serum, that leaks out of blood vessels and into nearby tissues
+*   **Aspiration:** The act of withdrawing fluid or other substances from the body using a needle and syringe
+*   **Transport Medium:** A liquid or gel that is used to maintain the viability of microorganisms during transport

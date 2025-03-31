@@ -1,0 +1,134 @@
+#  Organism Pathogenicity {-}
+
+Understanding the pathogenicity of gastrointestinal (GI) pathogens is crucial for effective diagnosis, treatment, and prevention of diarrheal illnesses. Pathogenicity is the ability of a microorganism to cause disease, and it is determined by the pathogen's capacity to:
+
+1.  **Colonize:** the host
+2.  **Invade:** tissues
+3.  **Evade:** the host's immune defenses
+4.  **Produce:** toxins or other harmful substances
+
+## **Organism Pathogenicity in Gastrointestinal Infections** {-}
+
+### ***Salmonella spp.*** {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Fecal-oral route, contaminated food (e.g., poultry, eggs, meat)
+*   **Virulence Mechanisms**
+    *   **Adherence and Invasion:** Invades intestinal epithelial cells
+    *   **Type III Secretion System (T3SS):** Delivers effector proteins into host cells, disrupting cellular functions
+    *   **Survival in Macrophages:** Survives inside macrophages
+*   **Pathogenicity**
+    *   Salmonellosis (gastroenteritis)
+    *   Typhoid fever (caused by *S. Typhi*)
+    *   Diarrhea, abdominal cramps, fever
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, inflammation, and toxin production
+
+### ***Shigella spp.*** {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Fecal-oral route, contaminated food or water
+*   **Virulence Mechanisms**
+    *   **Adherence and Invasion:** Invades intestinal epithelial cells
+    *   **Type III Secretion System (T3SS):** Delivers effector proteins
+    *   **Shiga Toxin (Stx) (in *S. dysenteriae*):** Inhibits protein synthesis
+*   **Pathogenicity**
+    *   Shigellosis (bacillary dysentery)
+    *   Bloody diarrhea, abdominal cramps, fever
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, inflammation, and toxin production
+
+### ***Escherichia coli*** (Toxigenic) {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Fecal-oral route, contaminated food or water
+*   **Virulence Mechanisms**
+    *   **Enterotoxigenic *E. coli* (ETEC):** Produces heat-labile (LT) and/or heat-stable (ST) toxins
+    *   **Shiga Toxin-Producing *E. coli* (STEC):** Produces Shiga toxins (Stx1 and/or Stx2)
+    *   **Enteropathogenic *E. coli* (EPEC):** Attaching and effacing (A/E) lesions in the gut
+*   **Pathogenicity**
+    *   ETEC: Traveler's diarrhea
+    *   STEC: Hemorrhagic colitis, hemolytic uremic syndrome (HUS)
+    *   EPEC: Diarrhea in infants
+*   **Pathogenesis:** Various mechanisms depending on the *E. coli* type. Toxin production, destruction
+
+### ***Campylobacter spp.*** {-}
+
+*   **Etiology:** Gram-negative, curved or S-shaped rods
+*   **Transmission:** Fecal-oral route, contaminated food (e.g., poultry, undercooked meat)
+*   **Virulence Mechanisms**
+    *   **Adherence and Invasion:** Adheres to and invades intestinal epithelial cells
+    *   **Toxins:** Produce toxins
+*   **Pathogenicity**
+    *   Campylobacteriosis (gastroenteritis)
+    *   Diarrhea, abdominal cramps, fever
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, and toxin production
+
+### ***Vibrio spp.*** (e.g., *V. cholerae, V. parahaemolyticus*) {-}
+
+*   **Etiology:** Gram-negative rods (curved)
+*   **Transmission:** Ingestion of contaminated food or water, especially seafood
+*   **Virulence Mechanisms**
+    *   **V. cholerae:** Cholera toxin (CT) causes massive fluid secretion
+    *   **V. parahaemolyticus:** Produces hemolysins
+*   **Pathogenicity**
+    *   *V. cholerae*: Cholera (severe watery diarrhea)
+    *   *V. parahaemolyticus*: Gastroenteritis
+*   **Pathogenesis:** Toxin production leading to fluid secretion, or damage
+
+### ***Yersinia enterocolitica*** {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Fecal-oral route, contaminated food (e.g., pork)
+*   **Virulence Mechanisms**
+    *   **Adherence and Invasion:** Invades intestinal epithelial cells
+    *   **Type III Secretion System (T3SS):** Deliver effector proteins
+*   **Pathogenicity**
+    *   Yersiniosis (gastroenteritis)
+    *   Diarrhea, abdominal pain, fever. Can mimic appendicitis
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, and inflammation
+
+### ***Aeromonas spp.*** {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Ingestion of contaminated food or water
+*   **Virulence Mechanisms**
+    *   **Adherence:** Promotes attachment
+    *   **Toxins:** Produces toxins
+*   **Pathogenicity**
+    *   Gastroenteritis, wound infections
+    *   Diarrhea, abdominal pain
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, and toxin production
+
+### ***Plesiomonas shigelloides*** {-}
+
+*   **Etiology:** Gram-negative rods
+*   **Transmission:** Ingestion of contaminated food or water
+*   **Virulence Mechanisms**
+    *   **Adherence and Invasion:** Invades intestinal epithelial cells
+*   **Pathogenicity**
+    *   Gastroenteritis
+    *   Diarrhea, abdominal pain
+*   **Pathogenesis:** Ingestion, invasion of intestinal cells, and inflammation
+
+## **Additional Considerations** {-}
+
+*   **Foodborne Illness:** Many of these pathogens are spread through contaminated food
+*   **Outbreak Investigations:** Serotyping is essential in tracking outbreaks
+*   **Antibiotic Resistance:** Resistance is possible in many of these organisms
+*   **Host Factors:** The severity of illness depends on the host's immune status
+
+## **Key Terms** {-}
+
+*   **Pathogenicity:** The ability of a microorganism to cause disease
+*   **Virulence:** The degree of pathogenicity
+*   **Etiology:** The cause of a disease
+*   **Transmission:** The spread of a pathogen
+*   **Adherence:** Attachment to host cells
+*   **Invasion:** Entry into host tissues
+*   **Toxins:** Harmful substances produced by pathogens
+*   **Type III Secretion System (T3SS):** A mechanism used by some bacteria to inject proteins into host cells
+*   **Enterotoxigenic *E. coli* (ETEC):** Produces heat-labile (LT) and heat-stable (ST) toxins
+*   **Shiga Toxin-Producing *E. coli* (STEC):** Produces Shiga toxins
+*   **Hemolytic Uremic Syndrome (HUS):** A serious complication of STEC infections
+*   ***Plesiomonas shigelloides***: Gram-negative rods
+*   **Fecal-oral route:** Transmission through the ingestion of fecal matter
+*   **Toxin:** A poisonous substance

@@ -1,0 +1,80 @@
+# Processing {-}
+
+Specimen processing is a critical phase in clinical microbiology that ensures specimens are handled safely and prepared appropriately for accurate and reliable testing. This involves various steps, each with specific protocols and quality control measures
+
+## **Specimen Prioritization and Rejection Criteria** {-}
+
+*   **Prioritization:** Triage specimens based on clinical urgency and potential impact on patient care
+    *   **Factors:** Specimen source (sterile vs. non-sterile), patient status (immunocompromised, critically ill), physician request, and specimen type (CSF, blood)
+    *   **Levels:** STAT/Critical, High Priority, Routine, Batch
+*   **Rejection Criteria:** Define conditions that render a specimen unsuitable for testing, preventing inaccurate results and wasted resources
+    *   **Criteria:** Improper labeling, inappropriate container, insufficient quantity, prolonged transport time, leaking or contaminated container, duplicate specimens, compromised specimen integrity, inappropriate specimen type, missing requisition information
+    *   **Process:** Documentation, notification of the ordering physician, and request for repeat collection when possible
+
+## **Biosafety Cabinets and Personal Protective Equipment (PPE)** {-}
+
+*   **Biosafety Cabinets (BSCs):** Ventilated enclosures designed to protect personnel, the environment, and specimens from hazardous aerosols and splashes
+    *   **Types:** Class I, Class II (A2, B2), Class III
+    *   **Proper Use:** Certification checks, disinfection, arranging materials, avoiding overcrowding, and following airflow management protocols
+*   **Personal Protective Equipment (PPE):** Clothing and equipment to protect laboratory personnel from contact with infectious agents
+    *   **Types:** Gloves, lab coats/gowns, eye protection, respirators, shoe covers
+    *   **Proper Use:** Donning and doffing procedures, hand hygiene, and appropriate selection based on risk assessment
+
+## **Specimen Preparation Methods and Applications** {-}
+
+*   **Concentration:** Increases the density of microorganisms for improved detection
+    *   **Methods:** Centrifugation, filtration, sedimentation, flotation, immunomagnetic separation
+    *   **Applications:** Urine, CSF, stool, water samples
+*   **Digestion/Decontamination:** Liquefies viscous specimens and selectively kills non-target organisms
+    *   **Methods:** NALC-NaOH, Zephiran-Trisodium Phosphate, Oxalic Acid, Sputolysin
+    *   **Applications:** Sputum, bronchial washings, tissue samples for mycobacteria isolation
+*   **Prevention of Cross-Contamination:** Minimizes the transfer of microorganisms between samples and surfaces
+    *   **Strategies:** Aseptic technique, unidirectional workflow, PPE, hand hygiene, disinfection/sterilization, and proper waste disposal
+*   **Sterile Technique:** Maintains a microbe-free environment during procedures
+    *   **Practices:** Sterilization of instruments, creating a sterile field, proper handling of sterile equipment, and working in BSCs
+*   **Tissue Homogenization:** Disrupts tissue structure to release microorganisms and analytes
+    *   **Methods:** Mechanical homogenization, enzymatic digestion, chemical lysis, ultrasonication
+    *   **Applications:** Biopsies, surgical specimens, autopsy tissues
+*   **DNA/RNA Extraction:** Isolates and purifies nucleic acids for molecular testing
+    *   **Methods:** Organic extraction, solid-phase extraction, magnetic bead-based extraction, automated extraction systems
+    *   **Applications:** Pathogen detection, genetic analysis, and diagnostic testing
+
+## **Media** {-}
+
+*   **Components:** Water, carbon sources, nitrogen sources, minerals, growth factors, selective agents, differential agents, buffers, and solidifying agents
+*   **Types**
+    *   **Nutrient Media:** Supports general growth (e.g., Nutrient Agar, Tryptic Soy Agar)
+    *   **Selective Media:** Inhibits some organisms while allowing others to grow (e.g., MacConkey Agar, Mannitol Salt Agar)
+    *   **Differential Media:** Distinguishes between microorganisms based on appearance (e.g., Blood Agar, Eosin Methylene Blue Agar)
+    *   **Enriched Media:** Provides specific nutrients for fastidious organisms (e.g., Chocolate Agar, Thioglycollate Broth)
+*   **Selection:** Based on specimen type and suspected pathogens
+*   **Specialized Media:** Formulated for specific, fastidious bacteria, mycobacteria, and fungi
+
+## **Inoculation of Media** {-}
+
+*   **Quantitative Inoculation:** Determines the number of viable microorganisms
+    *   **Methods:** Calibrated loops, automated plating systems, serial dilution, membrane filtration
+    *   **Reporting:** CFU/mL or CFU/g
+*   **Semi-Quantitative Inoculation:** Estimates relative abundance
+    *   **Methods:** Four-quadrant streaking, three-zone streaking, single streak method
+    *   **Reporting:** Rare, few, moderate, many, or 1+, 2+, 3+, 4+
+*   **Automated Plating Instruments:** Automate the plating process for increased efficiency and standardization
+
+## **Incubation Conditions** {-}
+
+*   **Temperature:** 35-37°C (most bacteria), 25-30°C (fungi), 42°C (*Campylobacter*)
+*   **Atmosphere:** Aerobic, anaerobic, microaerophilic, capnophilic
+*   **Duration:** 18-24 hours (most bacteria), 48-72 hours (anaerobes), 5-7 days (fungi), up to 8 weeks (mycobacteria)
+
+## **Preparation Methods for Slides Used for Stains** {-}
+
+*   **Smear Preparation:** Creating a thin, even film of the specimen on a glass slide
+*   **Air Drying:** Allowing the smear to air dry completely
+*   **Fixation:** Preserving cellular components and preventing degradation
+    *   **Heat Fixation:** Passing the slide through a flame
+    *   **Chemical Fixation:** Immersing the slide in methanol or ethanol
+*   **Specific Methods:** Direct smears from liquid and solid specimens, smears from culture plates and tissue samples, and concentrated smears from body fluids
+
+## **Overall Goal** {-}
+
+The ultimate goal of these preanalytic procedures is to prepare specimens in a way that maximizes the recovery and accurate identification of microorganisms, leading to timely and appropriate patient care

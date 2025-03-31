@@ -1,0 +1,126 @@
+# Agents of Bone Marrow {-}
+
+Bone marrow infections, though less frequent than bloodstream infections, represent serious conditions that can have significant consequences for patients. The detection and identification of the causative agents of bone marrow infection are crucial for guiding appropriate therapy
+
+## **Agents of Bone Marrow Infection** {-}
+
+### **Bacterial Agents** {-}
+*   ***Salmonella spp.***
+    *   **Characteristics:** A common cause of bone marrow infection, especially in patients with sickle cell disease and other hematologic disorders
+    *   **Clinical Presentation:** Fever, malaise, and, in some cases, osteomyelitis (bone infection)
+    *   **Pathogenesis:** Bacteria can reach the bone marrow through bacteremia or from a localized infection. The bone marrow can be colonized by bacteria
+    *   **Identification:** Culture of bone marrow aspirate; biochemical testing, serotyping of Salmonella
+*   ***Brucella spp.***
+    *   **Characteristics:** Caused by *Brucella* species (e.g., *B. melitensis, B. abortus, B. suis*)
+    *   **Transmission:** Primarily transmitted through contact with infected animals or consumption of contaminated animal products (e.g., unpasteurized milk, cheese)
+    *   **Clinical Presentation:** Undulant fever (fever that fluctuates), night sweats, arthralgias, and bone and joint involvement, including osteomyelitis
+    *   **Pathogenesis:** The bacteria enter the bloodstream and can colonize the bone marrow and reticuloendothelial system
+    *   **Identification:** Culture of bone marrow aspirate; serological testing (e.g., agglutination tests) is important
+*   **Mycobacterium spp.**
+    *   ***Mycobacterium tuberculosis***
+        *   **Characteristics:** Can cause disseminated tuberculosis, with bone marrow involvement
+        *   **Clinical Presentation:** Fever, weight loss, night sweats, and signs of systemic illness. Bone marrow involvement may be asymptomatic or associated with skeletal pain and bone destruction
+        *   **Identification:** Acid-fast stain and culture of bone marrow aspirate
+    *   **Atypical Mycobacteria:** Rare cause of bone marrow infection, particularly in immunocompromised patients
+        *   **Examples:** *Mycobacterium avium-intracellulare* complex (MAC), *M. kansasii*
+        *   **Identification:** Acid-fast stain and culture of bone marrow aspirate; DNA probe or PCR for species identification
+*   ***Staphylococcus aureus***
+    *   **Characteristics:** Common cause of osteomyelitis, can also cause bone marrow infection, especially in patients with bacteremia, IVDU, and indwelling devices
+    *   **Clinical Presentation:** Fever, bone pain, localized tenderness, and signs of systemic illness
+    *   **Identification:** Culture of bone marrow aspirate and blood culture, and can be identified by colony morphology
+*   **Other Bacteria**
+    *   *Streptococcus spp., Enterococcus spp., Gram-negative bacilli*
+    *   Rarely cause bone marrow infection, but can occur in patients with bacteremia or immunosuppression
+    *   **Identification:** Culture of bone marrow aspirate, identification by colony morphology, Gram stain, and biochemical testing
+
+### **Fungal Agents** {-}
+*   ***Histoplasma capsulatum***
+    *   **Characteristics:** Causes histoplasmosis, a fungal infection that can disseminate to the bone marrow
+    *   **Transmission:** Inhalation of spores from soil contaminated with bird or bat droppings
+    *   **Clinical Presentation:** Fever, weight loss, anemia, hepatosplenomegaly, and, potentially, bone marrow involvement. Can present as disseminated infection, particularly in immunocompromised
+    *   **Identification:** Culture of bone marrow aspirate (may be slow-growing); *Histoplasma* antigen detection, histopathology
+*   ***Coccidioides immitis/posadasii***
+    *   **Characteristics:** Causes coccidioidomycosis (Valley fever), a fungal infection that can disseminate to the bone marrow
+    *   **Transmission:** Inhalation of spores from soil in endemic areas (e.g., southwestern United States)
+    *   **Clinical Presentation:** Fever, cough, fatigue, and, potentially, bone and joint involvement
+    *   **Identification:** Culture of bone marrow aspirate (may be slow-growing); serological testing, histopathology
+*   ***Blastomyces dermatitidis***
+    *   **Characteristics:** Causes blastomycosis, a fungal infection that can disseminate to the bone marrow
+    *   **Transmission:** Inhalation of spores from soil, particularly in areas around the Great Lakes region, the Mississippi and Ohio River valleys, and the southeastern United States
+    *   **Clinical Presentation:** Fever, cough, lung infiltrates, and, potentially, bone and joint involvement
+    *   **Identification:** Culture of bone marrow aspirate (may be slow-growing); histopathology
+*   ***Candida spp.* and *Aspergillus spp.***
+    *   ***Candida spp.***: Can cause bone marrow infection, especially in immunocompromised patients
+    *   ***Aspergillus spp.***: Can cause bone marrow infection, particularly in immunocompromised patients
+    *   **Identification:** Culture of bone marrow aspirate and blood culture. These can be identified by colony morphology
+*   *Pneumocystis jirovecii*
+    *   **Characteristics:** Causes pneumonia, but can sometimes disseminate to the bone marrow, especially in immunocompromised patients
+    *   **Identification:** Staining of the bone marrow aspirate to detect the organism, molecular testing
+
+### **Parasitic Agents** {-}
+*   ***Leishmania spp.***
+    *   **Characteristics:** Causes leishmaniasis, a parasitic infection that can involve the bone marrow, especially in visceral leishmaniasis
+    *   **Transmission:** Transmitted by the bite of infected sandflies
+    *   **Clinical Presentation:** Fever, weight loss, anemia, hepatosplenomegaly, and, potentially, pancytopenia
+    *   **Identification:** Microscopic examination of bone marrow aspirate (to visualize the amastigotes); culture (may be difficult)
+*   ***Trypanosoma cruzi***
+    *   **Characteristics:** Causes Chagas disease, a parasitic infection that can involve the bone marrow, especially in the chronic phase
+    *   **Transmission:** Transmitted by the bite of infected reduviid bugs
+    *   **Clinical Presentation:** Depends on the stage of the disease and the presence of comorbidities
+    *   **Identification:** Microscopic examination of bone marrow aspirate; serological testing
+
+### **Viral Agents** {-}
+*   **Cytomegalovirus (CMV)**
+    *   **Characteristics:** Common virus, particularly in immunocompromised patients
+    *   **Clinical Presentation:** Fever, fatigue, and various symptoms depending on the organs involved. Can cause bone marrow suppression
+    *   **Identification:** Viral culture and/or PCR on bone marrow aspirate; detection of CMV antigen, serological testing
+
+## **Diagnostic Approach for Bone Marrow Infections** {-}
+
+*   **Clinical Suspicion:** Thorough history and physical exam
+*   **Laboratory Testing**
+    *   **Complete Blood Count (CBC):** Can reveal anemia, leukopenia, thrombocytopenia, or other abnormalities
+    *   **Peripheral Blood Smear:** May reveal abnormal cells, such as atypical lymphocytes, blasts, or parasites
+    *   **Blood Cultures:** Essential to rule out bacteremia or fungemia
+    *   **Bone Marrow Aspiration and Biopsy:** The most important diagnostic test for evaluating the bone marrow, particularly when disseminated infection is suspected. It allows for
+        *   Microscopic examination of aspirate and biopsy
+        *   Culture for bacteria, fungi, and mycobacteria
+        *   Special stains (e.g., acid-fast stain, Gomori methenamine silver stain)
+        *   Molecular testing (e.g., PCR)
+        *   Histopathologic examination to evaluate the presence of inflammatory cells, organisms, and other abnormalities
+    *   **Serological Testing:** May be helpful for diagnosing certain infections (e.g., *Brucella*, *Histoplasma*, coccidioidomycosis)
+    *   **Imaging Studies:** X-rays, CT scans, and MRI can be used to evaluate bone involvement
+
+## **Laboratory Processing of Bone Marrow Specimens** {-}
+
+*   **Aspiration**
+    *   **Gram Stain:** Used to quickly visualize bacteria, fungi, or other organisms. Provides immediate results that guide treatment
+    *   **Acid-Fast Stain:** Used to detect *Mycobacterium tuberculosis* and other mycobacteria
+    *   **Giemsa or Wright Stain:** Used to visualize parasites, intracellular organisms and hematologic abnormalities
+    *   **Cultures:** Inoculation onto appropriate culture media for bacterial, fungal, and mycobacterial growth
+    *   **Molecular testing:** for specific organisms (e.g., PCR for *M. tuberculosis, Histoplasma, CMV*)
+*   **Biopsy**
+    *   **Histopathology:** Examination of tissue sections to identify organisms, inflammatory changes, and other abnormalities
+    *   **Special Stains:** (e.g., Gomori methenamine silver for fungi). Used to enhance visualization of organisms
+    *   **Cultures:** Tissue can also be cultured
+
+## **Key Terms** {-}
+
+*   **Bone Marrow:** The soft, spongy tissue inside bones, responsible for producing blood cells
+*   **Bone Marrow Aspiration:** The removal of a small amount of bone marrow fluid for examination
+*   **Bone Marrow Biopsy:** The removal of a small piece of bone marrow tissue for examination
+*   **Osteomyelitis:** Bone infection
+*   **Bacteremia:** The presence of bacteria in the bloodstream
+*   ***Salmonella spp.***: Gram-negative bacteria, a common cause of food poisoning and can cause bone marrow infections
+*   ***Brucella spp.***: Gram-negative bacteria, a zoonotic pathogen that can cause brucellosis. Commonly causes bone and joint infections
+*   **Mycobacteria:** A group of bacteria, including *Mycobacterium tuberculosis* and atypical mycobacteria
+*   ***Histoplasma capsulatum***: A dimorphic fungus that causes histoplasmosis
+*   ***Coccidioides immitis/posadasii***: A dimorphic fungus that causes coccidioidomycosis
+*   ***Leishmania spp.***: Protozoan parasites that cause leishmaniasis
+*   **PCR (Polymerase Chain Reaction):** A molecular method used to amplify specific DNA or RNA sequences
+*   **Serological Testing:** Tests that detect antibodies in the blood
+*   **Disseminated Infection:** Infection that has spread from a localized site to multiple organs or throughout the body
+*   **Hematologic Disorder:** A disease or condition that affects the blood or blood-forming organs
+*   **Immunocompromised:** Having a weakened immune system
+*   **Zoonotic Pathogen:** A pathogen that is transmitted from animals to humans
+*   **Pancytopenia:** A decrease in all types of blood cells (red blood cells, white blood cells, and platelets)

@@ -1,0 +1,168 @@
+# Laboratory Results {-}
+
+The interpretation of cerebrospinal fluid (CSF) culture results cannot be done in isolation. A comprehensive assessment requires careful correlation with other laboratory findings, including CSF glucose, protein, and cell counts, as well as the patient's clinical presentation. This integrated approach enhances the accuracy of diagnosis, guiding clinical decisions and improving patient outcomes
+
+## **General Principles** {-}
+
+*   **Integrated Approach:** The analysis of CSF is a multifaceted process. The lab results must be correlated with each other and with the patient's clinical presentation
+*   **Context Matters:** The interpretation of CSF findings depends on the clinical scenario, including the patient's age, medical history, and symptoms
+*   **Laboratory Tests to Correlate**
+    *   **Cell Count and Differential**
+    *   **Glucose**
+    *   **Protein**
+    *   **Gram Stain**
+    *   **Culture**
+    *   **Lactate:** (less common)
+    *   **Other Tests**
+        *   **Serology:** To detect antibodies
+        *   **Molecular tests:** PCR
+*   **Normal Values (Approximate)**
+    *   **WBC:** 0-5 cells/µL
+    *   **Glucose:** 40-70 mg/dL (approximately 60% of serum glucose)
+    *   **Protein:** 15-45 mg/dL
+    *   **RBC:** 0 (or a small number from a traumatic tap)
+
+## **Correlation of CSF Findings with Clinical Scenarios** {-}
+
+### **Bacterial Meningitis** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (often 100-10,000 cells/µL or higher), predominantly neutrophils
+    *   **Glucose:** Decreased (low glucose), below 40 mg/dL, or less than 40% of the serum glucose level
+    *   **Protein:** Elevated (high protein), often >45 mg/dL
+    *   **Gram Stain:** May show bacteria (helpful for rapid presumptive identification)
+    *   **Culture:** Positive for bacteria (the gold standard)
+*   **Interpretation**
+    *   **High WBC count with neutrophilic predominance, decreased glucose, and elevated protein, along with a positive Gram stain and culture, are highly suggestive of bacterial meningitis.**
+    *   The presence of bacteria on Gram stain, even if the culture is negative, indicates a likely bacterial infection
+    *   Requires immediate antibiotic treatment
+*   **Clinical Presentation:** Fever, headache, stiff neck, altered mental status, and other neurologic signs
+
+### **Viral Meningitis (Aseptic Meningitis)** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (often 10-500 cells/µL), predominantly lymphocytes (lymphocytic pleocytosis)
+    *   **Glucose:** Normal
+    *   **Protein:** Slightly elevated or normal (may be mildly elevated)
+    *   **Gram Stain:** Negative
+    *   **Culture:** Negative for bacteria. Viral culture, PCR, or serology may be needed
+*   **Interpretation**
+    *   **Lymphocytic pleocytosis, normal glucose, and slightly elevated protein, with a negative Gram stain and bacterial culture, are consistent with viral meningitis.**
+    *   Distinguish viral from bacterial
+*   **Clinical Presentation:** Fever, headache, stiff neck, and other neurologic signs. Often a less severe course than bacterial meningitis
+
+### **Fungal Meningitis** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (often 10-500 cells/µL), predominantly lymphocytes
+    *   **Glucose:** Low (decreased glucose)
+    *   **Protein:** Elevated (high protein)
+    *   **Gram Stain:** May or may not show fungal elements
+    *   **Culture:** Positive for fungi (may take several days or weeks)
+    *   **Other tests:** Fungal antigen tests (e.g., *Cryptococcus* antigen)
+*   **Interpretation**
+    *   **Lymphocytic pleocytosis, low glucose, and elevated protein, with or without the presence of fungi on Gram stain or culture, suggest fungal meningitis.**
+    *   Fungal infections are often subacute or chronic and occur in immunocompromised patients
+*   **Clinical Presentation:** Headache, fever, altered mental status, and other neurologic signs. The symptoms can develop slowly
+
+### **Tuberculous Meningitis** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (often 10-500 cells/µL), predominantly lymphocytes
+    *   **Glucose:** Low (decreased glucose)
+    *   **Protein:** Elevated (high protein)
+    *   **Gram Stain:** Typically negative
+    *   **Acid-Fast Stain:** May detect acid-fast bacilli, but often has low sensitivity
+    *   **Culture:** Positive for *Mycobacterium tuberculosis* (requires specific media and prolonged incubation)
+    *   **Molecular Tests (PCR):** Can detect *M. tuberculosis* DNA in CSF
+*   **Interpretation**
+    *   **Lymphocytic pleocytosis, low glucose, and elevated protein, with or without the presence of acid-fast bacilli or a positive PCR, suggest tuberculous meningitis.**
+    *   Tuberculous meningitis is often a subacute or chronic illness
+*   **Clinical Presentation:** Headache, fever, altered mental status, and other neurologic signs. The symptoms can develop slowly
+
+### **Encephalitis (Inflammation of the Brain)** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (variable, often lymphocytic)
+    *   **Glucose:** Normal
+    *   **Protein:** May be normal or slightly elevated
+    *   **Gram Stain:** Negative
+    *   **Culture:** Negative for bacteria
+    *   **Molecular Tests (PCR):** May detect viral DNA (e.g., herpes simplex virus)
+*   **Interpretation**
+    *   **Elevated WBC with lymphocytic predominance, normal glucose, and normal or slightly elevated protein, with a negative Gram stain and bacterial culture, may be consistent with encephalitis.**
+    *   The specific cause of encephalitis is often viral
+*   **Clinical Presentation:** Altered mental status, seizures, focal neurologic deficits
+
+### **Shunt Infections** {-}
+*   **CSF Findings**
+    *   **WBC:** Elevated (often 100-1000 cells/µL or higher), can be mixed (neutrophils and lymphocytes)
+    *   **Glucose:** May be low
+    *   **Protein:** Elevated
+    *   **Gram Stain:** May show bacteria (often CoNS)
+    *   **Culture:** Positive for bacteria (e.g., CoNS, *Staphylococcus aureus*, *Corynebacterium spp.*)
+*   **Interpretation**
+    *   **Elevated WBC count, variable glucose and protein levels, and the presence of bacteria on Gram stain or culture can indicate a shunt infection.**
+*   **Clinical Presentation:** Fever, headache, shunt malfunction, and other neurologic signs
+
+### **Traumatic Tap vs. Subarachnoid Hemorrhage** {-}
+*   **Traumatic Tap**
+    *   **CSF Findings**
+        *   **RBC:** High, often decreasing from tube 1 to tube 4. May have blood clots
+        *   **WBC:** May be slightly elevated, but the WBC/RBC ratio should approximate that of peripheral blood
+        *   **Glucose:** Normal
+        *   **Protein:** May be slightly elevated
+        *   **Appearance:** Often, the CSF clears as the sample is collected
+*   **Subarachnoid Hemorrhage**
+    *   **CSF Findings**
+        *   **RBC:** High, and remains relatively constant across all tubes
+        *   **WBC:** May be elevated
+        *   **Glucose:** May be decreased
+        *   **Protein:** Elevated
+        *   **Xanthochromia:** Yellowish discoloration due to breakdown of blood
+        *   **Appearance:** May remain bloody throughout the collection, or may have a xanthochromic appearance
+*   **Interpretation**
+    *   **The key to distinguishing between a traumatic tap and subarachnoid hemorrhage is the persistence of blood and the presence of xanthochromia.**
+    *   If the blood clears with collection, it is a traumatic tap
+    *   If the blood persists, it is subarachnoid hemorrhage
+    *   Xanthochromia is a more sensitive marker for subarachnoid hemorrhage
+*   **Clinical Presentation:** Severe headache
+
+## **Specific Correlations and Ratios** {-}
+
+*   **Glucose Ratio:** The CSF glucose level is usually about 60% of the serum glucose level
+    *   **Bacterial meningitis:** CSF glucose level will be low
+    *   **The formula for the glucose ratio is: CSF glucose (mg/dL) / Serum glucose (mg/dL) x 100%**
+    *   **In bacterial meningitis, this ratio will be low**
+*   **Protein Ratio:** The CSF protein level is usually a fraction of the serum protein level
+    *   **In bacterial and fungal meningitis:** elevated CSF protein level
+*   **WBC/RBC Ratio:** Used to assess if WBCs are entering the CSF from blood
+    *   **If the WBC/RBC ratio is similar to that of peripheral blood, this suggests a traumatic tap**
+
+## **Additional Considerations** {-}
+
+*   **Patient History:** Patient's age, immune status, medical history, and medications
+*   **Clinical Symptoms:** The presence of fever, headache, stiff neck, and other neurologic symptoms
+*   **Antibiotic Use:** Prior antibiotic use may affect the CSF findings, particularly the culture results
+*   **Repeat CSF Examination:** May be necessary to monitor the response to treatment and to confirm the diagnosis
+*   **Test Limitations:** No single test is 100% sensitive or specific. The interpretation of the results depends on the context
+
+## **Key Terms** {-}
+
+*   **Cerebrospinal Fluid (CSF):** The clear, colorless fluid that surrounds the brain and spinal cord
+*   **Meningitis:** Inflammation of the meninges
+*   **Encephalitis:** Inflammation of the brain
+*   **WBC Count:** White blood cell count
+*   **RBC Count:** Red blood cell count
+*   **Glucose:** A sugar used by the brain for energy
+*   **Protein:** A large molecule, present in CSF
+*   **Gram Stain:** A staining technique used to differentiate bacteria based on cell wall characteristics
+*   **Culture:** The growth of microorganisms in a laboratory setting for identification and susceptibility testing
+*   **Lymphocytic Pleocytosis:** An increase in lymphocytes
+*   **Neutrophils:** A type of white blood cell
+*   **Subarachnoid Hemorrhage:** Bleeding in the space around the brain
+*   **Traumatic Tap:** Blood entering the CSF during the LP procedure
+*   **Xanthochromia:** Yellowish discoloration of the CSF due to breakdown of blood
+*   **Antibiotic:** A medication used to treat bacterial infections
+*   **Immunocompromised:** Having a weakened immune system
+*   **CSF Glucose Ratio:** A ratio to compare CSF and serum glucose levels
+*   **Protein Ratio:** A ratio to compare CSF and serum protein levels
+*   **WBC/RBC Ratio:** Ratio of WBC to RBC in CSF
+*   **CSF Lactate:** Used in certain situations to evaluate a CSF sample
+*   **CSF Antigen tests:** Tests to detect the presence of an antigen
+*   **CSF Serology:** Test to evaluate the presence of an antibody
