@@ -1,0 +1,138 @@
+# Dermatophytes {-}
+
+These fungi are the notorious culprits behind many common skin, hair, and nail infections. Because of their prevalence, understanding their characteristics and how we identify them is crucial. We'll cover the major genera – *Trichophyton* and *Microsporum* – along with their disease states, transmission, and lab identification methods
+
+## **Dermatophytes** {-}
+
+*   **Definition:** Dermatophytes are a group of closely related filamentous fungi that cause superficial infections of the skin, hair, and nails
+*   **Keratinophilic:** They have the unique ability to utilize keratin (a protein found in skin, hair, and nails) as a nutrient source
+*   **"Tinea" Infections:** Dermatophyte infections are commonly referred to as "tinea" infections, followed by the affected body site (e.g., tinea pedis = athlete's foot)
+*   **Genera:** The three main genera of dermatophytes are *Trichophyton*, *Microsporum*, and *Epidermophyton*
+*   **Classification:** Dermatophytes are classified based on their natural habitat:
+    *   **Geophilic:** Live in the soil (e.g., *Microsporum gypseum*)
+    *   **Zoophilic:** Primarily infect animals (e.g., *Microsporum canis*)
+    *   **Anthropophilic:** Primarily infect humans (e.g., *Trichophyton rubrum*)
+*   **Transmission:** Dermatophytes are transmitted through direct contact with infected individuals or animals, or through contact with contaminated objects (e.g., towels, clothing, floors)
+
+## ***Trichophyton spp.*** {-}
+
+*   **Etiology:** *Trichophyton* is the most common genus of dermatophytes causing human infections
+*   **Epidemiology**
+    *   Found worldwide
+    *   Anthropophilic species are most prevalent in developed countries, while zoophilic and geophilic species are more common in rural areas
+    *   Risk factors:
+        *   Close contact with infected individuals or animals
+        *   Poor hygiene
+        *   Warm, humid environments
+        *   Participation in sports with close contact (e.g., wrestling)
+        *   Immunosuppression
+*   **Transmission**
+    *   Direct contact with infected individuals or animals
+    *   Indirect contact with contaminated objects (e.g., towels, clothing, floors)
+*   **Disease States**
+    *   **Tinea Pedis (Athlete's Foot):** Infection of the feet, typically between the toes. Symptoms include itching, burning, scaling, and cracking of the skin
+    *   **Tinea Cruris (Jock Itch):** Infection of the groin area. Symptoms include itching, burning, and a red, scaly rash
+    *   **Tinea Corporis (Ringworm):** Infection of the smooth skin of the body. Characterized by circular, red, scaly patches with raised borders
+    *   **Tinea Capitis (Ringworm of the Scalp):** Infection of the scalp and hair follicles. Can cause hair loss, scaling, and inflammation
+    *   **Tinea Unguium (Onychomycosis):** Infection of the nails. Causes thickening, discoloration, and crumbling of the nails
+*   **Common Species**
+    *   ***Trichophyton rubrum*:** The most common cause of athlete's foot, jock itch, ringworm, and nail infections worldwide. Typically anthropophilic
+    *   ***Trichophyton mentagrophytes*:** Another common cause of athlete's foot, jock itch, and ringworm. Includes both anthropophilic and zoophilic strains
+    *   ***Trichophyton tonsurans*:** A major cause of tinea capitis (ringworm of the scalp), particularly in children in North America. Typically anthropophilic
+*   **Laboratory Diagnosis**
+    *   **Specimen Collection**
+        *   Skin Scrapings: From the active edge of lesions
+        *   Hair Samples: Plucked hairs (with roots) or cut hairs from infected areas
+        *   Nail Clippings/Scrapings: Clippings from affected areas, scrapings from under the nail plate
+    *   **Direct Microscopic Examination**
+        *   KOH Preparation: To dissolve keratin and visualize hyphae and arthroconidia in skin, hair, or nail samples
+    *   **Culture**
+        *   Inoculation onto Sabouraud Dextrose Agar (SDA) or Dermatophyte Test Medium (DTM)
+        *   Incubation at 25-30°C for up to 4 weeks
+    *   **Identification**
+        *   Colony Morphology: Observation of colony color, texture, and growth rate
+        *   Microscopic Examination: Identification of characteristic macroconidia (large, multi-celled spores) and microconidia (small, single-celled spores)
+        *   Nutritional Tests: Assessing the fungus's ability to utilize specific nutrients
+        *   Urease Test: Some *Trichophyton* species produce urease
+        *   Molecular Methods: PCR and sequencing for definitive identification
+
+## ***Microsporum spp.*** {-}
+
+*   **Etiology:** *Microsporum* is another important genus of dermatophytes, known for causing infections of the skin and hair
+*   **Epidemiology**
+    *   Found worldwide
+    *   Zoophilic species are often associated with infections acquired from pets (e.g., cats, dogs)
+    *   Risk factors:
+        *   Contact with infected animals
+        *   Sharing personal items (e.g., hats, combs)
+        *   School or daycare attendance (for tinea capitis)
+*   **Transmission**
+    *   Direct contact with infected animals or humans
+    *   Indirect contact with contaminated objects (e.g., hats, combs, bedding)
+*   **Disease States**
+    *   **Tinea Capitis (Ringworm of the Scalp):** A common infection caused by *Microsporum* species, particularly in children
+    *   **Tinea Corporis (Ringworm):** Infection of the smooth skin of the body
+*   **Common Species**
+    *   ***Microsporum canis*:** A common cause of tinea capitis and tinea corporis, often acquired from cats and dogs. Typically zoophilic
+    *   ***Microsporum gypseum*:** A geophilic species that can cause ringworm in humans and animals
+*   **Laboratory Diagnosis**
+    *   **Specimen Collection**
+        *   Skin Scrapings: From the active edge of lesions
+        *   Hair Samples: Plucked hairs (with roots) or cut hairs from infected areas
+    *   **Direct Microscopic Examination**
+        *   KOH Preparation: To dissolve keratin and visualize hyphae and arthroconidia in skin or hair samples
+        *   Wood's Lamp Examination: Some *Microsporum* species (e.g., *M. canis*) produce a fluorescent substance that can be detected under a Wood's lamp (ultraviolet light)
+    *   **Culture**
+        *   Inoculation onto Sabouraud Dextrose Agar (SDA) or Dermatophyte Test Medium (DTM)
+        *   Incubation at 25-30°C for up to 4 weeks
+    *   **Identification**
+        *   Colony Morphology: Observation of colony color, texture, and growth rate
+        *   Microscopic Examination: Identification of characteristic macroconidia (large, multi-celled spores) and microconidia (small, single-celled spores)
+        *   Molecular Methods: PCR and sequencing for definitive identification
+
+## **Laboratory Procedures: Key Steps** {-}
+
+*   **Specimen Collection**
+    *   Collect samples from the affected area (skin scrapings, hair, or nail clippings)
+    *   Clean the area with 70% alcohol before collection
+    *   Use sterile instruments
+*   **Direct Microscopic Examination**
+    *   Prepare a KOH mount by placing the specimen on a slide with a drop of 20% KOH
+    *   Gently heat the slide to dissolve keratin
+    *   Examine under a microscope for hyphae and arthroconidia
+*   **Culture**
+    *   Inoculate the specimen onto Sabouraud Dextrose Agar (SDA) or Dermatophyte Test Medium (DTM)
+    *   Incubate at 25-30°C for up to 4 weeks
+    *   Examine regularly for growth
+*   **Identification**
+    *   Identify fungal isolates based on macroscopic (colony morphology) and microscopic characteristics (e.g., hyphal structure, conidia)
+
+## **Key Takeaways** {-}
+
+*   Dermatophytes are a group of fungi that infect the skin, hair, and nails
+*   *Trichophyton* and *Microsporum* are the most common genera of dermatophytes
+*   Dermatophyte infections are transmitted through direct or indirect contact with infected individuals, animals, or contaminated objects
+*   Laboratory diagnosis involves direct microscopic examination and culture
+*   Accurate identification of dermatophytes is important for guiding appropriate treatment
+
+## **Key Terms** {-}
+
+*   **Dermatophyte:** A fungus that infects the skin, hair, and nails
+*   **Keratin:** A fibrous structural protein that is the main component of skin, hair, and nails
+*   **Tinea:** A general term for dermatophyte infections, followed by the affected body site (e.g., tinea pedis = athlete's foot)
+*   **Hyphae:** The thread-like, branching filaments that form the mycelium of a fungus
+*   **Arthroconidia:** A type of asexual spore formed by the fragmentation of hyphae
+*   **Macroconidia:** Large, multi-celled spores produced by dermatophytes
+*   **Microconidia:** Small, single-celled spores produced by dermatophytes
+*   **Geophilic:** Living in the soil
+*   **Zoophilic:** Primarily infecting animals
+*   **Anthropophilic:** Primarily infecting humans
+*   **KOH Preparation:** A microscopic technique where a sample is mixed with potassium hydroxide (KOH) to dissolve keratin, making fungal elements more visible
+*   **Wood's Lamp:** A UV light used to examine skin and hair for fungal infections. Certain *Microsporum* species fluoresce under Wood's lamp illumination
+*   **Sabouraud Dextrose Agar (SDA):** A common fungal culture medium
+*   **Dermatophyte Test Medium (DTM):** A selective fungal culture medium used to isolate and identify dermatophytes
+*   **Griseofulvin:** An antifungal drug used to treat dermatophyte infections
+*   **Terbinafine:** An antifungal drug used to treat dermatophyte infections
+*   **Azoles:** A class of antifungal drugs that inhibit the synthesis of ergosterol, a component of the fungal cell membrane
+*   **Endothrix:** A type of hair infection where the fungus grows inside the hair shaft
+*   **Ectothrix:** A type of hair infection where the fungus grows on the surface of the hair shaft

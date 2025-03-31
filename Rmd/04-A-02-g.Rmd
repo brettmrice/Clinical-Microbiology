@@ -1,0 +1,135 @@
+# Hepatitis {-}
+
+This section will cover the major viral pathogens causing hepatitis, focusing on Hepatitis A Virus (HAV), Hepatitis B Virus (HBV), and Hepatitis C Virus (HCV). We will discuss their etiology, epidemiology, transmission, disease states, and key differences
+
+## **Viral Hepatitis** {-}
+
+*   **Definition:** Hepatitis is inflammation of the liver, most commonly caused by viral infections. Other causes include alcohol, drugs, autoimmune diseases, and metabolic disorders. Viral hepatitis can be acute (short-term) or chronic (long-term)
+
+## **Hepatitis A Virus (HAV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Picornaviridae* family
+    *   **Non-Enveloped RNA Virus:** HAV is a single-stranded RNA virus
+    *   **One Serotype:** There is only one serotype of HAV
+*   **Epidemiology**
+    *   **Global Distribution:** Found worldwide, but more common in areas with poor sanitation and hygiene
+    *   **Seasonality:** Can occur year-round, but outbreaks are more common in the fall and winter
+    *   **Age Groups:** Can affect all age groups, but children are often asymptomatic
+*   **Transmission**
+    *   **Fecal-Oral Route:** Primarily spread through the fecal-oral route via contaminated food, water, or surfaces
+    *   **Close Contact:** Can also be spread through close personal contact with an infected individual
+    *   **Outbreaks:** Common in settings with poor sanitation, such as restaurants, daycare centers, and schools
+*   **Disease States**
+    *   **Acute Hepatitis:** Characterized by fever, fatigue, nausea, vomiting, abdominal pain, jaundice (yellowing of the skin and eyes), dark urine, and pale stools
+    *   **Symptoms:** Typically begin 2-6 weeks after exposure and last for several weeks to months
+    *   **Chronic Infection:** HAV does *not* cause chronic infection
+    *   **Severity:** Usually self-limiting and resolves without specific treatment
+    *   **Complications:** Rarely causes liver failure or death
+
+## **Hepatitis B Virus (HBV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Hepadnaviridae* family
+    *   **DNA Virus:** HBV is a partially double-stranded DNA virus
+    *   **Multiple Genotypes:** There are multiple genotypes of HBV (A-J), which vary geographically
+*   **Epidemiology**
+    *   **Global Distribution:** Found worldwide, with higher prevalence in certain regions, such as Asia and Africa
+    *   **Chronic Infection:** Approximately 257 million people worldwide are living with chronic HBV infection
+    *   **Age Groups:** Can affect all age groups, but chronic infection is more common in infants and young children
+*   **Transmission**
+    *   **Bloodborne:** Spread through contact with infected blood or body fluids
+    *   **Sexual Contact:** A common route of transmission
+    *   **Mother to Child:** Can be transmitted from mother to child during childbirth (perinatal transmission)
+    *   **Injection Drug Use:** Sharing needles or syringes
+    *   **Healthcare Settings:** Unsafe injection practices, blood transfusions, and medical procedures
+*   **Disease States**
+    *   **Acute Hepatitis:** Similar symptoms to HAV, including fever, fatigue, nausea, vomiting, abdominal pain, jaundice, dark urine, and pale stools
+    *   **Chronic Hepatitis:** Long-term infection that can lead to cirrhosis (scarring of the liver), liver failure, and hepatocellular carcinoma (liver cancer)
+    *   **Asymptomatic Carriers:** Some individuals with chronic HBV infection are asymptomatic carriers, meaning they do not have symptoms but can still transmit the virus
+    *   **Severity:** Chronic HBV infection can range from mild to severe
+    *   **Complications:** Cirrhosis, liver failure, hepatocellular carcinoma, and death
+
+## **Hepatitis C Virus (HCV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Flaviviridae* family
+    *   **RNA Virus:** HCV is a single-stranded RNA virus
+    *   **Multiple Genotypes:** There are multiple genotypes of HCV (1-7), which vary in their response to treatment
+*   **Epidemiology**
+    *   **Global Distribution:** Found worldwide, with higher prevalence in certain regions
+    *   **Chronic Infection:** Approximately 71 million people worldwide are living with chronic HCV infection
+    *   **Age Groups:** Can affect all age groups, but chronic infection is more common in adults
+*   **Transmission**
+    *   **Bloodborne:** Primarily spread through contact with infected blood
+    *   **Injection Drug Use:** Sharing needles or syringes is the most common route of transmission in many countries
+    *   **Blood Transfusions:** Before routine screening of blood products, blood transfusions were a significant source of transmission
+    *   **Healthcare Settings:** Unsafe injection practices and medical procedures
+    *   **Sexual Contact:** Less common than HBV, but can occur
+    *   **Mother to Child:** Can be transmitted from mother to child during childbirth (perinatal transmission), but less common than HBV
+*   **Disease States**
+    *   **Acute Hepatitis:** Often asymptomatic or mild symptoms, such as fatigue and jaundice
+    *   **Chronic Hepatitis:** Long-term infection that can lead to cirrhosis, liver failure, and hepatocellular carcinoma
+    *   **Asymptomatic Carriers:** Many individuals with chronic HCV infection are asymptomatic for years or decades
+    *   **Extrahepatic Manifestations:** HCV can also cause other health problems, such as fatigue, joint pain, skin problems, and kidney disease
+    *   **Severity:** Chronic HCV infection can range from mild to severe
+    *   **Complications:** Cirrhosis, liver failure, hepatocellular carcinoma, and death
+
+## **Diagnosis of Viral Hepatitis** {-}
+
+*   **Blood Tests:** Used to detect viral antigens, antibodies, and nucleic acids
+*   **Serological Tests:** Detect antibodies to HAV, HBV, and HCV
+    *   **Anti-HAV IgM:** Indicates acute HAV infection
+    *   **HBsAg:** Indicates current HBV infection
+    *   **Anti-HCV:** Indicates past or current HCV infection
+*   **Molecular Tests:** Detect viral RNA or DNA
+    *   **HAV RNA:** Detects HAV RNA in serum or stool
+    *   **HBV DNA:** Detects HBV DNA in serum (viral load)
+    *   **HCV RNA:** Detects HCV RNA in serum (viral load)
+*   **Liver Function Tests (LFTs):** Measure liver enzymes (e.g., ALT, AST) to assess liver damage
+*   **Liver Biopsy:** May be necessary to assess the severity of liver damage and guide treatment decisions
+
+## **Treatment of Viral Hepatitis** {-}
+
+*   **Hepatitis A (HAV)**
+    *   **Supportive Care:** Rest, fluids, and pain relief
+    *   **Vaccination:** Effective vaccine available for prevention
+*   **Hepatitis B (HBV)**
+    *   **Antiviral Medications:** Entecavir, tenofovir, and other antiviral drugs can suppress HBV replication and reduce the risk of liver damage
+    *   **Interferon:** Interferon alfa can be used to treat HBV infection, but is less commonly used than antiviral drugs
+    *   **Vaccination:** Effective vaccine available for prevention
+*   **Hepatitis C (HCV)**
+    *   **Direct-Acting Antivirals (DAAs):** Highly effective medications that can cure HCV infection in most patients. Examples include sofosbuvir, ledipasvir, and velpatasvir
+    *   **Treatment Duration:** Typically 8-12 weeks
+    *   **Sustained Virologic Response (SVR):** Indicates that the virus has been eradicated from the body
+
+## **Prevention of Viral Hepatitis** {-}
+
+*   **Vaccination:** Effective vaccines are available for HAV and HBV
+*   **Hygiene Practices:** Frequent handwashing, safe food handling, and proper sanitation
+*   **Safe Sex Practices:** Using condoms can reduce the risk of HBV and HCV transmission
+*   **Safe Injection Practices:** Avoiding sharing needles or syringes
+*   **Screening:** Routine screening of blood products and high-risk individuals
+*   **Mother-to-Child Transmission Prevention:** Antiviral medications and vaccination can prevent HBV transmission from mother to child
+
+## **Key Terms** {-}
+
+*   **Etiology:** The cause or origin of a disease or condition
+*   **Epidemiology:** The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems
+*   **Transmission:** The way a disease is spread from one person or source to another
+*   **Hepatitis:** Inflammation of the liver
+*   **Hepatitis A Virus (HAV):** A virus that causes acute hepatitis, transmitted through the fecal-oral route
+*   **Hepatitis B Virus (HBV):** A virus that can cause acute and chronic hepatitis, transmitted through blood and body fluids
+*   **Hepatitis C Virus (HCV):** A virus that can cause acute and chronic hepatitis, transmitted primarily through blood
+*   **Jaundice:** Yellowing of the skin and eyes
+*   **Cirrhosis:** Scarring of the liver
+*   **Hepatocellular Carcinoma:** Liver cancer
+*   **Serological Tests:** Blood tests that detect viral antigens or antibodies
+*   **Molecular Tests:** Tests that detect viral RNA or DNA
+*   **Viral Load:** The quantity of virus present in a specific amount of a patient's blood
+*   **Liver Function Tests (LFTs):** Blood tests that measure liver enzymes
+*   **Direct-Acting Antivirals (DAAs):** Medications that target specific steps in the HCV life cycle
+*   **Sustained Virologic Response (SVR):** Eradication of the virus from the body
+*   **Fecal-Oral Route:** Transmission of pathogens through contact with fecal matter and then ingestion
+*   **Bloodborne:** Transmission of pathogens through contact with infected blood or body fluids
+*   **Asymptomatic Carrier:** An individual who is infected with a virus but does not show symptoms

@@ -1,0 +1,144 @@
+#  Vaginitis {-}
+
+This section outlines the laboratory methods used to detect the causative agents of vaginitis, a common condition characterized by inflammation of the vagina. The focus is on the detection of *Trichomonas vaginalis*, *Candida* spp., and the diagnosis of bacterial vaginosis (BV)
+
+## **Trichomonas vaginalis** {-}
+
+### **Microscopic Examination** {-}
+*   **Wet Mount**
+    *   **Procedure:** A drop of vaginal discharge is mixed with a drop of saline on a microscope slide. A coverslip is applied, and the slide is examined under a microscope at low and high power (400x magnification)
+    *   **Visualization:** *T. vaginalis* is a motile, pear-shaped protozoan with flagella. It may be difficult to visualize if the organism is non-motile or if the sample is old. The organism may be identified by its characteristic jerky movement, which is often described as "twitching"
+    *   **Sensitivity:** The sensitivity of wet mount is variable, ranging from 50-80%
+*   **Gram Stain**
+    *   **Procedure:** A Gram stain is performed on a smear of vaginal discharge
+    *   **Visualization:** *T. vaginalis* is not readily visible on Gram stain
+    *   **Sensitivity:** Not a primary method for detection, but may be seen if present
+*   **Pap Smear (Papanicolaou Stain)**
+    *   **Procedure:** A cervical smear is stained using the Pap stain
+    *   **Visualization:** *T. vaginalis* can be visualized on a Pap smear, but the sensitivity is low. The organism appears as a small, oval or pear-shaped organism with a pale cytoplasm and a small, eccentric nucleus
+    *   **Sensitivity:** Low sensitivity, not a primary method for detection
+
+### **Culture** {-}
+*   **Procedure:** Vaginal discharge is inoculated onto a specific culture medium designed to grow *T. vaginalis*. Diamond's medium or InPouch TV culture system are commonly used
+*   **Incubation:** Cultures are incubated at 37°C for several days
+*   **Visualization:** The culture is examined microscopically for the presence of motile organisms
+*   **Sensitivity:** Higher sensitivity (75-95%) than wet mount, but results take longer
+*   **Advantage:** Can be used for antimicrobial susceptibility testing
+
+### **Rapid Antigen Tests** {-}
+*   **Procedure:** These tests detect *T. vaginalis* antigens in vaginal discharge. Several commercially available tests are available
+*   **Formats:** Lateral flow immunoassays (similar to home pregnancy tests) and point-of-care tests are available
+*   **Sensitivity:** Sensitivity is variable, but generally higher than wet mount
+*   **Advantage:** Rapid results (10-30 minutes)
+*   **Limitations:** May not be as sensitive as nucleic acid amplification tests (NAATs)
+
+### **Nucleic Acid Amplification Tests (NAATs)** {-}
+*   **Procedure:** These tests amplify the DNA or RNA of *T. vaginalis*
+*   **Formats:** PCR-based assays, transcription-mediated amplification (TMA)
+*   **Sensitivity:** Very high sensitivity (95-100%) and specificity
+*   **Advantage:** Highly sensitive, can be performed on vaginal swabs or urine samples
+*   **Disadvantage:** Requires specialized equipment and trained personnel
+
+## **Candida spp.** {-}
+
+### **Microscopic Examination** {-}
+*   **Wet Mount**
+    *   **Procedure:** Vaginal discharge is mixed with a drop of saline and a drop of 10% potassium hydroxide (KOH) solution on a microscope slide. The KOH lyses epithelial cells and other debris, making the yeast easier to visualize. A coverslip is applied, and the slide is examined under a microscope at low and high power (400x magnification)
+    *   **Visualization:** *Candida* spp. appear as budding yeast cells and/or hyphae (filamentous structures). The presence of hyphae is indicative of a more invasive infection
+    *   **Sensitivity:** Moderate sensitivity
+*   **Gram Stain**
+    *   **Procedure:** A Gram stain is performed on a smear of vaginal discharge
+    *   **Visualization:** *Candida* spp. appear as Gram-positive, oval-shaped yeast cells. Budding yeast and/or pseudohyphae may be seen
+    *   **Sensitivity:** Moderate sensitivity, similar to wet mount
+*   **Pap Smear**
+    *   **Procedure:** A cervical smear is stained using the Pap stain
+    *   **Visualization:** *Candida* spp. appear as oval, yeast-like organisms
+    *   **Sensitivity:** Lower sensitivity compared to wet mount
+
+### **Culture** {-}
+*   **Procedure:** Vaginal discharge is inoculated onto a culture medium designed to grow yeast, such as Sabouraud's dextrose agar or CHROMagar Candida
+*   **Incubation:** Cultures are incubated at 30°C for several days
+*   **Visualization:** *Candida* spp. colonies appear as creamy, white, or buff-colored colonies
+*   **Identification:** Colonies can be identified based on colony morphology, Gram stain appearance, and biochemical tests (e.g., germ tube test, carbohydrate assimilation tests)
+*   **Sensitivity:** Higher sensitivity than microscopic examination
+*   **Advantage:** Allows for species identification and antifungal susceptibility testing (if needed)
+
+### **Rapid Tests** {-}
+*   **Germ Tube Test**
+    *   **Procedure:** A small amount of yeast colony is mixed with serum and incubated
+    *   **Visualization:** *Candida albicans* produces germ tubes, which are hyphae-like structures
+    *   **Sensitivity:** High for identifying *C. albicans*
+*   **Commercial Rapid Tests**
+    *   **Procedure:** Some commercial tests are available that detect *Candida* antigens in vaginal discharge
+    *   **Sensitivity:** Variable
+
+## **Bacterial Vaginosis (BV)** {-}
+
+BV is characterized by a disruption of the normal vaginal flora, with a decrease in *Lactobacillus* spp. and an increase in the concentration of other bacteria, including *Gardnerella vaginalis*, *Prevotella* spp., and *Mobiluncus* spp. The diagnosis of BV is primarily based on clinical criteria, but laboratory tests are often used to confirm the diagnosis
+
+### **Amsel's Criteria** {-}
+*   **Clinical Diagnosis:** BV is diagnosed if at least three of the following four Amsel's criteria are met:
+    1.  **Homogeneous, thin, white or gray vaginal discharge:** The discharge often adheres to the vaginal walls
+    2.  **Vaginal pH > 4.5:** Measured using pH paper
+    3.  **Positive "Whiff Test" (amine odor):** A drop of 10% KOH is added to a sample of vaginal discharge. A fishy odor (due to the release of amines) is considered a positive result
+    4.  **Presence of "Clue Cells" on Wet Mount**
+        *   **Procedure:** A wet mount is prepared using vaginal discharge
+        *   **Visualization:** Clue cells are vaginal epithelial cells that are coated with bacteria, giving them a characteristic stippled appearance
+        *   **Sensitivity:** High specificity
+
+### **Microscopic Examination** {-}
+*   **Wet Mount**
+    *   **Procedure:** A wet mount is prepared using vaginal discharge
+    *   **Visualization**
+        *   **Clue Cells:** The hallmark of BV
+        *   **Reduced or Absent Lactobacilli:** Decreased numbers of *Lactobacillus* spp
+        *   **Increased Numbers of Other Bacteria:** Including *Gardnerella vaginalis*, *Mobiluncus* spp., and other anaerobic bacteria
+        *   **Motile curved rods:** *Mobiluncus* species may be seen
+    *   **Sensitivity:** Moderate to high sensitivity, especially for detecting clue cells
+    *   **Interpretation**
+        *   Nugent Score: Gram stain is used to score bacteria (0-10) based on the presence of *Lactobacilli* and *Gardnerella vaginalis*
+
+### **Gram Stain (Nugent Score)** {-}
+*   **Procedure:** A Gram stain is performed on a smear of vaginal discharge
+*   **Visualization:** The bacterial morphotypes are scored based on the presence of *Lactobacillus* spp., *Gardnerella vaginalis*, and curved Gram-variable or Gram-negative rods (*Mobiluncus* spp.)
+*   **Scoring:** The Nugent score is calculated based on the relative abundance of these bacteria. A score of 0-3 is considered normal, 4-6 is intermediate, and 7-10 is diagnostic of BV
+*   **Sensitivity:** High
+*   **Specificity:** High
+
+### **Culture** {-}
+*   **Procedure:** Culture is not routinely used for the diagnosis of BV
+*   **Disadvantage:** Culturing the multiple organisms is not practical
+
+### **Other Tests** {-}
+*   **Commercial Tests:** Some commercial tests are available to detect specific BV-associated organisms (e.g., *G. vaginalis*)
+*   **DNA Probe Tests:** Tests that detect BV-associated organisms by DNA probe or nucleic acid amplification tests
+
+## **Key Considerations** {-}
+*   **Specimen Collection:** Proper specimen collection is essential for accurate results. Swabs must be collected from the vaginal walls and transported in appropriate transport media
+*   **Quality Control:** Strict quality control measures should be in place to ensure the accuracy and reliability of the laboratory tests
+*   **Correlation with Clinical Findings:** Laboratory results must always be interpreted in conjunction with the patient's clinical presentation, symptoms, and other relevant information
+*   **Sensitivity and Specificity:** The sensitivity and specificity of each test vary. The choice of test depends on the clinical situation, the availability of resources, and the desired level of accuracy
+*   **Point-of-Care Testing (POCT):** Some rapid tests are available for use at the point of care, allowing for rapid diagnosis and treatment
+*   **Reporting:** The laboratory report should include the results of all tests performed, along with any relevant interpretive comments
+*   **Antimicrobial Susceptibility Testing:** Antimicrobial susceptibility testing is not routinely performed for *T. vaginalis* or *Candida* spp
+*   **Follow-up:** In some cases, follow-up testing may be necessary to confirm the diagnosis or to monitor the response to treatment
+
+## **Key Terms** {-}
+*   **Vaginitis:** Inflammation of the vagina
+*   **Wet Mount:** A microscopic preparation of a specimen mixed with saline or KOH
+*   **KOH (Potassium Hydroxide):** A chemical used to lyse cells and debris in wet mounts
+*   **Clue Cells:** Vaginal epithelial cells coated with bacteria, characteristic of bacterial vaginosis
+*   **Hyphae:** Filamentous structures produced by fungi
+*   **Budding Yeast:** A form of yeast cells that are reproducing
+*   **Germ Tube:** A hyphae-like structure produced by *Candida albicans*
+*   **Amsel's Criteria:** Clinical criteria used to diagnose bacterial vaginosis
+*   **Whiff Test:** A test for bacterial vaginosis that involves the addition of KOH to vaginal discharge
+*   **pH:** A measure of acidity or alkalinity
+*   **Nugent Score:** A scoring system based on Gram stain findings used to diagnose bacterial vaginosis
+*   **NAAT (Nucleic Acid Amplification Test):** A laboratory test that amplifies DNA or RNA to detect microorganisms
+*   **Antigen:** A substance that triggers an immune response
+*   **Sensitivity:** The ability of a test to correctly identify individuals with a disease
+*   **Specificity:** The ability of a test to correctly identify individuals without a disease
+*   **Lateral Flow Immunoassay:** A rapid test that detects the presence of a substance in a sample
+*   **Point-of-Care Testing (POCT):** Diagnostic testing performed near the patient
+*   **Antimicrobial Susceptibility Testing:** Laboratory tests to determine which antibiotics are effective against a specific microorganism

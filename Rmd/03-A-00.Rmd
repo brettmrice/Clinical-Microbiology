@@ -1,0 +1,67 @@
+# (PART\*) Mycobacteriology {-}
+
+# Procedures {-}
+
+This section covers the key analytic procedures in Mycobacteriology and the study of *Nocardia* species
+
+##  **Specimen Sources: The Foundation of Accurate Diagnosis** {-}
+
+*   **Importance:** Selecting the correct specimen source is crucial for detecting these organisms. The suspected site of infection dictates the appropriate specimen
+*   **Examples:** Lower respiratory tract (sputum, BAL), blood, soft tissue/skin, sterile body fluids (CSF, pleural fluid), bone marrow, urine, and tissue biopsies
+*   **Key Considerations:** Sterility, adequate volume, prompt processing, and safety
+
+##  **Major Pathogens and Disease States: Knowing the Players** {-}
+
+*   **Focus:** Understanding the etiology, epidemiology, and transmission of major pathogens
+*   ***Mycobacterium tuberculosis*:** Causes TB (pulmonary and extrapulmonary)
+*   ***Mycobacterium avium complex (MAC)*:** Causes pulmonary and disseminated infections
+*   ***Mycobacterium kansasii*:** Causes pulmonary disease
+*   ***Mycobacterium marinum*:** Causes skin infections (fish tank granuloma)
+*   ***Mycobacterium abscessus*:** Causes skin/soft tissue and pulmonary infections
+*   ***Nocardia spp.*:** Causes pulmonary, cutaneous, and disseminated infections
+
+##  **Acid-Fast Reaction, Colony Morphology, and Growth Characteristics: Initial Clues** {-}
+
+*   **Acid-Fast Stain:** A key characteristic due to mycolic acids in the cell wall
+*   **Colony Morphology:** Observation of colony size, shape, color, and texture on solid media
+*   **Growth Characteristics:** Growth rate (slow vs. rapid), temperature requirements, and biochemical tests
+*   **Common Contaminant:** *M. gordonae* is a frequent contaminant, differentiated by its scotochromogenic properties
+*   **Less Common Pathogens:** *M. leprae* (cannot be cultured), *M. haemophilum* (requires iron), *M. scrofulaceum* (causes scrofula)
+
+##  **Identification Methods: Pinpointing the Species** {-}
+
+*   **Sequencing:** Determines the precise nucleotide sequence of target genes (16S rRNA, *rpoB*, *hsp65*) for definitive identification
+*   **MALDI-TOF MS:** Identifies organisms based on their unique protein profiles
+
+##  **Direct Detection by Molecular Methods: Rapid Results** {-}
+
+*   **Bypasses Culture:** Detects Mycobacteria and Nocardia directly from clinical specimens
+*   **NAATs (PCR, qPCR, TMA, LAMP):** Amplify specific DNA or RNA sequences
+*   **Hybridization Assays (DNA Microarrays, FISH):** Use labeled probes to detect target sequences
+*   **Next-Generation Sequencing (NGS):** Provides comprehensive detection and genetic information
+
+##  **Antimicrobial Therapy: Targeting the Infection** {-}
+
+*   ***M. tuberculosis*:** Combination therapy (INH, RIF, PZA, EMB) for 6 months, addressing MDR-TB and XDR-TB with second-line drugs
+*   ***MAC*:** Macrolide-based regimens (clarithromycin/azithromycin, ethambutol, rifamycin)
+*   ***M. kansasii*:** Rifampin-based regimens (INH, rifampin, ethambutol)
+*   ***M. marinum*:** Tetracyclines, macrolides, fluoroquinolones, rifampin, or TMP/SMX
+*   **Rapid Growers (RGM):** Highly variable, species-dependent, and guided by DST
+
+##  **Antimicrobial Susceptibility Testing (AST): Guiding Treatment** {-}
+
+*   **Broth Microdilution:** Quantitative method to determine MIC values
+*   **Critical Concentration:** Qualitative method (primarily for *M. tuberculosis*) to assess growth at a specific drug concentration
+*   **Direct Detection of Resistance Markers:** Molecular methods to identify specific genetic mutations associated with resistance (e.g., *rpoB*, *katG*, *rrl*)
+
+##  **Organism Pathogenicity: Understanding How They Cause Disease** {-}
+
+*   **Etiology:** Identifying the causative agent
+*   **Transmission:** Understanding how the organism spreads
+*   **Virulence Mechanisms:**
+    *   Cell wall components (mycolic acids)
+    *   Intracellular survival within macrophages
+    *   Biofilm formation
+    *   Secretion systems
+    *   Enzymes (catalase, superoxide dismutase)
+*   **Opportunistic Nature:** Many species primarily affect immunocompromised individuals

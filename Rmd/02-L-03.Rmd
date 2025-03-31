@@ -1,0 +1,72 @@
+# Molecular Methods {-}
+
+This section focuses on the molecular methods used for MRSA/MSSA, VRE, ESBL/CRE screening. Molecular techniques offer high sensitivity, specificity, and can provide rapid results
+
+## **MRSA/MSSA Screening** {-}
+
+*   **Target:** *mecA* gene (confers methicillin resistance)
+*   **Methods**
+    *   **Polymerase Chain Reaction (PCR)**
+        *   **Real-Time PCR (qPCR):** This is the most common and preferred method. qPCR is a rapid and sensitive technique that amplifies and detects the *mecA* gene directly from the specimen. Results are usually available within a few hours
+        *   **Conventional PCR:** Amplifies the *mecA* gene, followed by detection using gel electrophoresis. This method is less rapid than qPCR
+    *   **Isothermal Amplification**
+        *   **Loop-mediated isothermal amplification (LAMP):** This is a rapid and simple method that amplifies the *mecA* gene at a constant temperature. It can be performed with minimal equipment and provides results in a short time
+    *   **Molecular Hybridization**
+        *   **Nucleic acid hybridization assays:** Probes specific for the *mecA* gene can be used to detect the presence of the gene in a sample
+
+##  **VRE Screening** {-}
+
+*   **Target:** *vanA*, *vanB*, or other *van* genes (confer vancomycin resistance)
+*   **Methods**
+    *   **PCR**
+        *   **Real-Time PCR (qPCR):** Detects the *vanA* or *vanB* genes directly from the specimen
+        *   **Conventional PCR:** Amplifies the *vanA* or *vanB* genes, followed by gel electrophoresis
+    *   **Isothermal Amplification**
+        *   **LAMP:** Can be used to detect the *vanA* or *vanB* genes
+    *   **Molecular Hybridization**
+        *   **Nucleic acid hybridization assays:** Probes specific for the *vanA* or *vanB* genes can be used to detect the presence of the gene in a sample
+
+##  **ESBL/CRE Screening** {-}
+
+*   **Targets:** Genes encoding ESBLs (e.g., *blaCTX-M*, *blaTEM*, *blaSHV*), carbapenemases (e.g., *blaKPC*, *blaOXA-48*, *blaNDM*, *blaIMP*, *blaVIM*)
+*   **Methods**
+    *   **PCR**
+        *   **Real-Time PCR (qPCR):** Detects the genes encoding ESBLs and carbapenemases. Multiplex PCR assays can be used to simultaneously detect multiple resistance genes
+        *   **Conventional PCR:** Amplifies the genes encoding ESBLs or carbapenemases, followed by gel electrophoresis
+    *   **Multiplex PCR:** A single PCR reaction can amplify multiple target sequences simultaneously, enabling the detection of several resistance genes in one test
+    *   **Microarrays:** Nucleic acid microarrays can be used to screen for a wide range of resistance genes in a single test
+    *   **Next-Generation Sequencing (NGS):** NGS can be used to identify all resistance genes present in a sample, providing a comprehensive picture of the resistance profile
+
+##  **Key Considerations for Molecular Methods** {-}
+
+*   **Advantages**
+    *   **Rapid Results:** Molecular methods often provide results within hours, which is significantly faster than culture-based methods
+    *   **High Sensitivity:** Can detect low levels of organisms or resistance genes
+    *   **High Specificity:** Minimize false-positive results by targeting specific genes
+    *   **Direct Detection:** Can be performed directly on clinical specimens without the need for culture
+*   **Disadvantages**
+    *   **Cost:** Molecular methods can be more expensive than culture-based methods, though costs are decreasing
+    *   **Equipment and Expertise:** Require specialized equipment and trained personnel
+    *   **Targeted Approach:** Only detect the specific resistance genes targeted by the assay. They may not detect novel resistance mechanisms
+    *   **Potential for False Positives:** Can occur if there is contamination or if the assay is not properly validated
+*   **Quality Control**
+    *   **Positive and Negative Controls:** Include positive and negative controls in each run to ensure the assay is working correctly
+    *   **Internal Controls:** Use internal controls to monitor for the presence of inhibitors in the sample
+    *   **Validation:** Validate the assay before use to determine its sensitivity, specificity, and reproducibility
+*   **Interpretation**
+    *   Molecular tests detect the presence of resistance genes, not necessarily whether the organism is expressing the resistance
+    *   Phenotypic susceptibility testing is still needed to confirm resistance and guide antibiotic therapy
+
+## **Key Terms** {-}
+
+*   **PCR (Polymerase Chain Reaction):** A molecular technique used to amplify a specific DNA sequence
+*   **qPCR (Quantitative PCR or Real-Time PCR):** A PCR method that measures the amount of amplified DNA in real-time, allowing for quantification of the target sequence
+*   **LAMP (Loop-mediated isothermal amplification):** An isothermal nucleic acid amplification technique that amplifies DNA with high specificity and efficiency under isothermal conditions
+*   **Multiplex PCR:** A PCR reaction that amplifies multiple target sequences simultaneously
+*   **Microarray:** A collection of microscopic DNA spots arranged on a solid surface, used to detect the presence of specific DNA sequences
+*   **NGS (Next-Generation Sequencing):** High-throughput DNA sequencing technologies that allow for the rapid sequencing of large amounts of DNA
+*   **Gene:** A unit of heredity that is transferred from a parent to offspring and is held to determine some characteristic of the offspring
+*   **Primer:** A short, single-stranded DNA sequence that is used to initiate DNA synthesis in PCR
+*   **Probe:** A short, single-stranded DNA or RNA sequence that is used to detect the presence of a specific DNA or RNA sequence
+*   **Sensitivity:** The ability of a test to correctly identify positive results (i.e., the proportion of infected individuals who are correctly identified as infected)
+*   **Specificity:** The ability of a test to correctly identify negative results (i.e., the proportion of non-infected individuals who are correctly identified as not infected)

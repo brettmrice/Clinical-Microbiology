@@ -1,0 +1,90 @@
+# Vesicles & Lesions {-}
+
+This section covers viruses that cause vesicles and lesions, focusing on Herpes Simplex Virus (HSV) and Varicella-Zoster Virus (VZV). We'll cover their etiology, epidemiology, transmission, and the specific disease states they cause
+
+## **Etiology, Epidemiology, Transmission, and Disease States** {-}
+
+### **Herpes Simplex Virus (HSV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Herpesviridae* family
+    *   **Types**
+        *   **HSV-1:** Typically associated with oral herpes (cold sores) but can also cause genital herpes
+        *   **HSV-2:** Typically associated with genital herpes but can also cause oral herpes
+*   **Epidemiology**
+    *   **Global Distribution:** HSV is found worldwide
+    *   **Prevalence:** Very common, with a high percentage of the population infected with HSV-1 and a significant proportion infected with HSV-2
+    *   **Age Groups**
+        *   **HSV-1:** Often acquired in childhood through non-sexual contact
+        *   **HSV-2:** Typically acquired through sexual contact
+*   **Transmission**
+    *   **Direct Contact:** Spread through direct contact with an active lesion or through asymptomatic shedding (virus being present without visible symptoms)
+    *   **Sexual Contact:** HSV-2 is primarily transmitted through sexual contact
+    *   **Mother to Child:** Can be transmitted from mother to child during childbirth (neonatal herpes)
+*   **Disease States**
+    *   **Oral Herpes (Cold Sores):** Characterized by painful blisters on or around the lips
+    *   **Genital Herpes:** Characterized by painful blisters on the genitals, buttocks, or inner thighs
+    *   **Herpetic Whitlow:** Infection of the fingers or around the fingernails
+    *   **Herpes Keratitis:** Infection of the cornea of the eye, which can lead to blindness
+    *   **Herpes Encephalitis:** A rare but serious infection of the brain
+    *   **Neonatal Herpes:** Can cause severe illness in newborns, including skin, eye, and mouth infections, encephalitis, and disseminated disease
+    *   **High-Risk Groups:** Immunocompromised individuals are at higher risk for severe HSV infections
+
+### **Varicella-Zoster Virus (VZV)** {-}
+
+*   **Etiology**
+    *   **Classification:** A member of the *Herpesviridae* family
+    *   **Relationship:** Causes two distinct diseases: varicella (chickenpox) and herpes zoster (shingles)
+*   **Epidemiology**
+    *   **Global Distribution:** VZV is found worldwide
+    *   **Chickenpox:** Historically, a common childhood disease, but incidence has decreased significantly with the introduction of the varicella vaccine
+    *   **Shingles:** Occurs in individuals who have previously had chickenpox. The virus remains dormant in nerve cells and can reactivate later in life
+    *   **Age Groups**
+        *   **Chickenpox:** Primarily affects children
+        *   **Shingles:** More common in older adults and immunocompromised individuals
+*   **Transmission**
+    *   **Chickenpox**
+        *   **Airborne Droplets:** Spread through airborne droplets produced when infected individuals cough or sneeze
+        *   **Direct Contact:** Can also be transmitted through direct contact with lesions
+    *   **Shingles**
+        *   **Direct Contact:** Spread through direct contact with lesions. Shingles is not spread through the air
+        *   **Risk to Others:** Individuals with shingles can transmit VZV to people who have never had chickenpox or been vaccinated, causing them to develop chickenpox
+*   **Disease States**
+    *   **Varicella (Chickenpox):** Characterized by a widespread, itchy rash with small, fluid-filled blisters
+        *   **Complications:** Secondary bacterial infections of the skin, pneumonia, encephalitis, and, rarely, death
+    *   **Herpes Zoster (Shingles):** Characterized by a painful rash with blisters that typically occurs in a single stripe on one side of the body
+        *   **Postherpetic Neuralgia (PHN):** Chronic pain that can persist for months or years after the shingles rash has resolved
+        *   **Ophthalmic Zoster:** Shingles involving the eye, which can lead to vision loss
+        *   **Disseminated Zoster:** Widespread rash involving multiple dermatomes, more common in immunocompromised individuals
+    *   **High-Risk Groups**
+        *   **Chickenpox:** Unvaccinated individuals, pregnant women, and immunocompromised individuals are at higher risk for severe disease
+        *   **Shingles:** Older adults and immunocompromised individuals are at higher risk for shingles and complications
+
+### **Important Notes** {-}
+
+*   **Prevention**
+    *   **Varicella Vaccine:** Highly effective in preventing chickenpox
+    *   **Zoster Vaccine:** Available to prevent shingles and its complications
+*   **Diagnosis**
+    *   **HSV/VZV:** Diagnosed through viral culture, PCR, or direct fluorescent antibody (DFA) testing of lesion specimens
+*   **Treatment**
+    *   **Antiviral Medications:** Acyclovir, valacyclovir, and famciclovir are used to treat HSV and VZV infections
+
+### **Key Terms** {-}
+
+*   **Etiology:** The cause or origin of a disease or condition
+*   **Epidemiology:** The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems
+*   **Transmission:** The way a disease is spread from one person or source to another
+*   **Vesicle:** A small, fluid-filled blister
+*   **Lesion:** An area of damaged tissue or skin
+*   **Asymptomatic Shedding:** The presence and shedding of a virus without visible symptoms
+*   **Neonatal Herpes:** HSV infection in newborns
+*   **Herpetic Whitlow:** HSV infection of the fingers or around the fingernails
+*   **Herpes Keratitis:** HSV infection of the cornea of the eye
+*   **Herpes Encephalitis:** HSV infection of the brain
+*   **Varicella:** Chickenpox
+*   **Herpes Zoster:** Shingles
+*   **Postherpetic Neuralgia (PHN):** Chronic pain that persists after the shingles rash has resolved
+*   **Ophthalmic Zoster:** Shingles involving the eye
+*   **Disseminated Zoster:** Widespread shingles rash involving multiple dermatomes
+*   **Dermatome:** An area of skin supplied by a single spinal nerve

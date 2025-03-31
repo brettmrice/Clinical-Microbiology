@@ -1,0 +1,115 @@
+# Pathogens & Diseases {-}
+
+This section covers the major players in Mycobacteriology and Nocardia, focusing on the diseases they cause, how they spread, and who's most at risk
+
+## **General Principles** {-}
+
+*   **Opportunistic Infections:** Many Mycobacteria and *Nocardia* are opportunistic, meaning they primarily cause disease in individuals with weakened immune systems or underlying lung conditions
+*   **Slow Growth:** Mycobacteria are slow-growing organisms, which can make diagnosis challenging. *Nocardia* are also slow growers, but often faster than mycobacteria
+*   **Acid-Fast Stain:** Mycobacteria and *Nocardia* are acid-fast, meaning they resist decolorization with acid-alcohol after staining with dyes like carbolfuchsin. This is a key characteristic used for initial identification
+*   **Environmental Reservoirs:** Many of these organisms are found in the environment (soil, water), making complete eradication difficult
+
+## **Major Pathogens and Disease States** {-}
+
+### ***Mycobacterium tuberculosis*** {-}
+
+*   **Etiology:** The causative agent of tuberculosis (TB). *M. tuberculosis* is a slow-growing, aerobic, acid-fast bacillus
+*   **Disease States**
+    *   **Pulmonary TB:** The most common form, affecting the lungs. Symptoms include chronic cough (often with blood-tinged sputum), fever, night sweats, weight loss, and fatigue
+    *   **Extrapulmonary TB:** TB can spread to other parts of the body, including the lymph nodes (scrofula), pleura (pleurisy), bones and joints (skeletal TB), meninges (meningitis), kidneys (renal TB), and other organs
+    *   **Latent TB Infection (LTBI):** The bacteria are present in the body but are inactive and cause no symptoms. Individuals with LTBI are not infectious but can develop active TB later in life
+*   **Epidemiology**
+    *   TB is a global health problem, particularly in developing countries
+    *   Populations at higher risk include:
+    *   People with HIV/AIDS
+    *   People who inject drugs
+    *   People with diabetes, silicosis, or other medical conditions that weaken the immune system
+    *   People in close contact with individuals with active TB
+    *   People who live or work in congregate settings (e.g., prisons, homeless shelters)
+    *   People who have immigrated from areas with high TB rates
+*   **Transmission:** Primarily through airborne droplets produced when people with active pulmonary TB cough, sneeze, speak, or sing. Prolonged close contact is usually required for transmission
+
+### ***Mycobacterium avium complex (MAC)*** {-}
+
+*   **Etiology:** A group of closely related mycobacteria, primarily *Mycobacterium avium* and *Mycobacterium intracellulare*
+*   **Disease States**
+    *   **Pulmonary MAC:** Can cause lung infections, especially in individuals with underlying lung disease (e.g., COPD, bronchiectasis) or immunocompromised individuals. Symptoms can be similar to TB but often milder
+    *   **Disseminated MAC:** Common in individuals with advanced HIV/AIDS. Can affect multiple organs, causing fever, night sweats, weight loss, diarrhea, and abdominal pain
+    *   **Lymphadenitis:** Primarily affects children, causing swollen lymph nodes in the neck
+*   **Epidemiology**
+    *   MAC is found in the environment (soil, water)
+    *   Risk factors include:
+    *   Immunocompromise (e.g., HIV/AIDS, organ transplant recipients)
+    *   Underlying lung disease
+    *   Advanced age
+*   **Transmission:** Primarily through inhalation or ingestion of contaminated water or soil. Person-to-person transmission is rare
+
+### ***Mycobacterium kansasii*** {-}
+
+*   **Etiology:** A slow-growing, acid-fast bacillus
+*   **Disease States**
+    *   **Pulmonary disease:** Similar to TB, but often milder. Can cause cough, fever, night sweats, and weight loss
+    *   **Extrapulmonary infections:** Less common, but can affect the skin, joints, and other organs
+*   **Epidemiology**
+    *   Found in tap water, particularly in the central and southwestern United States
+    *   Risk factors include:
+    *   Immunocompromise
+    *   Underlying lung disease
+*   **Transmission:** Likely through inhalation of contaminated water droplets. Person-to-person transmission is rare
+
+### ***Mycobacterium marinum*** {-}
+
+*   **Etiology:** A slow-growing, acid-fast bacillus
+*   **Disease States**
+    *   **Cutaneous infections:** Causes "fish tank granuloma" or "swimming pool granuloma." Typically presents as a localized skin lesion on the hands or arms
+*   **Epidemiology**
+    *   Found in fresh and saltwater environments, particularly in aquariums and swimming pools
+    *   Risk factors include:
+    *   Exposure to contaminated water
+    *   Minor skin trauma
+*   **Transmission:** Through direct inoculation of the bacteria into the skin, often through cuts or abrasions
+
+### ***Mycobacterium abscessus*** {-}
+
+*   **Etiology:** A rapidly growing mycobacterium
+*   **Disease States**
+    *   **Skin and soft tissue infections:** Can cause localized abscesses, cellulitis, and wound infections, often after cosmetic procedures (e.g., tattoos, piercings) or surgery
+    *   **Pulmonary infections:** Can cause chronic lung infections, particularly in individuals with cystic fibrosis or bronchiectasis
+    *   **Disseminated infections:** Can occur in immunocompromised individuals
+*   **Epidemiology**
+    *   Found in water and soil
+    *   Increasingly recognized as a cause of healthcare-associated infections
+    *   Highly resistant to many antibiotics, making treatment challenging
+*   **Transmission:** Through direct contact with contaminated water or soil, or through contaminated medical devices. Person-to-person transmission is rare
+
+### ***Nocardia spp.*** {-}
+
+*   **Etiology:** A group of aerobic, gram-positive, branching filamentous bacteria that are weakly acid-fast
+*   **Disease States**
+    *   **Pulmonary nocardiosis:** Can cause pneumonia, lung abscesses, and empyema. Symptoms include cough, fever, chest pain, and shortness of breath
+    *   **Cutaneous nocardiosis:** Can cause mycetoma (a chronic, localized infection of the skin and subcutaneous tissue), cellulitis, and skin abscesses
+    *   **Disseminated nocardiosis:** Can spread to other organs, including the brain, causing brain abscesses
+*   **Epidemiology**
+    *   Found in soil
+    *   Risk factors include:
+    *   Immunocompromise
+    *   Chronic lung disease
+    *   Organ transplant recipients
+*   **Transmission:** Primarily through inhalation of dust or soil containing *Nocardia*, or through direct inoculation into the skin
+
+## **Key Terms** {-}
+
+*   **Etiology:** The cause or origin of a disease or abnormal condition
+*   **Epidemiology:** The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems
+*   **Transmission:** The way a disease is spread from one person or source to another
+*   **Acid-Fast:** A physical property of certain bacteria, particularly mycobacteria, that makes them resistant to decolorization by acids during staining procedures
+*   **Granuloma:** A mass of immune cells that forms when the body attempts to wall off substances it perceives as foreign but cannot eliminate
+*   **Rapidly Growing Mycobacteria (RGM):** A group of mycobacteria that grow more quickly than *Mycobacterium tuberculosis*, often within 7 days
+*   **Slowly Growing Mycobacteria (SGM):** Mycobacteria that take longer than 7 days to grow in culture
+*   **Disseminated Infection:** An infection that has spread from a localized area to other parts of the body
+*   **Pulmonary Infection:** An infection of the lungs, such as pneumonia or bronchitis
+*   **Extrapulmonary Infection:** An infection that occurs outside the lungs
+*   **Latent Infection:** An infection in which the pathogen is present in the body but not causing active disease
+*   **Opportunistic Infection:** An infection that occurs more frequently or is more severe in individuals with weakened immune systems
+*   **Mycetoma:** A chronic, localized infection of the skin and subcutaneous tissue, often caused by bacteria or fungi
+*   **Lymphadenitis:** Inflammation of the lymph nodes, often caused by infection
