@@ -1,6 +1,6 @@
 # (PART\*) Serology {-}
 
-# Procedures {-}
+# Analytic Procedures {-}
 
 This section encapsulates the key concepts and procedures within serology, focusing on the body's immune response, antigen-antibody interactions, and specific pathogens. It provides a structured framework for understanding the role of serological testing in diagnosing and monitoring infectious diseases
 

@@ -1,6 +1,6 @@
 #  Serotyping {-}
 
-Serotyping is a crucial component of diagnostic bacteriology, especially in the context of gastrointestinal (GI) infections. It involves identifying specific surface antigens on bacterial cells to differentiate between various strains or serotypes. This process is essential for:
+Serotyping is a crucial component of diagnostic bacteriology, especially in the context of gastrointestinal (GI)   infections. It involves identifying specific surface antigens on bacterial cells to differentiate between various strains or serotypes. This process is essential for:
 
 *   **Epidemiological Investigations:** Tracking outbreaks and identifying the source of infection
 *   **Public Health Surveillance:** Monitoring the prevalence of specific serotypes

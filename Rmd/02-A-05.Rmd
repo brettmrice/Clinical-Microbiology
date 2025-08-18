@@ -1,4 +1,4 @@
-# Colony Morphology & ID{-}
+# Colony Morphology & ID {-}
 
 The ability to recognize and identify major bacterial and fungal pathogens from blood and bone marrow cultures is paramount for timely and accurate diagnosis, crucial for guiding antimicrobial therapy and improving patient outcomes
 

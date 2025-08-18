@@ -1,4 +1,4 @@
-#  Susceptibility Testing {-}
+#  Methods {-}
 
 This section covers three methods for antimicrobial susceptibility testing: microbroth dilution, disk diffusion, and gradient diffusion
 

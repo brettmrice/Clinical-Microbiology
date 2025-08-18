@@ -1,4 +1,4 @@
-# Specimen Sources {-}
+# Sample Sources {-}
 
 Mycobacteria and Nocardia hinges on obtaining the right specimen from the right location. The specimen source (like sputum from the lower respiratory tract, blood, or soft tissue) is the first critical step in accurate diagnosis. The location of the suspected infection dictates the specimen type needed, as this directly impacts the ability to detect these organisms
 

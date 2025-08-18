@@ -1,6 +1,6 @@
 # (PART\*) Virology {-}
 
-# Procedures {-}
+# Analytic Procedures {-}
 
 This section the key concepts within Analytic Procedures for Virology, covering specimen sources, major pathogens and disease states, direct detection methods, and mechanisms of action and resistance for antiviral agents
 

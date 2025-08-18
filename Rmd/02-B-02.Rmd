@@ -1,4 +1,4 @@
-# Colony Morphology & ID{-}
+# Colony Morphology & ID {-}
 
 The rapid and accurate identification of the causative agents of acute meningitis is crucial for initiating prompt and appropriate antimicrobial therapy, which is critical for patient survival and minimizing neurological sequelae. Understanding the colony morphology and the identification methods of the major pathogens associated with this life-threatening condition is essential for clinical microbiology laboratory personnel
 

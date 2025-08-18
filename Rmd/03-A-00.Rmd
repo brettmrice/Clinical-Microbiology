@@ -1,6 +1,6 @@
 # (PART\*) Mycobacteriology {-}
 
-# Procedures {-}
+# Analytic Procedures {-}
 
 This section covers the key analytic procedures in Mycobacteriology and the study of *Nocardia* species
 

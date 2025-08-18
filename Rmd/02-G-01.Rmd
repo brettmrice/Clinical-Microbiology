@@ -1,4 +1,4 @@
-#  Specimen Sources {-}
+#  Sample Sources {-}
 
 This section specifically focuses on the analysis of specimens from skin, soft tissue, and bone
 

@@ -1,6 +1,6 @@
 # (PART\*) Mycology {-}
 
-# Procedures {-}
+# Analytic Procedures {-}
 
 This section covers the key aspects of analytic procedures in mycology, covering specimen sources, major pathogens, identification methods, and antifungal susceptibility testing
 

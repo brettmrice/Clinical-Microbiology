@@ -1,4 +1,4 @@
-# Acid-fast {-}
+# Acid-Fast {-}
 
 This is a crucial staining method in clinical microbiology, especially when we're on the lookout for those sneaky Mycobacteria, like *Mycobacterium tuberculosis*. These guys have a unique cell wall that makes them resistant to traditional staining methods like the Gram stain
 

@@ -1,4 +1,4 @@
-# Specimen Sources {-}
+# Sample Sources {-}
 
 This section covers MRSA/MSSA, VRE, ESBL/CRE screening and pinpoints those crucial specimen sources. This is a critical area in clinical microbiology, and understanding the "where" is just as important as the "how."
 

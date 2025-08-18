@@ -1,4 +1,4 @@
-#  Specimen Sources {-}
+#  Sample Sources {-}
 
 Urine specimen collection is a fundamental aspect of clinical microbiology. By understanding the various specimen sources, collection techniques, and key considerations, you can help ensure accurate and reliable results that aid in the diagnosis and treatment of UTIs. Remember, the goal is to collect a representative sample of the urine with minimal contamination to accurately reflect the presence or absence of bacterial pathogens
 

@@ -1,4 +1,4 @@
-# Cystic fibrosis {-}
+# Cystic Fibrosis {-}
 
 Cystic fibrosis (CF) is a genetic disorder that significantly affects the lungs, making patients highly susceptible to chronic and recurrent lower respiratory tract infections. Identifying the pathogens, along with their antibiotic resistance profiles, is crucial for guiding targeted therapy and managing pulmonary complications. Proper analysis is vital
 

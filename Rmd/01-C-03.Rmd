@@ -1,4 +1,4 @@
-# Modified Acid-fast {-}
+# Modified Acid-Fast {-}
 
 This is a really useful variation of the standard acid-fast stain. The key difference lies in the decolorization step. We use a weaker decolorizer, which allows us to visualize organisms that are only *partially* acid-fast
 

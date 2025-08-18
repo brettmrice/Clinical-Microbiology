@@ -1,4 +1,4 @@
-# Indeginous Surface Organisms {-}
+# Indigenous Surface Organisms {-}
 
 While the body fluids from normally sterile sites are themselves sterile, understanding the indigenous organisms that colonize the mucosal surfaces and skin is crucial for interpreting culture results. These organisms can be potential contaminants or pathogens in certain clinical scenarios. This understanding enables the laboratorian and clinician to differentiate between true infections and contamination, guiding appropriate patient management
 

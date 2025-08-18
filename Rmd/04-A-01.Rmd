@@ -1,4 +1,4 @@
-# Specimen Sources {-}
+# Sample Sources {-}
 
 Specimen sources should be thought of as the very first, *absolutely crucial* step in getting accurate results. If we don't start with the right specimen, collected correctly, everything else we do in the lab is compromised. This section will cover the key principles, different specimen types, and what viruses we typically look for in each
 

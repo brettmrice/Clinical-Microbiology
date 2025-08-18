@@ -1,6 +1,6 @@
 # (PART\*) Parasitology {-}
 
-# Procedures {-}
+# Analytic Procedures {-}
 
 The analytic procedures in parasitology are a toolbox of techniques that help us identify and understand parasitic infections. By choosing the right tools and using them effectively, we can provide accurate diagnoses, guide treatment decisions, and protect public health
 
